@@ -1,5 +1,3 @@
-<div align="left"> <img src="./pictures/cover.png" width = 410 height = 320 /> </div>
-
 #   西方美术史
 
 ##  中西美术对比
