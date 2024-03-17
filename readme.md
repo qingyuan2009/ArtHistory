@@ -263,6 +263,8 @@
 
 ####    人体雕像
 
+如何评价希腊艺术或古典艺术，德意志艺术史家温克尔曼一语评之——**高贵的单纯**，**静穆的伟大**。
+
 屋大維
 
 ![Statue-Augustus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FStatue-Augustus.jpg)
