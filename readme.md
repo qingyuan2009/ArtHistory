@@ -54,6 +54,10 @@
 
 人类迄今为止发现的最早的美术作品源自旧石器时代晚期-新石器时代，证明人类的艺术至少也有三万年的历史。
 这一时期的美术主要的表现形式为洞穴中的壁画和雕塑，内容皆以动物为主，手法写实，造型生动。
+又称“原始美术”，西方人最早的美术作品产生于旧石器时代晚期，即距今3万到1万多年之间。最杰出的原始绘画作品，发现于法国南部和西班牙北部地区的几十处洞窟中，
+其中最著名的是法国的拉斯科洞窟壁画和西班牙的阿尔塔米拉洞窟壁画。所绘形象皆为动物，手法写实，形象生动。迄今为止发现的原始雕刻大多为小型动物雕刻，
+少数人像雕刻中，裸体女性雕像佔主要地位，这些女性雕像夸张女性的生理特点，突出表现女性的乳房、臀部、腹部、大腿等，体现出原始人对于母性和生殖的崇拜意识。
+在奥地利维也纳附近的维伦多夫出土的女性雕像被称为“维伦多夫的维纳斯”，是其中最著名的代表作。史前美术描述的是人的本能与自然之间的关系。
 
 ### 洞窟壁画：
 
@@ -74,6 +78,15 @@
 **维伦多夫的维纳斯**：出土于奥地利维也纳附近的维伦多夫，最古老的艺术品之一，约制作于24000年前。被人们称为“原始的维纳斯”，又叫“母神雕像”。
 
 ![维伦多夫的维纳斯.png](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E7%BB%B4%E4%BC%A6%E5%A4%9A%E5%A4%AB%E7%9A%84%E7%BB%B4%E7%BA%B3%E6%96%AF.png)
+
+女性人物，來自塞爾維亞的溫查文化
+
+![女性人物.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E5%A5%B3%E6%80%A7%E4%BA%BA%E7%89%A9.jpg)
+
+野牛舔昆蟲咬-鹿角雕刻品； 國家史前博物館（萊塞濟德塔亞克-錫勒伊，法國）
+
+![野牛舔昆蟲咬.JPG](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%87%8E%E7%89%9B%E8%88%94%E6%98%86%E8%9F%B2%E5%92%AC.JPG)
+
 
 ### 巨石阵
 
@@ -116,11 +129,20 @@
 
 ![拉美西斯四世的陵墓.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E6%8B%89%E7%BE%8E%E8%A5%BF%E6%96%AF%E5%9B%9B%E4%B8%96%E7%9A%84%E9%99%B5%E5%A2%93.jpg)
 
-
 ### 古希腊
 
 古希腊主要的艺术形式有雕塑、建筑和绘画，绘画主要是花瓶的瓶绘，能流传下来的非常少，流传得更广的主要是雕塑和建筑。
-雕塑中最为出名的有《掷铁饼者》、《米洛斯的维纳斯》，建筑帕特农神庙是希腊艺术王冠上最璀璨的宝石。
+米諾斯文明位於克里特島，被認為是歐洲最古老的文明。
+古希臘的自由民主創造了具有民主思想的建築、雕刻和繪畫作品，其中留存於世的不少健美而優雅的雕刻形象，如《擲鐵餅者》、《米洛斯的维纳斯》等，尤其具有無窮的魅力。
+帕特农神庙即為自古希臘延續到現代的建築。希臘大理石雕塑通常被描述為古典藝術的最高形式。從古希臘的陶器繪畫及陶瓷工藝，可以讓人們對古希臘社會的運作方式有豐富的瞭解。
+
+女蛇神像 -- 米諾斯新宮殿時期
+
+![女蛇神像.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%A5%B3%E8%9B%87%E7%A5%9E%E5%83%8F.jpg)
+
+阿尔特米西昂青铜像（通常也被称为海神波塞冬像）
+
+![阿爾特米西昂青銅像.jpeg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%98%BF%E7%88%BE%E7%89%B9%E7%B1%B3%E8%A5%BF%E6%98%82%E9%9D%92%E9%8A%85%E5%83%8F.jpeg)
 
 **掷铁饼者**-希腊雕刻家米隆约公元前450年雕刻的青铜雕塑，原作丢失
 
@@ -141,10 +163,12 @@
 
 ![断臂维纳斯.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E6%96%AD%E8%87%82%E7%BB%B4%E7%BA%B3%E6%96%AF.jpg)
 
+![Front_views_of_the_Venus_de_Milo.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FFront_views_of_the_Venus_de_Milo.jpg)
+
 **帕特农神庙**，帕特农神庙是雅典卫城主体建筑，为歌颂雅典战胜波斯侵略者的胜利而建。神庙始建于公元前447年，正式启用是在公元前438年，
 借着盛大的帕那太耐节奉献给雅典娜。
 
-![帕特农神庙.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99.jpg)
+![The_Parthenon_from_the_northeast.,_Acropolis_of_Athens_(13896193092).jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FThe_Parthenon_from_the_northeast.%2C_Acropolis_of_Athens_%2813896193092%29.jpg)
 
 **胜利女神像**:在萨莫色雷斯岛上发现破碎成200多块碎片的雕像残片，并运回法国巴黎卢浮宫。经过4年的细心修复，才使该雕塑初见规模，只是头和双臂仍未被发现。
 大多数意见认为是创作于公元前200年左右，马其顿王国安提柯王朝国王德米特里一世在海战中打败托勒密王国的舰队而创作
@@ -186,6 +210,19 @@
 
 ![古希腊瓶画.png](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%93%B6%E7%94%BB.png)
 
+馬雷斯風格喙嘴壺 -- 克里特岛
+
+![馬雷斯風格喙嘴壺.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%A6%AC%E9%9B%B7%E6%96%AF%E9%A2%A8%E6%A0%BC%E5%96%99%E5%98%B4%E5%A3%BA.jpg)
+
+####    建筑
+
+克諾索斯王宮
+
+![克諾索斯王宮.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%85%8B%E8%AB%BE%E7%B4%A2%E6%96%AF%E7%8E%8B%E5%AE%AE.jpg)
+
+邁錫尼獅子門
+
+![邁錫尼獅子門.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%82%81%E9%8C%AB%E5%B0%BC%E7%8D%85%E5%AD%90%E9%96%80.jpg)
 
 ### 古罗马
 
@@ -222,6 +259,7 @@
 
 ![庞贝1.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%BA%9E%E8%B4%9D1.jpg)
 ![庞贝2.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%BA%9E%E8%B4%9D2.jpg)
+![卡里忒斯，庞贝壁画.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8D%A1%E9%87%8C%E5%BF%92%E6%96%AF%EF%BC%8C%E5%BA%9E%E8%B4%9D%E5%A3%81%E7%94%BB.jpg)
 
 ####    人体雕像
 
@@ -233,8 +271,19 @@ Hermes and the Infant Dionysus
 
 ![Hermes and the Infant Dionysus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FHermes%20and%20the%20Infant%20Dionysus.jpg)
 
+燈座上的哲學家銅像
+
+![燈座上的哲學家銅像.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E7%87%88%E5%BA%A7%E4%B8%8A%E7%9A%84%E5%93%B2%E5%AD%B8%E5%AE%B6%E9%8A%85%E5%83%8F.jpg)
+
+飾有有阿波羅、密涅瓦和繆斯女神的石棺；約於西元200年；來自亞壁古道；
+
+![2880px-Sarcofago_con_apollo,_minerva_e_le_muse,_dalla_via_appia,_200_dc_ca._01.jpeg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F2880px-Sarcofago_con_apollo%2C_minerva_e_le_muse%2C_dalla_via_appia%2C_200_dc_ca._01.jpeg)
+
 ##  中世纪 -- 基督教艺术
 
+中世纪是指公元5世纪（以公元476年西罗马帝国崩溃作为标志）到15世纪（意大利文艺复兴的黎明），它标志着西方进入了基督教时代。受基督教制约，中世纪美术不注重客观世界的真实描写，
+而强调所谓精神世界的表现。建筑的高度发展是中世纪美术最伟大的成就。拜占庭式教堂、奧圖羅馬式教堂和法蘭克歌德式教堂，各具艺术上的创造性，並与宗教建筑相结合，
+雕刻、镶嵌画和壁画也取得了一定成就。
 公元313年，君士坦丁大帝颁布米兰敕令，承认基督教为合法且自由的宗教。之后罗马分为东西罗马帝国。
 中世纪是指公元5世纪（以公元476年西罗马帝国灭亡作为标志）到15世纪（意大利文艺复兴的黎明），它标志着西方进入了基督教时代。
 受基督教制约，中世纪美术不注重客观世界的真实描写，而强调所谓精神世界的表现。古希腊罗马艺术被焚毁。被成为黑暗的时代。
@@ -300,11 +349,24 @@ Hermes and the Infant Dionysus
 
 ![马太福音扉页.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E9%A9%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3%E6%89%89%E9%A1%B5.jpeg)
 
+福音經文；約1100年；羊皮紙上的蛋彩畫、黃金和墨水，以及皮革裝訂
+
+![福音經文.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%A6%8F%E9%9F%B3%E7%B6%93%E6%96%87.jpg)
+
+亞美尼亞泥金裝飾手抄本
+
+![亞美尼亞泥金裝飾手抄本.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC.jpg)
+
+
 ### 罗马式 （10-12世纪）
 
     诺曼底人入侵英国带了的诺曼底风格 -- 罗马式艺术，10世纪-12世纪流行的一种以建筑为主体的艺术形式。建筑多为教堂和修道院，以厚重坚实的墙壁、小窗、
     高大雄伟的塔楼和半圆形拱穹(筒状拱)结构为主要特征。著名的建筑有意大利的比萨大教堂、德国的沃尔姆斯大教堂等。出现在教堂外部墙壁上的雕刻多取材于《圣经》故事，
     并以非写实性和框架法为特点。
+
+瑪麗亞拉赫修道院（德國安德納附近）最具標誌性的羅馬式教堂之一
+
+![瑪麗亞拉赫修道院.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%91%AA%E9%BA%97%E4%BA%9E%E6%8B%89%E8%B5%AB%E4%BF%AE%E9%81%93%E9%99%A2.jpg)
 
 **比萨大教堂**
 
@@ -349,6 +411,10 @@ Hermes and the Infant Dionysus
 壁面被减少到最低限度，因此，壁画发展受到了限制。
 
 ![玻璃镶嵌画.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%8E%BB%E7%92%83%E9%95%B6%E5%B5%8C%E7%94%BB.jpg)
+
+進入耶路撒冷
+
+![Entrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2FEntrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg)
 
 ##  文艺复兴 （the Renaissance）
 
@@ -876,6 +942,26 @@ Hermes and the Infant Dionysus
 ![通天塔.jpg](pictures%2F%E5%8B%83%E9%B2%81%E7%9B%96%E5%B0%94%2F%E9%80%9A%E5%A4%A9%E5%A1%94.jpg)
 
 
+####    波希
+
+耶罗尼米斯·博斯，荷蘭十五至十六世紀作品豐富的畫家。他的多數畫作描繪罪惡與人類道德的沉淪。博斯以惡魔、半人半獸甚至是機械的形象來表現人的邪惡。他的圖畫複雜，
+有高度的原創性、想像力，並大量使用各式的象徵與符號，其中有些甚至在當代也非常晦澀難解。博斯被認為是20世紀的超現實主義的啟發者之一。
+
+![Jheronimus_Bosch_(cropped).jpg](pictures%2F%E6%B3%A2%E5%B8%8C%2FJheronimus_Bosch_%28cropped%29.jpg)
+
+人間樂園
+
+    博斯製作了多幅三联畫──繪在三片接合起來的木質屏風上的畫作，其中最有名的是《人间乐园》（亦作《塵世樂園》）。
+    這件三連畫的左幅，描繪了樂園中的亞當與夏娃與眾多奇妙的生物；中幅以大量裸身的人體、巨大的水果和鳥類描寫人間的樂園；右幅則是地獄的情境，
+    充斥著大量造型奇幻的獄卒，以各式怪異的酷刑逞罰罪人。三件畫作合起時，觀賞者可見上帝創造地球的灰色裝飾畫。
+
+![The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg](pictures%2F%E6%B3%A2%E5%B8%8C%2FThe_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg)
+
+地獄
+
+![地獄.jpg](pictures%2F%E6%B3%A2%E5%B8%8C%2F%E5%9C%B0%E7%8D%84.jpg)
+
+
 ### 德国文艺复兴
 
 由于印刷术的发展，德国的版画非常发达。
@@ -1054,6 +1140,8 @@ Hermes and the Infant Dionysus
 
 ![圣特雷莎的狂喜.png](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E5%9C%A3%E7%89%B9%E9%9B%B7%E8%8E%8E%E7%9A%84%E7%8B%82%E5%96%9C.png)
 
+![1280px-Ecstasy_of_St._Teresa_HDR.jpg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F1280px-Ecstasy_of_St._Teresa_HDR.jpg)
+
 大卫
 
 ![大卫.png](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E5%A4%A7%E5%8D%AB.png)
@@ -1068,6 +1156,10 @@ Hermes and the Infant Dionysus
     象征美洲普拉特河的老人是个黑人形象，他一手撑地，一手高高挥动，所坐的岩石上有散落的金币。
 
 ![四河喷泉.jpg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E5%9B%9B%E6%B2%B3%E5%96%B7%E6%B3%89.jpg)
+
+路易十四的半身像
+
+![LouisXIV-Bernini.jpg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2FLouisXIV-Bernini.jpg)
 
 ####    鲁本斯 - 这个时代最伟大的艺术家， 对于放纵的生命力的赞颂
 
@@ -1098,6 +1190,10 @@ Hermes and the Infant Dionysus
 
 ![玛丽·德·美第奇抵达马赛.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E7%8E%9B%E4%B8%BD%C2%B7%E5%BE%B7%C2%B7%E7%BE%8E%E7%AC%AC%E5%A5%87%E6%8A%B5%E8%BE%BE%E9%A9%AC%E8%B5%9B.jpg)
 
+The Four Continents
+
+![The Four Continents.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2FThe%20Four%20Continents.jpg)
+
 女子肖像
 
 ![女子肖像.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E5%A5%B3%E5%AD%90%E8%82%96%E5%83%8F.jpg)
@@ -1108,6 +1204,31 @@ Hermes and the Infant Dionysus
     把一种颜色单独与纯亚麻油调和形成稀薄的透明颜色，然后直接作画，通过阳光照射在视觉上达到完整的艺术效果。在刻画主体物和背景暗部时，
     不加白色或很粉的颜色，只用被油稀释的颜料作画，每一次必须等这层颜料干透之后才能进行下一次上色。由于颜料稀释后很薄，
     所以下层的颜色可以透出来，与上层的颜色形成微妙的色彩变化。这种画法非常适合刻画人物的肌肤，能完美的表现出肌肤的质感。
+
+####    范戴克
+
+安东尼·范戴克爵士（1599年3月22日—1641年12月9日），比利时弗拉芒族画家，是英格兰国王查理一世时期的首席宫廷画家。查理一世及其皇族的许多著名画像都是由范戴克创作的。
+他的画像轻松高贵的风格，影响了英国肖像画将近150年。他还创作了许多圣经故事和神话题材的作品，并且改革了水彩画和蚀刻版画的技法。
+
+![Anthony_van_Dyck_-_Self-Portrait_(Academy_of_Fine_Arts_Vienna)_(cropped_to_painted_surface).jpg](pictures%2F%E8%8C%83%E6%88%B4%E5%85%8B%2FAnthony_van_Dyck_-_Self-Portrait_%28Academy_of_Fine_Arts_Vienna%29_%28cropped_to_painted_surface%29.jpg)
+
+查理一世狩猎像
+
+    范戴克在英国绘制了许多幅国王和王后以及他们孩子们的画像，许多画像都作为外交礼品送给英国的盟友们，他大约为查理一世画了有40幅像，为王后画了30幅左右，
+    为斯坦福伯爵画了9幅，还有为其他大臣们画的。
+    查理一世是英国皇室中最大方和热情的艺术品收藏家，认为艺术是提高皇室奢华的一种方式，1628年他强迫买进意大利曼图亚公爵的丰富的收藏品，
+    而且自从1625年他即位开始就试图引进国外著名的画家，尤其看好鲁本斯，1630年，鲁本斯被邀请到英国待了9个月，受到盛情款待，并被授予骑士称号。
+
+![查理一世狩猎像.jpg](pictures%2F%E8%8C%83%E6%88%B4%E5%85%8B%2F%E6%9F%A5%E7%90%86%E4%B8%80%E4%B8%96%E7%8B%A9%E7%8C%8E%E5%83%8F.jpg)
+
+斯图亚特勋爵兄弟
+
+![Sir-Anthony-van-Dyck-Lord-John-Stuart-and-His-Brother-Lord-Bernard-Stuart.jpg](pictures%2F%E8%8C%83%E6%88%B4%E5%85%8B%2FSir-Anthony-van-Dyck-Lord-John-Stuart-and-His-Brother-Lord-Bernard-Stuart.jpg)
+
+参孙和大利拉
+
+![Anton_van_Dyck_-_Samson_and_Delilah_-_Google_Art_Project.jpg](pictures%2F%E8%8C%83%E6%88%B4%E5%85%8B%2FAnton_van_Dyck_-_Samson_and_Delilah_-_Google_Art_Project.jpg)
+
 
 ####    委拉斯开兹
 
@@ -1258,11 +1379,21 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 ![代尔夫特风景.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E4%BB%A3%E5%B0%94%E5%A4%AB%E7%89%B9%E9%A3%8E%E6%99%AF.jpg)
 
+持天平的女人
+
+![持天平的女人.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E6%8C%81%E5%A4%A9%E5%B9%B3%E7%9A%84%E5%A5%B3%E4%BA%BA.jpg)
+
+窗边读信的少女
+
+![窗边读信的少女.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%AA%97%E8%BE%B9%E8%AF%BB%E4%BF%A1%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
+
 ###    巴洛克建筑
 
 凡尔赛宫
 
 ![Château_de_Versailles,_cour_Royale.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCh%C3%A2teau_de_Versailles%2C_cour_Royale.jpg)
+
+![Cour_de_Marbre_du_Château_de_Versailles_October_5,_2011.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)
 
 ![2560px-Chateau_Versailles_Galerie_des_Glaces.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F2560px-Chateau_Versailles_Galerie_des_Glaces.jpg)
 
@@ -1281,8 +1412,36 @@ Portrait of Pope Innocent X  教皇Innocent十世
 意大利文艺复兴后期，美术在出现了明显衰落现象的同时，又受到巴洛克艺术的冲击。为了捍卫文艺复兴已有的艺术成果，反对巴洛克艺术对古典艺术的取代以及世俗化的倾向，
 在官方的支持下欧洲出现了许多“学院”， 其中最具影响的是卡拉奇兄弟建立的波伦亚学院——产生最早的美术学院。
 
+####    卡拉奇
+
+安尼巴莱·卡拉奇（1560年11月3日—1609年7月15日），意大利画家，巴洛克绘画的代表人物之一。他与其兄阿戈斯蒂诺·卡拉奇、堂兄卢多维科·卡拉奇合称为卡拉奇兄弟，
+他们共同创办了博洛尼亚卡拉奇学院（Accademia dei Carracci）
+
+![Annibale_Carracci_-_Self-portrait.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E5%A5%87%2FAnnibale_Carracci_-_Self-portrait.jpg)
+
+主啊,你往何处去?
+
+    这幅画描绘了伪经 《彼得行传》中的一个场景：为免被钉十字架，伯多禄逃离罗马，在亚壁古道上，遇到背负十字架的基督向他显现。伯多禄问耶稣：“主啊,你往何处去?”
+    耶稣回答说，“我要去罗马,再被钉死在十字架上”。于是伯多禄又回到了罗马。
+
+![主啊,你往何处去? .jpg](pictures%2F%E5%8D%A1%E6%8B%89%E5%A5%87%2F%E4%B8%BB%E5%95%8A%2C%E4%BD%A0%E5%BE%80%E4%BD%95%E5%A4%84%E5%8E%BB%3F%20.jpg)
+
+众神之爱
+
+![众神之爱.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E5%A5%87%2F%E4%BC%97%E7%A5%9E%E4%B9%8B%E7%88%B1.jpg)
+
+### 法国古典主义
+
 ####    普桑
 
+尼古拉·普桑（1594年6月15日—1665年11月19日）17世紀法國巴洛克時期重要畫家，但属于古典主义画派。以《阿爾卡迪的牧人》為其代表作；
+《摩西的发现》是其古典主义的代表作。常被簡稱做普桑。普桑在1665年死後，法國的繪畫界為推崇他研究文藝復興時間繪畫的專注，出現了有「普桑主義」之稱的派別。
+
+![Nicolas_Poussin_078.jpg](pictures%2F%E6%99%AE%E6%A1%91%2FNicolas_Poussin_078.jpg)
+
+阿爾卡迪的牧人
+
+![阿爾卡迪的牧人.jpg](pictures%2F%E6%99%AE%E6%A1%91%2F%E9%98%BF%E7%88%BE%E5%8D%A1%E8%BF%AA%E7%9A%84%E7%89%A7%E4%BA%BA.jpg)
 
 ##  18世纪美术
 
@@ -1303,6 +1462,10 @@ Portrait of Pope Innocent X  教皇Innocent十世
 德国奥古斯都堡
 
 ![奥古斯都堡.jpeg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD%E5%A0%A1.jpeg)
+
+奧地利威爾赫林修道院
+
+![奧地利威爾赫林修道院.jpg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E5%A5%A7%E5%9C%B0%E5%88%A9%E5%A8%81%E7%88%BE%E8%B5%AB%E6%9E%97%E4%BF%AE%E9%81%93%E9%99%A2.jpg)
 
 ![洛可可1.png](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF1.png)
 ![洛可可2.jpg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF2.jpg)
@@ -1328,7 +1491,8 @@ Portrait of Pope Innocent X  教皇Innocent十世
 蓬巴杜夫人
 
 ![蓬巴杜夫人-布歇.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E8%93%AC%E5%B7%B4%E6%9D%9C%E5%A4%AB%E4%BA%BA-%E5%B8%83%E6%AD%87.jpg)
-![蓬巴杜夫人2-布歇.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E8%93%AC%E5%B7%B4%E6%9D%9C%E5%A4%AB%E4%BA%BA2-%E5%B8%83%E6%AD%87.jpg)
+
+![龐巴度夫人.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E9%BE%90%E5%B7%B4%E5%BA%A6%E5%A4%AB%E4%BA%BA.jpg)
 
 #### 弗拉贡纳尔
 
@@ -1364,11 +1528,8 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 ![](pictures/弗拉贡纳尔/读书少女-弗拉贡纳尔.jpg)
 
-###     启蒙主义代表
 
-####    夏尔丹
-
-### 新古典主义
+### 启蒙时期的新古典主义
 
 新古典主义兴起于18世纪下半叶的法国，并迅速在欧美地区扩展。新古典主义，一方面起于对巴洛克和洛可可艺术繁琐的装饰的厌恶，一方面由于罗马庞贝遗址的发掘，
 希望以重振古希腊、古罗马的艺术为信念。新古典主义以复兴古希腊罗马艺术为旗号，艺术家刻意从风格与题材模仿古代艺术。
@@ -1492,6 +1653,38 @@ Portrait of Pope Innocent X  教皇Innocent十世
     1. 激越的感情
     2. 极端个性化的描写
 
+####    傑利柯
+
+讓-路易·安德烈·泰奧多爾·傑利柯（1791年9月26日—1824年1月26日）是法國浪漫主義畫派的先驅，對浪漫主義畫派和現實主義畫派的發展有重要影響。
+
+![Horace_Vernet,_Jean-Louis-André-Théodore_Gericault,_probably_1822_or_1823,_1998.84,_MET.jpg](pictures%2F%E6%9D%B0%E5%88%A9%E6%9F%AF%2FHorace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg)
+
+梅杜薩之筏
+
+    美杜莎之筏是法國浪漫主義畫家西奥多·杰利柯（1791─1824）在1818年─1819年間畫的油畫。这幅畫是在他27歲時畫的，之後成为法國浪漫主義的標誌。
+    这幅畫描绘了法國海軍的巡防艦美杜莎号沉没之后生還者的求生場面。这場海難發生于1816年7月2日毛里塔尼亞附近的海域，海難當時至少有147人生還，起先是在一隻自製的木筏上面漂流，
+    但是13日后被救起时仅有15人倖存，期間他们缺少食物和饮水，甚至有人吃尸体来维持生命。導致这場海難的原因很大程度上是由于美杜莎号的船長失職無能，
+    而这位船長是法國復辟王朝任命的，因此这一事件後來變成國際醜聞。不過實際上，任命貴族做船長是法國海軍內部的慣例，當時的路易十八無權任命船長，也並無直接參與入这一事件。
+    在選題上，畫家之所以选择这個發生了没有几年的著名悲劇，是想引发大眾輿論關注，來發展他的绘画事業。在正式成画前，他做了大量對这次海難的調查，
+    同時在绘畫前亦畫了多次草稿。他採訪了其中兩個倖存者，复制了木筏的精細模型，前往醫院、太平間，去觀察死屍的色澤、紋理和人死時的樣子。正如畫家所料，
+    这幅畫在1819年在巴黎展覽第一次展出時，就引起了很大關注，褒贬不一。尽管如此，这幅畫仍搏得國際名聲，今日被认为是法國绘画史上早期浪漫主義的開路先鋒。
+    雖然《美杜莎之筏》有傳統歷史畫的元素，不過其選題引人關注、畫風戲劇，这都打破了當時新古典主義的教條約束。这幅畫在第一次亮相後幾乎立即爲畫家贏得廣泛注意，
+    之後这幅畫在倫敦展出。其影響可以在之後的欧仁·德拉克罗瓦、约瑟夫·玛罗德·威廉·特纳、居斯塔夫·库尔贝、爱德华·马奈等的畫作中明顯見到。在畫家32歲死后，这幅画成为卢浮宫的收藏品。
+
+![JEAN_LOUIS_THÉODORE_GÉRICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg](pictures%2F%E6%9D%B0%E5%88%A9%E6%9F%AF%2FJEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg)
+
+皇家衛隊的騎兵軍官
+
+![皇家衛隊的騎兵軍官.jpg](pictures%2F%E6%9D%B0%E5%88%A9%E6%9F%AF%2F%E7%9A%87%E5%AE%B6%E8%A1%9B%E9%9A%8A%E7%9A%84%E9%A8%8E%E5%85%B5%E8%BB%8D%E5%AE%98.jpg)
+
+艾普森的賽馬
+
+![艾普森的賽馬.jpg](pictures%2F%E6%9D%B0%E5%88%A9%E6%9F%AF%2F%E8%89%BE%E6%99%AE%E6%A3%AE%E7%9A%84%E8%B3%BD%E9%A6%AC.jpg)
+
+患嫉妒偏執狂的女精神病患者
+
+![患嫉妒偏執狂的女精神病患者.jpg](pictures%2F%E6%9D%B0%E5%88%A9%E6%9F%AF%2F%E6%82%A3%E5%AB%89%E5%A6%92%E5%81%8F%E5%9F%B7%E7%8B%82%E7%9A%84%E5%A5%B3%E7%B2%BE%E7%A5%9E%E7%97%85%E6%82%A3%E8%80%85.jpg)
+
 ####    戈雅  -- 绘画上的莎士比亚
 
 弗朗西斯科·何塞·德·戈雅-卢西恩特斯（Francisco José de Goya y Lucientes，1746——1828），
@@ -1511,6 +1704,20 @@ Portrait of Pope Innocent X  教皇Innocent十世
 查理四世的一家
 
 ![La_familia_de_Carlos_IV,_Francisco_de_Goya.jpg](pictures%2F%E6%88%88%E9%9B%85%2FLa_familia_de_Carlos_IV%2C_Francisco_de_Goya.jpg)
+
+裸体的马哈和穿衣的马哈
+
+    这两幅"玛哈"是戈雅的独辟蹊径之作，因为在西班牙绘画史上极少有裸女像，它是不为西班牙宗教裁判所容忍的。不仅在绘画上，就是工艺装饰，直到镜子和家具上面，
+    都不许可有裸女形象出现。17世纪西班牙绘画大师委拉士开兹之敢于画出《镜前的维纳斯》，乃是在国王的庇护下，所以戈雅这两幅画中的裸体女性油画，也许是绝无仅有的。
+
+![Goya_Maja_naga2.jpg](pictures%2F%E6%88%88%E9%9B%85%2FGoya_Maja_naga2.jpg)
+![穿衣的马哈.jpg](pictures%2F%E6%88%88%E9%9B%85%2F%E7%A9%BF%E8%A1%A3%E7%9A%84%E9%A9%AC%E5%93%88.jpg)
+
+农神吞噬其子
+
+    该作是戈雅晚年所绘制的《黑色绘画》系列中最为著名的一幅，以阴暗恐怖而闻名。画中是罗马神话中的农神萨图尔努斯为了防止儿子们夺权斗争而将他们全部吃掉。
+
+![农神吞噬其子.jpg](pictures%2F%E6%88%88%E9%9B%85%2F%E5%86%9C%E7%A5%9E%E5%90%9E%E5%99%AC%E5%85%B6%E5%AD%90.jpg)
 
 ####    德拉克洛瓦 -- 浪漫主义最伟大的画家， 色彩大师
 
@@ -1694,6 +1901,10 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 母亲的关怀
 
 ![母亲的关怀.jpeg](pictures%2F%E7%B1%B3%E5%8B%92%2F%E6%AF%8D%E4%BA%B2%E7%9A%84%E5%85%B3%E6%80%80.jpeg)
+
+晚禱
+
+![晚禱.jpg](pictures%2F%E7%B1%B3%E5%8B%92%2F%E6%99%9A%E7%A6%B1.jpg)
 
 ####    杜米埃
 
@@ -1891,6 +2102,28 @@ The Evening Star
 日本桥
 
 ![1920px-Bridge_Over_a_Pond_of_Water_Lilies,_Claude_Monet_1899.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2F1920px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg)
+
+####    罗丹
+
+奥古斯特·罗丹（1840年11月12日—1917年11月17日），全名为弗朗索瓦-奥古斯特-雷尼·罗丹（François-Auguste-René Rodin），是一位法國雕塑家，通常被認為是現代雕塑的奠基者。
+他在過去接受過傳統教育，對創作採取類似工匠的方法進行承傳，羅丹擁有獨特的能力，可以在粘土中模擬複雜、湍流和深度凹陷的表面。
+並以《沉思者》、《巴爾扎克紀念碑》、《吻》、《加萊義民》和《地獄之門》等雕塑而聞名於世。
+
+沉思者
+
+![沉思者.jpg](pictures%2F%E7%BD%97%E4%B8%B9%2F%E6%B2%89%E6%80%9D%E8%80%85.jpg)
+
+![地狱之门.jpg](pictures%2F%E7%BD%97%E4%B8%B9%2F%E5%9C%B0%E7%8B%B1%E4%B9%8B%E9%97%A8.jpg)
+
+加萊義民
+
+    該雕塑旨在紀念百年戰爭期間的一次事件，當時法國加萊在英吉利海峡上經歷了長達十一個月的圍城後向英軍投降，該城市於1884年委託羅丹創作這座雕塑，最終於1889年完成。
+
+![加萊義民.jpg](pictures%2F%E7%BD%97%E4%B8%B9%2F%E5%8A%A0%E8%90%8A%E7%BE%A9%E6%B0%91.jpg)
+
+青铜时代
+
+![青铜时代.jpg](pictures%2F%E7%BD%97%E4%B8%B9%2F%E9%9D%92%E9%93%9C%E6%97%B6%E4%BB%A3.jpg)
 
 ####    德加
 
@@ -2214,6 +2447,10 @@ The Papal Palace, Avignon 阿维尼翁教皇宫
 也使得其成為現代藝術中最重要的人物之一。
 
 ![Portrait_of_Henri_Matisse_1933_May_20.jpg](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2FPortrait_of_Henri_Matisse_1933_May_20.jpg)
+
+红色的和谐
+
+![红色的和谐.webp](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2F%E7%BA%A2%E8%89%B2%E7%9A%84%E5%92%8C%E8%B0%90.webp)
 
 打开的窗户
 
@@ -2634,6 +2871,8 @@ Just what is it that makes today’s homes so different?
 ![伟大的美国裸体48号.jpg](pictures%2F%E6%B2%83%E9%9C%8D%E5%B0%94%2F%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%A3%B8%E4%BD%9348%E5%8F%B7.jpg)
 
 ### 超级写实主义
+
+    而70年代兴起的超级写实主义（或称照相写实主义）运动，其主要特征是利用摄影成果，进行客观的复制和逼真的描绘。代表画家有克洛斯、佩尔斯坦，雕塑家中，安德烈、汉森最为著名。
 
 ####    冷军
 
