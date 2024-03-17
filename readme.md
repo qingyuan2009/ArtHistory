@@ -57,7 +57,7 @@
 
 ### 洞窟壁画：
 
-法国的**拉斯科洞窟**壁画：距今15517±800年，约有100多幅，其中以马最多，还有牛、驯鹿、洞熊、狼、鸟等，也有一些想像的动物和人像。
+法国的**拉斯科洞窟**壁画：距今15517±800年，约有600多幅，其中以马最多，还有牛、驯鹿、洞熊、狼、鸟等，也有一些想像的动物和人像。
 使用的颜料是木炭及各种矿砂，工具则是蕨草和羽毛等。
 
 ![拉斯科洞窟壁画1.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E6%8B%89%E6%96%AF%E7%A7%91%E6%B4%9E%E7%AA%9F%E5%A3%81%E7%94%BB1.jpg)
@@ -68,8 +68,6 @@
 ![阿尔塔米拉洞窟1.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%98%BF%E5%B0%94%E5%A1%94%E7%B1%B3%E6%8B%89%E6%B4%9E%E7%AA%9F1.jpg)
 ![阿尔塔米拉洞窟2.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%98%BF%E5%B0%94%E5%A1%94%E7%B1%B3%E6%8B%89%E6%B4%9E%E7%AA%9F2.jpg)
 ![阿尔塔米拉洞窟3.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%98%BF%E5%B0%94%E5%A1%94%E7%B1%B3%E6%8B%89%E6%B4%9E%E7%AA%9F3.jpg)
-
-### 岩画：
 
 ### 雕像：
 
@@ -108,10 +106,15 @@
 
 ####    金字塔
 
+![金字塔.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E9%87%91%E5%AD%97%E5%A1%94.jpg)
+
 ![狮身人面.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E7%8B%AE%E8%BA%AB%E4%BA%BA%E9%9D%A2.jpg)
 
+####    石棺画
 
-石棺画
+![2017_-_Milano_-_Museo_egizio_-_Stele_funeraria_(sec_VII-IV_a.C.)_-_Foto_Giovanni_Dall'Orto_-_14-Feb-2008.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F2017_-_Milano_-_Museo_egizio_-_Stele_funeraria_%28sec_VII-IV_a.C.%29_-_Foto_Giovanni_Dall%27Orto_-_14-Feb-2008.jpg)
+
+![拉美西斯四世的陵墓.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E6%8B%89%E7%BE%8E%E8%A5%BF%E6%96%AF%E5%9B%9B%E4%B8%96%E7%9A%84%E9%99%B5%E5%A2%93.jpg)
 
 
 ### 古希腊
@@ -167,6 +170,16 @@
 
 ![拉孔奥.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E6%8B%89%E5%AD%94%E5%A5%A5.jpg)
 
+德尔斐的驾车人
+
+    这座雕像发现于希腊德尔斐，是为了纪念西西里岛的僭主波利扎罗斯和代表它的战车在公元前478年或公元前474年的两次皮提亚运动会中取得的某次胜利。
+    作为泛希腊运动会的一种，皮提亚运动会在德尔斐举行，以纪念阿波罗的皮提亚。也有人认为，这座雕像实际上是为了纪念波利扎洛斯的兄弟希伦在同一场比赛中的胜利，
+    是他在奥运会上获胜后的还愿行为。
+
+![AurigaDelfi.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FAurigaDelfi.jpg)
+
+![Auriga_de_Delfos_(474_aC),_Museo_Arqueològic_de_Delfos._Detall_del_cap.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FAuriga_de_Delfos_%28474_aC%29%2C_Museo_Arqueol%C3%B2gic_de_Delfos._Detall_del_cap.jpg)
+
 ####    瓶绘
 
 古希腊瓶画，是希腊陶器上的装饰画，依附于陶器而得以流传下来，代表了希腊绘画风貌。
@@ -210,7 +223,15 @@
 ![庞贝1.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%BA%9E%E8%B4%9D1.jpg)
 ![庞贝2.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%BA%9E%E8%B4%9D2.jpg)
 
-人体雕像
+####    人体雕像
+
+屋大維
+
+![Statue-Augustus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FStatue-Augustus.jpg)
+
+Hermes and the Infant Dionysus
+
+![Hermes and the Infant Dionysus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FHermes%20and%20the%20Infant%20Dionysus.jpg)
 
 ##  中世纪 -- 基督教艺术
 
@@ -230,6 +251,10 @@
 **罗马圣母大殿**
 
 ![罗马圣母大殿.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%BD%97%E9%A9%AC%E5%9C%A3%E6%AF%8D%E5%A4%A7%E6%AE%BF.jpeg)
+
+克拉塞的聖亞坡理納聖殿 Basilica di Sant'Apollinare in Classe
+
+![basilica-di-sant-apollinare-in-classe-ravenna-emilia-romagna-4_1_orig.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2Fbasilica-di-sant-apollinare-in-classe-ravenna-emilia-romagna-4_1_orig.jpg)
 
 ### 拜占庭式 （5-15世纪）
 
@@ -344,9 +369,16 @@
 #### 乔托
     
     宗教世俗化，和但丁齐名。老师--奇马布埃。 真正的“湿壁画”是从意大利奇马布埃（Cimabue）时期开始的，十四世纪伟大的艺术家乔托（Giotto）,
-    第一次以传统正规规则使用湿壁画技法制作画面，并在材料和绘画技巧上加以更正，使之完美。
+    第一次以传统正规规则使用湿壁画技法制作画面，并在材料和绘画技巧上加以更正，使之完美。被認為是義大利文藝復興時期的開創者，被譽爲“歐洲繪畫之父”、"西方繪畫之父"。
 
 ![乔托.jpeg](pictures%2F%E4%B9%94%E6%89%98%2F%E4%B9%94%E6%89%98.jpeg)
+
+圣方济各之死
+
+    1300年代初期，喬托陸續畫了相當多的宗教壁畫，如阿西西教堂裡聖方濟的宗教故事壁畫；佛罗伦萨圣十字圣殿巴尔第小圣堂中的宗教故事壁畫（約為1319年－1328年畫成）。
+    其中聖方濟的宗教壁畫在西方繪畫史上占有極重要的地位，史家以此認為喬托是第一個企圖畫出有透視感和深度空間的畫家。
+
+![圣方济各之死.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2F%E5%9C%A3%E6%96%B9%E6%B5%8E%E5%90%84%E4%B9%8B%E6%AD%BB.jpg)
 
 **哀悼基督**：自然的表情，立体感，明暗关系，透视感，自然风景
 
@@ -364,6 +396,9 @@
 
 #### 马萨乔 （透视）
 
+    马萨乔（Masaccio，1401年12月21日—1428年秋），原名托马索·德·塞尔·乔凡尼·德·西蒙（Tommaso di Ser Giovanni di Simone），是15世纪 意大利文艺复兴时期伟大的画家，
+    他的壁画是人文主义第一个最早的里程碑，他也是中世紀以後第一位使用透视法的画家，在他的画中首次引入了灭点，他画中的人物出现了历史上从没有见过的自然的身姿。
+
 ![马萨乔.jpeg](pictures%2F%E9%A9%AC%E8%90%A8%E4%B9%94%2F%E9%A9%AC%E8%90%A8%E4%B9%94.jpeg)
 
 逐出伊甸园
@@ -372,7 +407,7 @@
     这让上帝感到很生气。画面中大胆地展现了两个人裸露的身体，亚当痛苦地垂着头并用手捂着自己的面孔，夏娃则因为感到羞耻而遮住了自己的隐私部位，绝望地仰面哭喊。
     在他们头顶，天使手执利剑，代表上帝的意志执行惩罚。
 
-![逐出伊甸园.webp](pictures%2F%E9%A9%AC%E8%90%A8%E4%B9%94%2F%E9%80%90%E5%87%BA%E4%BC%8A%E7%94%B8%E5%9B%AD.webp)
+![逐出伊甸园.jpg](pictures%2F%E9%A9%AC%E8%90%A8%E4%B9%94%2F%E9%80%90%E5%87%BA%E4%BC%8A%E7%94%B8%E5%9B%AD.jpg)
 
 **圣三位一体**
 
@@ -442,13 +477,21 @@
 
 #### 波提切利
 
+    桑德罗·波提切利（Sandro Botticelli，1445年3月1日—1510年5月17日），原名亚历桑德罗·菲利佩皮（Alessandro Filipepi）是欧洲文艺复兴早期的佛罗伦萨画派艺术家
+
+![Sandro_Botticelli.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2FSandro_Botticelli.jpg)
+
 维纳斯的诞生
 
-![维纳斯的诞生-波提切利.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2F%E7%BB%B4%E7%BA%B3%E6%96%AF%E7%9A%84%E8%AF%9E%E7%94%9F-%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9.jpg)
+    1485年完成的《维纳斯的诞生》是波提切利的另一幅杰作，表现的是希腊神话中代表爱与美的女神维纳斯从大海中诞生的场景，这幅画的绘画风格在当时颇为与众不同，
+    不强调明暗法来表现人体造型，而更强调轮廓线，使得人体有浅浮雕的感觉，而且极适合装饰作用。画面中的女神肌肤洁白，金色的长发飘逸，无愧为是完美的化身；
+    但脸上却又挂有淡淡的忧愁、迷惘和困惑。
+
+![Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2FSandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
 
 春
 
-![春-波提切利.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2F%E6%98%A5-%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9.jpg)
+![Botticelli-primavera.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2FBotticelli-primavera.jpg)
 
 ####    达芬奇 （Leonardo da Vinci）
 
@@ -896,11 +939,22 @@
 
 ![两大使.jpeg](pictures%2F%E8%8D%B7%E5%B0%94%E6%8B%9C%E5%9B%A0%2F%E4%B8%A4%E5%A4%A7%E4%BD%BF.jpeg)
 
+死神之舞
+
+![death-046.jpg](pictures%2F%E8%8D%B7%E5%B0%94%E6%8B%9C%E5%9B%A0%2Fdeath-046.jpg)
+
+
 ####    格吕内瓦尔德 -- 献身祭坛的不朽画家
 
-    格吕内瓦尔德是德国人文主义和宗教改革时期仅次于丢勒的伟大画家，是极富表现力的后期哥特式绘画的杰出代表。
+    格吕内瓦尔德是德国人文主义和宗教改革时期仅次于丢勒的伟大画家，是极富表现力的后期哥特式绘画的杰出代表。他常用扭曲夸张的表现手法，其风格影响了20世纪的表现主义。
+
+伊森海姆祭坛画
 
 ![伊森海姆祭坛画.jpeg](pictures%2F%E6%A0%BC%E5%90%95%E5%86%85%E7%93%A6%E5%B0%94%E5%BE%B7%2F%E4%BC%8A%E6%A3%AE%E6%B5%B7%E5%A7%86%E7%A5%AD%E5%9D%9B%E7%94%BB.jpeg)
+
+嘲弄基督
+
+![1280px-Mathis_Gothart_Grünewald_062.jpg](pictures%2F%E6%A0%BC%E5%90%95%E5%86%85%E7%93%A6%E5%B0%94%E5%BE%B7%2F1280px-Mathis_Gothart_Gr%C3%BCnewald_062.jpg)
 
 ##  17世纪美术
 
@@ -911,8 +965,7 @@
 
 巴洛克艺术代表整个艺术领域，包括音乐、建筑、装饰艺术等，内涵极为复杂。它最基本的特点是打破文艺复兴时期的严肃、含蓄和均衡，崇尚豪华和气派，
 注重强烈情感的表现，气氛热烈紧张，具有刺人耳目、动人心魄的艺术效果。它极力强调运动，运动与变化可以说是巴洛克艺术的灵魂。
-巴洛克美术的代表人物有贝尼尼、鲁本斯、伦勃朗、委拉斯开兹等人。
-巴洛克艺术的特征：
+巴洛克美术的代表人物有贝尼尼、鲁本斯、伦勃朗、委拉斯开兹等人。巴洛克艺术的特征：
 
     丰满，写实
     强烈的动势
@@ -924,14 +977,18 @@
 
 ####    卡拉瓦乔
 
+    米开朗基罗·梅里西·达·卡拉瓦乔（义大利语：Michelangelo Merisi da Caravaggio，1571年9月29日—1610年7月18日），意大利画家，1593年到1610年间活跃于罗马、
+    那不勒斯、马耳他和西西里。他通常被认为属于巴洛克画派，对巴洛克画派的形成有重要影响。
     生于1571年9月29日，卒于1610年7月18日， 意大利文艺复兴盛期画家， 巴洛克艺术的奠基人古典主义和巴洛克之间的过渡，即是现实主义也是巴洛克主义
     1576年的8月，卡拉瓦乔5岁时，米兰城内爆发了一场黑死病。暴力的城市，因此它对那些生性鲁莽又无家可归的年轻人有着巨大的吸引力。
     卡拉瓦乔在那里也开始显露他暴力的本性。在无数次的打架斗殴后，卡拉瓦乔最终卷入了一场谋杀。知道事情闹大后的卡拉瓦乔立刻逃去了罗马。
     在那里，卡拉瓦乔获得了暂时的安宁，并在艺术家朱塞佩•塞萨里（当时著名的壁画家）那里做起了学徒。塞萨里只给卡拉瓦乔分配了画一些花果背景的工作，
     为此卡拉瓦乔感到十分不满，于是又跑去了其他画室，前前后后换了无数家。这段时期的卡拉瓦乔虽然没什么可以拿得出手的大画，
     但这些“学徒经历”锻炼出了卡拉瓦乔对静物画的高超摹画技艺，在他当时的作品中也有着鲜明的显现。
+    虽然卡拉瓦乔在世时声名显赫，死后的数世纪间却被人们完全遗忘了，在20世纪的近几十年才被重新发现。他影响了风格主义衰亡后几乎所有的艺术风格，
+    尤其对新兴的巴洛克艺术影响深远。
 
-![卡拉瓦乔.webp](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94.webp)
+![卡拉瓦乔.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94.jpg)
 
 圣马太蒙召
 
@@ -941,19 +998,31 @@
     看画人仿佛都能听到画中的人物对话——当耶稣走进房间，指着马太说：“你！”圣彼得指着马太，似乎在疑惑：“是他吗？”而圣马太则指着自己，
     仿佛在问：“是我吗？”
 
-![圣马太蒙召.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%9C%A3%E9%A9%AC%E5%A4%AA%E8%92%99%E5%8F%AC.jpg)
+![圣玛窦蒙召.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%9C%A3%E7%8E%9B%E7%AA%A6%E8%92%99%E5%8F%AC.jpg)
+
+圣玛窦殉道
+
+    这幅画表现马太福音的作者马太（玛窦）的殉道事迹。根据传统，这位圣人正在祭坛上做弥撒时，被埃塞俄比亚国王派人杀害。因为国王贪恋自己的侄女，是一名修女，
+    受到了玛窦的斥责，因为修女是基督的新娘。几十年前去世的康塔雷利枢机，早已明确地规定了要表现的内容：邪恶的国王派来的士兵，杀害了圣人，加上一些合适的建筑，
+    还有若干旁观者。
+
+![圣玛窦殉道.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%9C%A3%E7%8E%9B%E7%AA%A6%E6%AE%89%E9%81%93.jpg)
 
 酒神巴克斯
 
 ![酒神巴克斯.webp](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E9%85%92%E7%A5%9E%E5%B7%B4%E5%85%8B%E6%96%AF.webp)
-![年轻的酒神巴克斯在病中.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%85%92%E7%A5%9E%E5%B7%B4%E5%85%8B%E6%96%AF%E5%9C%A8%E7%97%85%E4%B8%AD.jpg)
+![生病的巴克斯.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E7%94%9F%E7%97%85%E7%9A%84%E5%B7%B4%E5%85%8B%E6%96%AF.jpg)
 
 手握歌利亚头的大卫
 
     除了恃才傲物的狂妄、酗酒、烂赌，卡拉瓦乔还十分冲动甚至嗜血，到处和人打架斗殴，惹事生非是他的日常；如此狂暴的性格终于让他闯下大祸——他失手杀了人。
     卡拉瓦乔为了逃避审判，被迫开始了流离失所的亡命生涯。这才有了开始那幅充满哀伤的《手握歌利亚头的大卫》。
 
-![手握歌利亚头的大卫.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E6%89%8B%E6%8F%A1%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%B4%E7%9A%84%E5%A4%A7%E5%8D%AB.jpg)
+![手提歌利亚头的大卫.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E6%89%8B%E6%8F%90%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%B4%E7%9A%84%E5%A4%A7%E5%8D%AB.jpg)
+
+老千 -- 表现一个不懂世故的男孩落入纸牌骗子的圈套
+
+![老千.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E8%80%81%E5%8D%83.jpg)
 
 ####    贝尼尼
 
@@ -961,7 +1030,6 @@
 贝尼尼主要的成就在雕塑和建筑设计，另外，他也是画家，绘图师，舞台设计师，烟花制造者和葬礼设计师。
 
 ![贝尼尼.jpg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC.jpg)
-
 
 阿波罗与达芙娜
 
@@ -973,12 +1041,11 @@
     懊恼的阿波罗却依然爱着达芙妮，他用达芙妮变成的月桂树的枝叶做成了自己的桂冠，这也是“桂冠”一词的由来。
     阿波罗的行为最终还是感动了变成月桂树的达芙妮。这件雕塑表现的正是阿波罗刚触摸到达芙妮的身体，达芙妮变成月桂树的一顷刻。
 
-![阿波罗与达芙娜.jpeg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E9%98%BF%E6%B3%A2%E7%BD%97%E4%B8%8E%E8%BE%BE%E8%8A%99%E5%A8%9C.jpeg)
+![阿波羅與黛芙妮.jpg](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E9%98%BF%E6%B3%A2%E7%BE%85%E8%88%87%E9%BB%9B%E8%8A%99%E5%A6%AE.jpg)
 
 普鲁托和普洛塞尔皮娜   
 
 ![普鲁托和普洛塞尔皮娜.png](pictures%2F%E8%B4%9D%E5%B0%BC%E5%B0%BC%2F%E6%99%AE%E9%B2%81%E6%89%98%E5%92%8C%E6%99%AE%E6%B4%9B%E5%A1%9E%E5%B0%94%E7%9A%AE%E5%A8%9C.png)
-
 
 圣特雷莎的狂喜
 
@@ -1016,7 +1083,7 @@
     强烈的色彩，人物角色的明暗对比，动感十足的画面，夸张动感的人体姿态，粗腰大屁股的女人和小腹，后背脂肪的褶皱，女人体上闪亮的高光，
     还有环境色对物体的影响，在色彩关系的把控，超过同时代所有画家，在表达人体脂肪方面，无与伦比。
 
-![掠夺硫西波斯的女儿们.webp](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E6%8E%A0%E5%A4%BA%E7%A1%AB%E8%A5%BF%E6%B3%A2%E6%96%AF%E7%9A%84%E5%A5%B3%E5%84%BF%E4%BB%AC.webp)
+![劫奪留西帕的女兒.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E5%8A%AB%E5%A5%AA%E7%95%99%E8%A5%BF%E5%B8%95%E7%9A%84%E5%A5%B3%E5%85%92.jpg)
 
 下十字架
 
@@ -1029,11 +1096,11 @@
     身着古罗马的服装，展开双臂表示法兰西的欢迎。豪华的宫船下，许多海中女仙在拽着绳。鲁本斯一生创作极为丰盛，作品多具有宏大的场面，强烈的运动感，雄健的造型，
     富有想象力和戏剧性情节；对比鲜明、饱满的色彩；流动的线条、激动人心的画面艺术效果，给人以一种富丽堂皇、华美火热、欢腾鼓舞的艺术感受。
 
-![玛丽皇后在马赛港登陆.jpeg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E7%8E%9B%E4%B8%BD%E7%9A%87%E5%90%8E%E5%9C%A8%E9%A9%AC%E8%B5%9B%E6%B8%AF%E7%99%BB%E9%99%86.jpeg)
+![玛丽·德·美第奇抵达马赛.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E7%8E%9B%E4%B8%BD%C2%B7%E5%BE%B7%C2%B7%E7%BE%8E%E7%AC%AC%E5%A5%87%E6%8A%B5%E8%BE%BE%E9%A9%AC%E8%B5%9B.jpg)
 
 女子肖像
 
-![女子肖像.webp](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E5%A5%B3%E5%AD%90%E8%82%96%E5%83%8F.webp)
+![女子肖像.jpg](pictures%2F%E9%B2%81%E6%9C%AC%E6%96%AF%2F%E5%A5%B3%E5%AD%90%E8%82%96%E5%83%8F.jpg)
 
 油画的透明画法：
 
@@ -1045,11 +1112,14 @@
 ####    委拉斯开兹
 
 迭戈·罗德里格斯·德席尔瓦-委拉斯开兹是西班牙画家，国王腓力四世（Philip IV）宫廷中的主要艺术家，也是西班牙黄金时代最重要的画家之一。他是巴洛克时期的个人主义艺术家。
-除了众多具有历史和文化意义的场景，他还画了许多西班牙王室的肖像，其他著名的欧洲人物和平民。
+除了众多具有历史和文化意义的场景，他还画了许多西班牙王室的肖像，其他著名的欧洲人物和平民。因西班牙严厉的宗教政策，他的作品原来大部分收藏在马德里的博物馆中默默无闻，
+在1811年法国入侵西班牙的战争中，被外界所了解。但占领军基于想让公众欣赏，并没有破坏和盗走这些画。经过鉴定家克蒂斯的鉴定，委拉斯开兹有274幅作品存世。
+
+![Diegovelazquezselfportrait.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FDiegovelazquezselfportrait.jpg)
 
 Portrait of Pope Innocent X  教皇Innocent十世
 
-![Portrait of Pope Innocent X.webp](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FPortrait%20of%20Pope%20Innocent%20X.webp)
+![Retrato_del_Papa_Inocencio_X._Roma,_by_Diego_Velázquez.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FRetrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg)
 
 宫娥
 
@@ -1061,7 +1131,7 @@ Portrait of Pope Innocent X  教皇Innocent十世
     也揭示了这样一个事实，生活在宫廷里的人们并不快乐，他们受着枯燥礼仪的拘束，连高贵的小公主也是这样，她失去了儿童应有的天真，
     也必须保持仪态的摆出一种矜持的姿势。
 
-![宫娥.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2F%E5%AE%AB%E5%A8%A5.jpg)
+![Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FLas_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg)
 
 纺织女 《阿拉克涅的寓言》
 
@@ -1081,11 +1151,21 @@ Portrait of Pope Innocent X  教皇Innocent十世
     伦勃朗·哈尔曼松·范·莱因（荷兰语：Rembrandt Harmenszoon van Rijn；1606年7月15日－1669年10月4日）是欧洲巴洛克艺术的代表画家之一，
     也是17世纪荷兰黄金时代绘画的主要人物，被称为荷兰历史上最伟大的画家；伦勃朗年少成名，惟半生潦倒。其作品在他在世时即享有盛名，
     几乎当时所有重要的荷兰画家都出自他的门下。伦勃朗的顶峰之作当属肖像画，包括自画像以及取自圣经内容的绘画。他的一系列自画像如同一部独一无二的自传，
-    对自我审视真诚而不矫饰。1669年他在贫病中去世，身边只有女儿陪伴，死后葬在西教堂一个无名墓地中。这位荷兰画家极其高产，四十年间创作了300多幅油画、
-    300幅蚀刻版画和2000多幅素描。
+    对自我审视真诚而不矫饰。1669年他在贫病中去世，身边只有女儿陪伴，死后葬在西教堂一个无名墓地中。这位荷兰画家极其高产，四十年间创作了600多幅油画，
+    300多幅蚀版画和200多幅素描。
+
+22岁
+
+![伦勃朗2.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E4%BC%A6%E5%8B%83%E6%9C%972.jpg)
+
+44岁
+
+![Rembrandt1640.png](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FRembrandt1640.png)
+
+63岁
 
 ![伦勃朗.webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E4%BC%A6%E5%8B%83%E6%9C%97.webp)
-![伦勃朗2.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E4%BC%A6%E5%8B%83%E6%9C%972.jpg)
+
 
 夜巡
 
@@ -1114,9 +1194,33 @@ Portrait of Pope Innocent X  教皇Innocent十世
     面部则采用薄涂的手法，呈现出一种空气感，光线在画面上跳跃，渗透了空间。衣服质感上，与面部画法不同，伦勃朗凭借着自己对光线和色彩的完美掌控，采
     用了这样的肌理处理方式，当光线照到画面上时，会产生不同方式的折射，颜料堆积处在光线下会显得更加闪耀。
 
-![犹太新娘.webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E7%8A%B9%E5%A4%AA%E6%96%B0%E5%A8%98.webp)
+![Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_'Het_Joodse_bruidje'_-_Google_Art_Project.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FRembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg)
 
-哈尔斯
+溪流中沐浴的女人
+
+![A_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FA_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg)
+
+####    哈尔斯
+
+弗兰斯·哈尔斯（荷蘭語：Frans Hals，约1580年－1666年8月26日），荷兰黄金时代肖像画家，以大胆流畅的笔触和打破传统的鲜明画风闻名于世。
+
+![Hals_-_Self-Portrait_copy.jpg](pictures%2F%E5%93%88%E5%B0%94%E6%96%AF%2FHals_-_Self-Portrait_copy.jpg)
+
+吉普赛女郎
+
+![吉普赛女郎.jpg](pictures%2F%E5%93%88%E5%B0%94%E6%96%AF%2F%E5%90%89%E6%99%AE%E8%B5%9B%E5%A5%B3%E9%83%8E.jpg)
+
+微笑的骑士
+
+![Cavalier_soldier_Hals-1624x.jpg](pictures%2F%E5%93%88%E5%B0%94%E6%96%AF%2FCavalier_soldier_Hals-1624x.jpg)
+
+弹曼陀铃的小丑
+
+![Frans_Hals_-_Luitspelende_nar.jpg](pictures%2F%E5%93%88%E5%B0%94%E6%96%AF%2FFrans_Hals_-_Luitspelende_nar.jpg)
+
+圣乔治市民警卫队官员之宴
+
+![Frans_Hals_-_Banket_van_de_officieren_van_de_Sint-Joris-Doelen.jpg](pictures%2F%E5%93%88%E5%B0%94%E6%96%AF%2FFrans_Hals_-_Banket_van_de_officieren_van_de_Sint-Joris-Doelen.jpg)
 
 ####    维米尔 - 光影大师
 
@@ -1153,8 +1257,16 @@ Portrait of Pope Innocent X  教皇Innocent十世
 代尔夫特风景
 
 ![代尔夫特风景.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E4%BB%A3%E5%B0%94%E5%A4%AB%E7%89%B9%E9%A3%8E%E6%99%AF.jpg)
-#
+
 ###    巴洛克建筑
+
+凡尔赛宫
+
+![Château_de_Versailles,_cour_Royale.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCh%C3%A2teau_de_Versailles%2C_cour_Royale.jpg)
+
+![2560px-Chateau_Versailles_Galerie_des_Glaces.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F2560px-Chateau_Versailles_Galerie_des_Glaces.jpg)
+
+![Appartement_du_Roi_(Versailles).jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FAppartement_du_Roi_%28Versailles%29.jpg)
 
 罗马-耶稣教堂
 
@@ -1170,9 +1282,6 @@ Portrait of Pope Innocent X  教皇Innocent十世
 在官方的支持下欧洲出现了许多“学院”， 其中最具影响的是卡拉奇兄弟建立的波伦亚学院——产生最早的美术学院。
 
 ####    普桑
-
-
-
 
 
 ##  18世纪美术
@@ -1278,7 +1387,16 @@ Portrait of Pope Innocent X  教皇Innocent十世
 雅克·路易·大卫(Jacques-Louis David )又译：杰克·路易斯·达维特（1748年8月30日 - 1825年12月9日）是法国著名画家，古典主义画派的奠基人，
 著名的艺术教育家，学生有新古典主义代表人安格尔，科罗等。画风严谨，技法精工
 
-![大卫.webp](pictures%2F%E5%A4%A7%E5%8D%AB%2F%E5%A4%A7%E5%8D%AB.webp)
+![David_Self_Portrait.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FDavid_Self_Portrait.jpg)
+
+
+护从搬来布鲁图斯儿子的尸体
+
+    其主题是罗马共和国的建立者卢修斯·尤尼乌斯·布鲁图斯，考虑他的儿子们的命运。他们密谋推翻共和国，恢复君主制，布鲁图斯本人被迫下令处死他们。
+    这样，布鲁图斯牺牲自己的家庭，成了共和国的英雄捍卫者。这幅画是公民美德的大胆寓言，对共和主义不断发展的事业发出巨大的共鸣。这幅画的主题是公民美德、
+    牺牲和对国家的奉献，在充满政治色彩的法国大革命时期揭幕时，引发了许多争议。
+
+![David_Brutus.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FDavid_Brutus.jpg)
 
 贺拉斯兄弟之誓
 
@@ -1299,11 +1417,11 @@ Portrait of Pope Innocent X  教皇Innocent十世
     《马拉之死》描绘的是法国大革命时期遇害的雅各宾派领袖马拉被刺的情景：马拉倒在浴缸中，鲜血从他胸口流出，带血的匕首掉落在地上。
     马拉的躯体无力地垂到一边，手中还拿着刺客的信函， [4]右手还握着笔。他审批的木箱上有墨水瓶和纸。
 
-![马拉之死.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2F%E9%A9%AC%E6%8B%89%E4%B9%8B%E6%AD%BB.jpg)
+![Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FJacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg)
 
 拿破仑越过圣贝尔纳山
 
-![拿破仑越过圣贝尔纳山.jpeg](pictures%2F%E5%A4%A7%E5%8D%AB%2F%E6%8B%BF%E7%A0%B4%E4%BB%91%E8%B6%8A%E8%BF%87%E5%9C%A3%E8%B4%9D%E5%B0%94%E7%BA%B3%E5%B1%B1.jpeg)
+![David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FDavid_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg)
 
 拿破仑加冕
 
@@ -1311,8 +1429,7 @@ Portrait of Pope Innocent X  教皇Innocent十世
     整个画面气势十分庄严，人物多达百人，每个人物形象都按身份进行精神描绘，构图宏大，场面壮观，是大卫的空前的巨幅制作。
     它充分发挥了画家的素描造型与色彩写生才能，不仅人物、服饰、环境的质感逼真，富丽堂皇，而且整体构思统一完整，在严谨性上达到了新古典主义绘画的最高境界。
 
-![拿破仑加冕.jpeg](pictures%2F%E5%A4%A7%E5%8D%AB%2F%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%8A%A0%E5%86%95.jpeg)
-
+![Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FJacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg)
 
 ####    安格尔 -- 唯美主义的古典主义
 
@@ -1335,11 +1452,15 @@ Portrait of Pope Innocent X  教皇Innocent十世
     小腹甚至微微凸出，如此舒展式的裸体给人强烈的视觉冲击，即便是在当时思想较为开放的西方，这样正面地不加掩饰地呈现女性裸体的画作也是很少见的。
     这是造型对欣赏者第一次的美感冲击。安格尔的毕生精力76岁完成。
 
-![泉.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E6%B3%89.jpg)
+![Jean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FJean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg)
 
 大宫女
 
-![大宫女.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E5%A4%A7%E5%AE%AB%E5%A5%B3.jpg)
+    这幅画是受拿破仑的妹妹，那不勒斯王国王后卡罗琳·波拿巴的委托而做。显示土耳其内宫一裸体宫女。现藏于法国巴黎卢浮宫。
+    宫女的脊柱被刻意拉长，組成「两个或三个椎体」 甚至“五个椎体”之多，而使骨盆及下背部加长。这可能代表了宫女的感性阴柔美。
+    此外，她的目光和她的骨盆区域之间的距离，可能是该女人的深度思考和复杂情感的一个物理性表现
+
+![Ingre,_Grande_Odalisque.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FIngre%2C_Grande_Odalisque.jpg)
 
 土耳其浴室
 
@@ -1350,13 +1471,17 @@ Portrait of Pope Innocent X  教皇Innocent十世
     画面最初的构思是方形的，后来变成圆形。此外，画中人物的变化也很大，如靠近黑人侍女的 4个坐姿人体，以及正在入水的浴女都是后来加上的。
     由此可见安格尔创作态度的严肃认真。
 
-![土耳其浴室.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E5%9C%9F%E8%80%B3%E5%85%B6%E6%B5%B4%E5%AE%A4.jpg)
+![Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_retouched.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FLe_Bain_Turc%2C_by_Jean_Auguste_Dominique_Ingres%2C_from_C2RMF_retouched.jpg)
 
 瓦平松的浴女
 
     《瓦平松浴女》反映了安格尔借助于女人体的整体感和细腻感来表现人体单纯、洁净、洗练的美感。
 
-![瓦平松的浴女.webp](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E7%93%A6%E5%B9%B3%E6%9D%BE%E7%9A%84%E6%B5%B4%E5%A5%B3.webp)
+![Jean-Auguste-Dominique_Ingres_-_La_Baigneuse_Valpinçon.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FJean-Auguste-Dominique_Ingres_-_La_Baigneuse_Valpin%C3%A7on.jpg)
+
+靜坐的墨瓦特雪夫人
+
+![Dominique_Ingres_-_Mme_Moitessier.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FDominique_Ingres_-_Mme_Moitessier.jpg)
 
 ##  19世纪美术
 
@@ -1381,7 +1506,11 @@ Portrait of Pope Innocent X  教皇Innocent十世
     未经过任何法律程序，于5月3日的晚间和次日凌晨，枪杀了数千名起义者。极富爱国热情的画家闻知这一惨绝人寰的事件，极为愤慨和恼怒，
     挥笔创作了《1808年5月3日夜枪杀起义者》。正如画家本人说的那样：“我要用自己的画笔，使反抗欧洲暴君的这次伟大而英勇的光荣起义永垂不朽。”
 
-![1808年5月3日夜枪杀起义者.webp](pictures%2F%E6%88%88%E9%9B%85%2F1808%E5%B9%B45%E6%9C%883%E6%97%A5%E5%A4%9C%E6%9E%AA%E6%9D%80%E8%B5%B7%E4%B9%89%E8%80%85.webp)
+![El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_in_Google_Earth.jpg](pictures%2F%E6%88%88%E9%9B%85%2FEl_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg)
+
+查理四世的一家
+
+![La_familia_de_Carlos_IV,_Francisco_de_Goya.jpg](pictures%2F%E6%88%88%E9%9B%85%2FLa_familia_de_Carlos_IV%2C_Francisco_de_Goya.jpg)
 
 ####    德拉克洛瓦 -- 浪漫主义最伟大的画家， 色彩大师
 
@@ -1487,18 +1616,27 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 干草车
 
-![干草车.jpeg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2F%E5%B9%B2%E8%8D%89%E8%BD%A6.jpeg)
+![John_Constable_The_Hay_Wain.jpg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2FJohn_Constable_The_Hay_Wain.jpg)
+
+麦田
+
+![Constable_-_The_Cornfield.jpg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2FConstable_-_The_Cornfield.jpg)
 
 从主教花园望见的索尔兹伯里大教堂
 
-![从主教花园望见的索尔兹伯里大教堂.jpg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2F%E4%BB%8E%E4%B8%BB%E6%95%99%E8%8A%B1%E5%9B%AD%E6%9C%9B%E8%A7%81%E7%9A%84%E7%B4%A2%E5%B0%94%E5%85%B9%E4%BC%AF%E9%87%8C%E5%A4%A7%E6%95%99%E5%A0%82.jpg)
+![從主教花園望見的索爾茲伯里座堂 .jpg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2F%E5%BE%9E%E4%B8%BB%E6%95%99%E8%8A%B1%E5%9C%92%E6%9C%9B%E8%A6%8B%E7%9A%84%E7%B4%A2%E7%88%BE%E8%8C%B2%E4%BC%AF%E9%87%8C%E5%BA%A7%E5%A0%82%20.jpg)
 
 ####    透纳
 
 约瑟夫·马洛德·威廉·透纳（Joseph Mallord William Turner，1775年4月23日－1851年12月19日），男，是英国著名艺术家之一，19世纪上半叶英国学院派画家的代表，
 在透纳以善于描绘光与空气的微妙关系而闻名于世，尤其对水气弥漫的掌握有独到之处。他在艺术史上的特殊贡献是把风景画与历史画、肖像画摆到了同等的地位。
+在18世纪歷史畫為主流的畫壇上，其作品並不受重視，但在現代則公認他是非常偉大的風景畫家。
 
-![透纳.webp](pictures%2F%E9%80%8F%E7%BA%B3%2F%E9%80%8F%E7%BA%B3.webp)
+![Turner_selfportrait.jpg](pictures%2F%E9%80%8F%E7%BA%B3%2FTurner_selfportrait.jpg)
+
+被拖去解体的战舰鲁莽号
+
+![被拖去解体的战舰鲁莽号.jpg](pictures%2F%E9%80%8F%E7%BA%B3%2F%E8%A2%AB%E6%8B%96%E5%8E%BB%E8%A7%A3%E4%BD%93%E7%9A%84%E6%88%98%E8%88%B0%E9%B2%81%E8%8E%BD%E5%8F%B7.jpg)
 
 《暴风雪—汽船驶离港口》
 
@@ -1512,7 +1650,7 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 雨，蒸汽和速度—西部大铁路
 
-![雨，蒸汽和速度—西部大铁路.jpeg](pictures%2F%E9%80%8F%E7%BA%B3%2F%E9%9B%A8%EF%BC%8C%E8%92%B8%E6%B1%BD%E5%92%8C%E9%80%9F%E5%BA%A6%E2%80%94%E8%A5%BF%E9%83%A8%E5%A4%A7%E9%93%81%E8%B7%AF.jpeg)
+![风雨和速度-西部大铁路.jpg](pictures%2F%E9%80%8F%E7%BA%B3%2F%E9%A3%8E%E9%9B%A8%E5%92%8C%E9%80%9F%E5%BA%A6-%E8%A5%BF%E9%83%A8%E5%A4%A7%E9%93%81%E8%B7%AF.jpg)
 
 遇难船
 
@@ -1524,8 +1662,11 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 议会大厦的大火
 
-![议会大厦的大火.webp](pictures%2F%E9%80%8F%E7%BA%B3%2F%E8%AE%AE%E4%BC%9A%E5%A4%A7%E5%8E%A6%E7%9A%84%E5%A4%A7%E7%81%AB.webp)
+![Turner-The_Burning_of_the_Houses_of_Lords_and_Commons.jpg](pictures%2F%E9%80%8F%E7%BA%B3%2FTurner-The_Burning_of_the_Houses_of_Lords_and_Commons.jpg)
 
+奴隶船
+
+![奴隸船.jpg](pictures%2F%E9%80%8F%E7%BA%B3%2F%E5%A5%B4%E9%9A%B8%E8%88%B9.jpg)
 
 ### 现实主义
 
@@ -1567,6 +1708,12 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 让·巴蒂斯特·卡米耶·柯罗（Jean baptiste camille corot，1796-1875）法国19世纪最杰出的风景画家。
 
+![1920px-Jean-Baptiste-Camille_Corot_c1850.png](pictures%2F%E6%9F%AF%E7%BD%97%2F1920px-Jean-Baptiste-Camille_Corot_c1850.png)
+
+阿夫赖城
+
+![阿夫赖城.jpg](pictures%2F%E6%9F%AF%E7%BD%97%2F%E9%98%BF%E5%A4%AB%E8%B5%96%E5%9F%8E.jpg)
+
 戴珍珠的女人
 
 ![戴珍珠的女人.webp](pictures%2F%E6%9F%AF%E7%BD%97%2F%E6%88%B4%E7%8F%8D%E7%8F%A0%E7%9A%84%E5%A5%B3%E4%BA%BA.webp)
@@ -1607,7 +1754,7 @@ The Evening Star
     他们有的属于高阶层，有的被放在最下层，有的则属于中间部分。”“……画作里有的人活得很好，有的却已残喘 ；他们生在一个最好的社会，也是最坏的社会，
     亦是那个司空见惯的社会。”
 
-![画家的画室，真实的隐喻.jpg](pictures%2F%E5%BA%93%E5%B0%94%E8%B4%9D%2F%E7%94%BB%E5%AE%B6%E7%9A%84%E7%94%BB%E5%AE%A4%EF%BC%8C%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%90%E5%96%BB.jpg)
+![畫室.jpg](pictures%2F%E5%BA%93%E5%B0%94%E8%B4%9D%2F%E7%95%AB%E5%AE%A4.jpg)
 
 
 ####    列宾
@@ -1615,11 +1762,23 @@ The Evening Star
 伊里亚·叶菲莫维奇·列宾（1844年08月05日—1930年09月29日），出生于丘古耶夫，在彼得堡美术学院学习。俄国杰出的批判现实主义画家，
 巡回展览画派重要代表人物。
 
-![列宾.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E5%88%97%E5%AE%BE.jpg)
+![REPIN_portret_REPIN.jpg](pictures%2F%E5%88%97%E5%AE%BE%2FREPIN_portret_REPIN.jpg)
 
-伏尔加河的纤夫
+伏尔加河的纤夫 -- 于1870～1873年创作的一幅油画作品，描绘了11名纤夫在伏尔加河畔拉纤的情景
 
-![伏尔加河的纤夫.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E4%BC%8F%E5%B0%94%E5%8A%A0%E6%B2%B3%E7%9A%84%E7%BA%A4%E5%A4%AB.jpg)
+![2880px-Ilia_Efimovich_Repin_(1844-1930)_-_Volga_Boatmen_(1870-1873).jpg](pictures%2F%E5%88%97%E5%AE%BE%2F2880px-Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg)
+
+圣尼古拉拯救三个要被处死的无辜者
+
+![圣尼古拉拯救三个要被处死的无辜者.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E5%9C%A3%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%8B%AF%E6%95%91%E4%B8%89%E4%B8%AA%E8%A6%81%E8%A2%AB%E5%A4%84%E6%AD%BB%E7%9A%84%E6%97%A0%E8%BE%9C%E8%80%85.jpg)
+
+沙皇尼古拉二世草稿
+
+![沙皇尼古拉二世草稿.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E6%B2%99%E7%9A%87%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96%E8%8D%89%E7%A8%BF.jpg)
+
+萨特阔在水晶宫
+
+![萨特阔在水晶宫.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E8%90%A8%E7%89%B9%E9%98%94%E5%9C%A8%E6%B0%B4%E6%99%B6%E5%AE%AB.jpg)
 
 ### 印象主义
 
@@ -1641,7 +1800,7 @@ The Evening Star
 爱德华·马奈的艺术门类主要是油画，他从未参加过印象派的展览，但他深具革新精神的艺术创作态度，却深深影响了莫奈、塞尚、梵高等新兴画家，进而将绘画带入现代主义的道路上。
 受到日本浮世绘及西班牙画风的影响，马奈大胆采用鲜明色彩，舍弃传统绘画的中间色调，将绘画从追求立体空间的传统束缚中解放出来，朝二维的平面创作迈出革命性的一大步。
 
-![马奈.png](pictures%2F%E9%A9%AC%E5%A5%88%2F%E9%A9%AC%E5%A5%88.png)
+![Édouard_Manet,_en_buste,_de_face_-_Nadar.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2F%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg)
 
 草地上的午餐
 
@@ -1657,7 +1816,7 @@ The Evening Star
     马奈以其强烈的绘画敏感性和其典范性的作品，使他所处时代的绘画发生了天翻地覆的变化。 由此以来革新派画家对他情有独钟，他的画具有印象主义的特色，
     对19世纪后期绘画风格的改革起到了极大的推动作用。
 
-![草地上的午餐.png](pictures%2F%E9%A9%AC%E5%A5%88%2F%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E5%8D%88%E9%A4%90.png)
+![Édouard_Manet_-_Le_Déjeuner_sur_l'herbe.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2F%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg)
 
 奥林匹亚
 
@@ -1665,8 +1824,23 @@ The Evening Star
     马奈决定描绘一名毫无歉意地赤身裸体躺在床上的妓女，这引起了震惊和愤怒。 非常规的题材选择挑战了社会规范，
     并使观众面对卖淫的严酷现实。 这种大胆的描绘使《奥林匹亚》一炮而红，引发了激烈的争论，并突破了传统艺术的界限。
 
-![奥林匹亚.webp](pictures%2F%E9%A9%AC%E5%A5%88%2F%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A.webp)
+![Manet,_Edouard_-_Olympia,_1863.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Olympia%2C_1863.jpg)
 
+吹笛子的少年
+
+![Manet,_Edouard_-_Young_Flautist,_or_The_Fifer,_1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist%2C_or_The_Fifer%2C_1866_%282%29.jpg)
+
+女神游乐厅的吧台 -- 它刻画了巴黎的著名剧院夜总会女神游乐厅的场景。
+
+![女神游乐厅的吧台.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2F%E5%A5%B3%E7%A5%9E%E6%B8%B8%E4%B9%90%E5%8E%85%E7%9A%84%E5%90%A7%E5%8F%B0.jpg)
+
+咖啡廳演唱會
+
+![咖啡廳演唱會.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2F%E5%92%96%E5%95%A1%E5%BB%B3%E6%BC%94%E5%94%B1%E6%9C%83.jpg)
+
+隆尚赛马
+
+![隆尚赛马.jpg](pictures%2F%E9%A9%AC%E5%A5%88%2F%E9%9A%86%E5%B0%9A%E8%B5%9B%E9%A9%AC.jpg)
 
 ####    莫奈
 
@@ -1684,7 +1858,7 @@ The Evening Star
     该幅作品突破了传统题材和构图的限制，完全以视觉经验的感知为出发点，侧重表现光线氛围中变幻无穷的外观，是莫奈画作中最典型的一幅，
     也是日后最具声誉的经典画作，是印象画派的开山之作。却被艺术评论家路易·乐华以“‘印象’派”揶揄他的“离经背道”。
 
-![日出·印象.jpeg](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%97%A5%E5%87%BA%C2%B7%E5%8D%B0%E8%B1%A1.jpeg)
+![Claude_Monet,_Impression,_soleil_levant.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2FClaude_Monet%2C_Impression%2C_soleil_levant.jpg)
 
 草垛
 
@@ -1704,7 +1878,7 @@ The Evening Star
     可以感受到草原上吹拂的微风和女子丝巾上跃动的阳光。卡美伊因病死于1879 年，时年37 岁，莫奈在同年画下了《临终的卡美伊》，画中以忧郁的色调、
     纷乱的笔法，传达出失去爱妻的悲伤。
 
-![撑阳伞的女子.webp](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%92%91%E9%98%B3%E4%BC%9E%E7%9A%84%E5%A5%B3%E5%AD%90.webp)
+![撑着太阳伞面向左边的女子.webp](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%92%91%E7%9D%80%E5%A4%AA%E9%98%B3%E4%BC%9E%E9%9D%A2%E5%90%91%E5%B7%A6%E8%BE%B9%E7%9A%84%E5%A5%B3%E5%AD%90.webp)
 
 海滨公园打伞的女子
 
@@ -1712,11 +1886,11 @@ The Evening Star
     事业虽算不上成功，但一直在朝着非常有希望的方向前行，生活虽然不富足，但是压力也没有很大，所以这一时期莫奈的画作无一例外都满是阳光、鲜花，
     生气和活力。
 
-![海滨公园打伞的女子（卡美伊）.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%B5%B7%E6%BB%A8%E5%85%AC%E5%9B%AD%E6%89%93%E4%BC%9E%E7%9A%84%E5%A5%B3%E5%AD%90%EF%BC%88%E5%8D%A1%E7%BE%8E%E4%BC%8A%EF%BC%89.jpg)
+![打阳伞的女人.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%89%93%E9%98%B3%E4%BC%9E%E7%9A%84%E5%A5%B3%E4%BA%BA.jpg)
 
 日本桥
 
-![日本桥.webp](pictures%2F%E8%8E%AB%E5%A5%88%2F%E6%97%A5%E6%9C%AC%E6%A1%A5.webp)
+![1920px-Bridge_Over_a_Pond_of_Water_Lilies,_Claude_Monet_1899.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2F1920px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg)
 
 ####    德加
 
@@ -1743,6 +1917,11 @@ The Evening Star
 
 ####    雷诺阿
 
+皮耶-奥古斯特·雷諾瓦（法語：Pierre-Auguste Renoir，法语：[pjɛʁ oɡyst ʁənwaʁ]，1841年2月25日—1919年12月3日）是一位著名的法國畫家，
+也是印象派發展史上的領導人物之一。其畫風承襲彼得·保罗·吕本斯與尚-安托万·华托的傳統，對於女性形體的描繪最為著名
+
+![Pierre_Auguste_Renoir,_uncropped_image.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2FPierre_Auguste_Renoir%2C_uncropped_image.jpg)
+
 包厢
 
     画家依据在剧院里得到的印象，创作了包厢中的盛装女性。有趣的是，这是在室内完成的印象派绘画。画家成功地表现了剧院中包厢里的气氛，
@@ -1750,21 +1929,35 @@ The Evening Star
     贵妇人身上黑条纹衣服非常醒目，粗阔的黑条与白色相间的浅色，使她显得光彩照人。以细小的笔触体现黑色，产生了一种丰富、浑厚的层次，
     使画面增加了视觉美感。
 
-![包厢.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2F%E5%8C%85%E5%8E%A2.jpg)
+![The Theater Box.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2FThe%20Theater%20Box.jpg)
 
-红磨坊的舞会
+煎餅磨坊的舞會
 
     这幅作品描绘出众多的人物，给人拥挤的感觉，人头攒动，色斑跳跃，热闹非凡，给人以愉快欢乐的强烈印象。画面用蓝紫为主色调，使人物由近及远，
     产生一种多层次的节奏感。画家把主要精力放在对近景一组人物的描绘上，生动地表现出人物脸上的光色效果及光影造成的迷离感，渲染了舞会的气氛。
     就总体看，他保留着印象派对外光与色斑的留恋，使画面的总体色调、气氛有一种颤动、闪烁的强烈效果。
 
-![红磨坊的舞会.png](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2F%E7%BA%A2%E7%A3%A8%E5%9D%8A%E7%9A%84%E8%88%9E%E4%BC%9A.png)
+![Pierre-Auguste_Renoir,_Le_Moulin_de_la_Galette.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2FPierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg)
+
+划船人的午宴
+
+![划船人的午宴.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2F%E5%88%92%E8%88%B9%E4%BA%BA%E7%9A%84%E5%8D%88%E5%AE%B4.jpg)
+
+On the Terrace
+
+![On the Terrace.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2FOn%20the%20Terrace.jpg)
+
 
 ####    毕沙罗
 
-巴黎蒙马特林荫大道
+卡米耶·畢沙羅（Camille Pissarro 法语：[kamij pisaʁo]，1830年7月10日—1903年11月13日），是一位丹麦裔法國的印象派、新印象派畫家。畢沙羅喜好寫生，
+畫了相當多的風景畫，他的後期作品是印象派中點彩畫派的佳作，此外，畢沙羅的人像畫也有他特殊的風格。
 
-![巴黎蒙马特林荫大道.jpg](pictures%2F%E6%AF%95%E6%B2%99%E7%BD%97%2F%E5%B7%B4%E9%BB%8E%E8%92%99%E9%A9%AC%E7%89%B9%E6%9E%97%E8%8D%AB%E5%A4%A7%E9%81%93.jpg)
+![1280px-Pissarro-portrait-c1900.jpg](pictures%2F%E6%AF%95%E6%B2%99%E7%BD%97%2F1280px-Pissarro-portrait-c1900.jpg)
+
+蒙马特春天早晨的林荫大道
+
+![蒙马特春天早晨的林荫大道.jpg](pictures%2F%E6%AF%95%E6%B2%99%E7%BD%97%2F%E8%92%99%E9%A9%AC%E7%89%B9%E6%98%A5%E5%A4%A9%E6%97%A9%E6%99%A8%E7%9A%84%E6%9E%97%E8%8D%AB%E5%A4%A7%E9%81%93.jpg)
 
 蒙马特尔林荫大道的日落
 
@@ -1798,34 +1991,58 @@ The Evening Star
 
 ####    修拉
 
+喬治·皮埃尔·秀拉（法語：Georges Pierre Seurat，1859年12月2日—1891年3月29日），是法國後印象派及新印象派畫家。他以其運用色彩理論之分色主義
+（英語：chromoluminarism 或 divisionism）與點彩畫作品為人所知；同時，他的conté蠟筆（英語：conté crayons、conté sticks 或 conté）粉彩作品也廣受讚譽。
+
+![Georges_Seurat_1888.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2FGeorges_Seurat_1888.jpg)
+
 大碗岛星期天的午后
 
     在这件作品中，他展现了自己炉火纯青的点彩派的手法，纯熟地使用中性混色理念描绘出一隅绚丽的午后景观
 
-![碗岛星期天的午后.png](pictures%2F%E4%BF%AE%E6%8B%89%2F%E7%A2%97%E5%B2%9B%E6%98%9F%E6%9C%9F%E5%A4%A9%E7%9A%84%E5%8D%88%E5%90%8E.png)
+![2560px-A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2F2560px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
 ![碗岛星期天的午后2.webp](pictures%2F%E4%BF%AE%E6%8B%89%2F%E7%A2%97%E5%B2%9B%E6%98%9F%E6%9C%9F%E5%A4%A9%E7%9A%84%E5%8D%88%E5%90%8E2.webp)
 ![碗岛星期天的午后3.webp](pictures%2F%E4%BF%AE%E6%8B%89%2F%E7%A2%97%E5%B2%9B%E6%98%9F%E6%9C%9F%E5%A4%A9%E7%9A%84%E5%8D%88%E5%90%8E3.webp)
 ![碗岛星期天的午后4.webp](pictures%2F%E4%BF%AE%E6%8B%89%2F%E7%A2%97%E5%B2%9B%E6%98%9F%E6%9C%9F%E5%A4%A9%E7%9A%84%E5%8D%88%E5%90%8E4.webp)
 
+大碗岛的阴天
+
+![大碗岛的阴天.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2F%E5%A4%A7%E7%A2%97%E5%B2%9B%E7%9A%84%E9%98%B4%E5%A4%A9.jpg)
+
+春天，塞纳河上的大碗岛
+
+![春天，塞纳河上的大碗岛.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2F%E6%98%A5%E5%A4%A9%EF%BC%8C%E5%A1%9E%E7%BA%B3%E6%B2%B3%E4%B8%8A%E7%9A%84%E5%A4%A7%E7%A2%97%E5%B2%9B.jpg)
+
 阿尼埃尔浴场
 
-![阿尼埃尔浴场.webp](pictures%2F%E4%BF%AE%E6%8B%89%2F%E9%98%BF%E5%B0%BC%E5%9F%83%E5%B0%94%E6%B5%B4%E5%9C%BA.webp)
+![阿尼埃尔浴场.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2F%E9%98%BF%E5%B0%BC%E5%9F%83%E5%B0%94%E6%B5%B4%E5%9C%BA.jpg)
+
+擦粉的女人
+
+![擦粉的女人.jpg](pictures%2F%E4%BF%AE%E6%8B%89%2F%E6%93%A6%E7%B2%89%E7%9A%84%E5%A5%B3%E4%BA%BA.jpg)
 
 ####    西涅克
 
-    他和修拉的区别是，修拉用小圆点来点彩，西涅克用稍粗的马赛克方块来点彩。
+    他和修拉的区别是，修拉用小圆点来点彩，西涅克用稍粗的马赛克方块来点彩。保罗·西涅克（Paul Signac，法语发音：[pɔl siɲak]；1863年11月11日—1935年8月15日），
+    法国新印象主义画派的画家，和修拉一起都是点彩画派的代表人物。
+
+![1280px-Paul_Signac_1923.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2F1280px-Paul_Signac_1923.jpg)
 
 圣特罗佩港口
 
 ![圣特罗佩港口.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2F%E5%9C%A3%E7%89%B9%E7%BD%97%E4%BD%A9%E6%B8%AF%E5%8F%A3.jpg)
 
-The Papal Palace, Avignon
+The Papal Palace, Avignon 阿维尼翁教皇宫
 
-![The Papal Palace, Avignon.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2FThe%20Papal%20Palace%2C%20Avignon.jpg)
+![Paul_Signac_Palais_des_Papes_Avignon.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2FPaul_Signac_Palais_des_Papes_Avignon.jpg)
 
 马赛港的入口处
 
 ![马赛港的入口处.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2F%E9%A9%AC%E8%B5%9B%E6%B8%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E5%A4%84.jpg)
+
+威尼斯大运河的入口
+
+![威尼斯大运河的入口.jpg](pictures%2F%E8%A5%BF%E6%B6%85%E5%85%8B%2F%E5%A8%81%E5%B0%BC%E6%96%AF%E5%A4%A7%E8%BF%90%E6%B2%B3%E7%9A%84%E5%85%A5%E5%8F%A3.jpg)
 
 ##  现代美术
 
@@ -1863,7 +2080,7 @@ The Papal Palace, Avignon
 
     我们看物体除了透视，漏掉了时间！
 
-![塞尚.webp](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E5%A1%9E%E5%B0%9A.webp)
+![Paul_Cézanne.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2FPaul_C%C3%A9zanne.jpg)
 
 苹果 
 
@@ -1873,11 +2090,15 @@ The Papal Palace, Avignon
 
 圣维克多山
 
-![圣维克多山.webp](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E5%9C%A3%E7%BB%B4%E5%85%8B%E5%A4%9A%E5%B1%B1.webp)
+![聖維克多山.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E8%81%96%E7%B6%AD%E5%85%8B%E5%A4%9A%E5%B1%B1.jpg)
 
 卡牌玩家
 
-![卡牌玩家.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E5%8D%A1%E7%89%8C%E7%8E%A9%E5%AE%B6.jpg)
+![玩紙牌的人.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E7%8E%A9%E7%B4%99%E7%89%8C%E7%9A%84%E4%BA%BA.jpg)
+
+靜物與窗簾
+
+![靜物與窗簾.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E9%9D%9C%E7%89%A9%E8%88%87%E7%AA%97%E7%B0%BE.jpg)
 
 ####    高更
 
@@ -1895,6 +2116,14 @@ The Papal Palace, Avignon
 我们从何处来？我们是谁？我们向何处去？
 
 ![我们从何处来？我们是谁？我们向何处去.jpeg](pictures%2F%E9%AB%98%E6%9B%B4%2F%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E5%A4%84%E6%9D%A5%EF%BC%9F%E6%88%91%E4%BB%AC%E6%98%AF%E8%B0%81%EF%BC%9F%E6%88%91%E4%BB%AC%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB.jpeg)
+
+黄色的基督
+
+![黄色的基督.jpg](pictures%2F%E9%AB%98%E6%9B%B4%2F%E9%BB%84%E8%89%B2%E7%9A%84%E5%9F%BA%E7%9D%A3.jpg)
+
+与黄色的基督在一起的高更自画像
+
+![与黄色的基督在一起的高更自画像.jpeg](pictures%2F%E9%AB%98%E6%9B%B4%2F%E4%B8%8E%E9%BB%84%E8%89%B2%E7%9A%84%E5%9F%BA%E7%9D%A3%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E9%AB%98%E6%9B%B4%E8%87%AA%E7%94%BB%E5%83%8F.jpeg)
 
 不列塔尼牧人
 
@@ -1931,14 +2160,19 @@ The Papal Palace, Avignon
 
 ![梵高.jpeg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E6%A2%B5%E9%AB%98.jpeg)
 ![梵高2.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E6%A2%B5%E9%AB%982.jpg)
+![Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg)
 
 向日葵
 
 ![向日葵.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E5%90%91%E6%97%A5%E8%91%B5.jpg)
 
+![Six_Sunflowers_1888.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FSix_Sunflowers_1888.jpg)
+
+![Vincent_Willem_van_Gogh_128.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVincent_Willem_van_Gogh_128.jpg)
+
 星空
 
-![星空.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E6%98%9F%E7%A9%BA.jpg)
+![Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 夜间室内咖啡座
 
@@ -1956,7 +2190,30 @@ The Papal Palace, Avignon
 
 ![采石场山丘.webp](pictures%2F%E6%A2%B5%E9%AB%98%2F%E9%87%87%E7%9F%B3%E5%9C%BA%E5%B1%B1%E4%B8%98.webp)
 
+麦田群鸦
+
+![麦田群鸦.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E9%BA%A6%E7%94%B0%E7%BE%A4%E9%B8%A6.jpg)
+
+嘉舍醫師的畫像
+
+![嘉舍醫師的畫像.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E5%98%89%E8%88%8D%E9%86%AB%E5%B8%AB%E7%9A%84%E7%95%AB%E5%83%8F.jpg)
+
+羅納河上的星夜
+
+![羅納河上的星夜.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2F%E7%BE%85%E7%B4%8D%E6%B2%B3%E4%B8%8A%E7%9A%84%E6%98%9F%E5%A4%9C.jpg)
+
+夜晚露天咖啡座
+
+![夜晚露天咖啡座.JPG](pictures%2F%E6%A2%B5%E9%AB%98%2F%E5%A4%9C%E6%99%9A%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7.JPG)
+
 ### 野兽派 -- 彻底改变色彩的艺术家， 随心所欲的使用颜色
+
+亨利·埃米尔·伯努瓦·马蒂斯（法語：Henri Émile Benoît Matisse，法语：[ɑ̃ʁi emil bənwɑ matis]；1869年12月31日—1954年11月3日）是一位法国画家，
+野兽派的创始人及主要代表人物，也是一位雕塑家及版画家。馬蒂斯與畢卡索、馬歇爾·杜尚一起為20世紀初的造型藝術帶來巨大變革。 他也是野獸派的領袖。
+野獸派主張印象主義的理論，促成了20世紀第一次的藝術運動。使用大膽及平面的色彩、不拘的線條就是馬蒂斯的風格。風趣的結構、鮮明的色彩及輕鬆的主題就是令他成名的特點，
+也使得其成為現代藝術中最重要的人物之一。
+
+![Portrait_of_Henri_Matisse_1933_May_20.jpg](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2FPortrait_of_Henri_Matisse_1933_May_20.jpg)
 
 打开的窗户
 
@@ -1968,7 +2225,7 @@ The Papal Palace, Avignon
 
 马蒂斯夫人
 
-![马蒂斯夫人.webp](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2F%E9%A9%AC%E8%92%82%E6%96%AF%E5%A4%AB%E4%BA%BA.webp)
+![戴帽子的女人，亨利·馬蒂斯.jpg](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2F%E6%88%B4%E5%B8%BD%E5%AD%90%E7%9A%84%E5%A5%B3%E4%BA%BA%EF%BC%8C%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E8%92%82%E6%96%AF.jpg)
 ![Portrait of Madame Matisse.webp](pictures%2F%E9%A9%AC%E8%92%82%E6%96%AF%2FPortrait%20of%20Madame%20Matisse.webp)
 
 剪纸
