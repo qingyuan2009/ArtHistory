@@ -535,9 +535,23 @@ Hermes and the Infant Dionysus
 ![透视1.jpg](pictures%2F%E9%80%8F%E8%A7%86%E7%90%86%E8%AE%BA%2F%E9%80%8F%E8%A7%861.jpg)
 ![透视2.jpg](pictures%2F%E9%80%8F%E8%A7%86%E7%90%86%E8%AE%BA%2F%E9%80%8F%E8%A7%862.jpg)
 
-布鲁内莱斯基
+####    布鲁内莱斯基
+
+小孔成像镜面反射试验 公元1415年， 布鲁内莱斯基从小接受了良好的教育，后来表现出了对艺术的兴趣，加入了佛罗伦萨艺术家协会。在那里，艺术家们不但修习艺术，
+也要学习大学里的科学知识，当然包括数学，几何，光学等等(3)。海什木和罗格培根的光学理论，他肯定是熟知的，他从1415年开始复现海什木的暗室小孔成像试验，并用于艺术。
+他的一系列实验是由两步构成的。
+
+第一步是通过暗室小孔成像把圣若望洗礼堂的画下来：
+
+![透视1.webp](pictures%2F%E9%80%8F%E8%A7%86%E7%90%86%E8%AE%BA%2F%E9%80%8F%E8%A7%861.webp)
+
+第二步，他把画下来的作品拿到室外，在作品上打孔，然后在画前放一面镜子。观众可以从小孔看镜子里绘画的反射图，看起来和真实的圣若望洗礼堂一模一样，产生视错觉：
 
 ![布鲁内莱斯基.webp](pictures%2F%E9%80%8F%E8%A7%86%E7%90%86%E8%AE%BA%2F%E5%B8%83%E9%B2%81%E5%86%85%E8%8E%B1%E6%96%AF%E5%9F%BA.webp)
+
+就这样，对各种几何关系的研究都成为了可能，线性透视法被发现了。马萨乔的圣三位一体就是在布鲁内莱斯基的帮助下完成的，此时其实大致的知识都有了，
+只是还需要一个人来把透视法用严格的数学语言表示出来。最终，基于海什木，罗格培根等先驱的科学著作和布鲁内莱斯基的发现，
+线性透视法在阿尔贝蒂的《论绘画》一书中得到了严格的数学表示，尘埃落定。阿尔贝蒂特意将《论绘画》的发表归功于布鲁内莱斯基的发现，并于扉页将此书题献给他。
 
 ####    多纳泰罗
 
@@ -1394,6 +1408,17 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 ![A_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FA_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg)
 
+The Conspiracy of Claudius Civilis
+
+    The Conspiracy of Claudius Civilis (Dutch: De samenzwering van de Bataven onder Claudius Civilis; Swedish: Batavernas trohetsed till Claudius Civilis) 
+    is an oil painting by the Dutch painter Rembrandt, c. 1661–62, which was originally the largest he ever painted, 
+    at about five by five metres in the shape of a lunette. The painting was commissioned by the Amsterdam city council for the Town Hall. 
+    After the work had been in place briefly, it was returned to Rembrandt, who may have never been paid. 
+    Rembrandt drastically cut down the painting to a quarter of the original size to be sold. It is the last secular history painting he finished.
+
+![The Conspiracy of Claudius Civilis.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FThe%20Conspiracy%20of%20Claudius%20Civilis.jpg)
+
+
 ####    哈尔斯
 
 弗兰斯·哈尔斯（荷蘭語：Frans Hals，约1580年－1666年8月26日），荷兰黄金时代肖像画家，以大胆流畅的笔触和打破传统的鲜明画风闻名于世。
@@ -1423,12 +1448,24 @@ Portrait of Pope Innocent X  教皇Innocent十世
 充分表现出了荷兰市民那种对洁净环境和优雅舒适的气氛的喜好。他在艺术风格上也别具特色，他的绘画形体结实、结构精致，色彩明朗和谐，
 尤善于表现室内光线和空间感。维米尔的绘画给人一种真实性，除了日常生活中的真实之外还使人感到一种信仰上的真实感。
 
+1675年12月15日，维米尔去世，年仅43岁。用他妻子的话来说，维米尔是由于“庞大家庭的重担，没有谋生手段，使他陷入萎靡和沮丧，进而谵妄，好端端的人一、两天之内就突然病死。” 
+维米尔去世前，不但无法卖掉自己的作品，经销的油画也无人问津，结局相当凄凉。维米尔留下他的妻子卡特琳娜和11个孩子，其中8个尚未成年。因为负债累累，卡特琳娜不得不申请破产。
+其作品流传至今者仅35幅。
+
+他使用了以微小的画点组合（点画法），并且善于使用光线的来源，使画面产生一种流动、优雅的气氛，因而被称为光影大师。
+没有人了解维米尔的技法，但可以肯定的是他经常使用当时罕见的暗箱（Camera Obscura）及反射镜，用以捕捉光线和色彩。
+这样的假设从2001年的英国著名画家大卫·霍克尼首先提出（获得美国实验物理学家法尔柯认可，两人还共同发表论文呈现此论），
+并经过美国发明家提姆·詹尼森（Tim Jenison）用更确实的理论、设备进行实验，阐述维美尔的作画用了许多类似照相机的光学设备，将广域的画面投射到画家面前，
+因此维美尔才能把正常距离下、肉眼看不见地毯线条精确描出。
+
+
 ![维米尔.jpeg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%BB%B4%E7%B1%B3%E5%B0%94.jpeg)
 
 戴珍珠耳环的少女 - 北方蒙娜丽莎
 
     此画问世三百多年来，世人都为画中女子惊叹不已：那柔和的衣服线条、耳环的明暗变化，尤其是女子侧身回首、欲言又止、似笑还嗔的回眸，
-    唯《蒙娜丽莎》的微笑可与之媲美。
+    唯《蒙娜丽莎》的微笑可与之媲美。维米尔喜用黄色、蓝色和灰色，他对色彩的把握和光线的处理非常出众。
+    
 
 ![戴珍珠耳环的少女.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E6%88%B4%E7%8F%8D%E7%8F%A0%E8%80%B3%E7%8E%AF%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
 
@@ -1546,6 +1583,10 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 #### 华托
 
+    法国洛可可时代代表画家，他开创了雅宴画，即“风雅的游园集会”，特别是户外的活动，主要描绘的是浪漫而又美轮美奂的聚会，那些盛装的男女在户外花园式的环境中随着音乐优雅地嬉戏、调情。
+
+![华托.jpg](pictures%2F%E5%8D%8E%E6%89%98%2F%E5%8D%8E%E6%89%98.jpg)
+
 舟发西苔岛
 
     西苔岛，是希腊神话中爱情与诗神游乐的美丽岛屿，传说中爱神维纳斯居住之地。华多尽情描绘贵族男女准备出发去那里访问的情景。
@@ -1560,6 +1601,10 @@ Portrait of Pope Innocent X  教皇Innocent十世
 ![热尔桑画店-华托.jpg](pictures%2F%E5%8D%8E%E6%89%98%2F%E7%83%AD%E5%B0%94%E6%A1%91%E7%94%BB%E5%BA%97-%E5%8D%8E%E6%89%98.jpg)
 
 #### 布歇
+
+    法国画家、版画家和设计师，是一位将洛可可风格发挥到极致的画家。曾任法国美术院院长、皇家首席画师。出版过《千姿百态》画册
+
+![布歇.jpeg](pictures%2F%E5%B8%83%E6%AD%87%2F%E5%B8%83%E6%AD%87.jpeg)
 
 蓬巴杜夫人
 
@@ -2875,6 +2920,8 @@ sofa
 蒙德里安是几何抽象画派的先驱，以几何图形为绘画的基本元素，与杜斯堡等创立了“风格派”，提倡自己的艺术“新造型主义”。他还认为艺术应根本脱离自然的外在形式，
 以表现抽象精神为目的，追求人与神统一的绝对境界，也就是现在我们熟知的“纯粹抽象”
 
+![Piet_Mondrian_2.jpg](pictures%2F%E8%92%99%E5%BE%B7%E9%87%8C%E5%AE%89%2FPiet_Mondrian_2.jpg)
+
 构图第II号
 
     蒙德里安的经典作品《构图第II号》就以5100万美元的价格成为全场最高价，也刷新了蒙德里安拍卖的最高记录。这幅作品是蒙德里安极为罕见的以红色为主的画作，
@@ -2957,3 +3004,51 @@ Just what is it that makes today’s homes so different?
 
 ![肖像之像-小姜2.webp](pictures%2F%E5%86%B7%E5%86%9B%2F%E8%82%96%E5%83%8F%E4%B9%8B%E5%83%8F-%E5%B0%8F%E5%A7%9C2.webp)
 
+##  当代画家
+
+### 弗洛伊德（Lucian Freud，1922—2011）
+    
+    1922年出生于德国柏林，毕业于英国圣工会绘画学校。表现派画家，英国最伟大的当代画家之一，偏好人物画像与裸体画像。
+    他在1995年创作的画作《Benefits Supervisor Sleeping》在2008年以创记录的3,360万美元被卖出，也是在世画家画作的最高记录。
+    作为二十世纪最伟大的艺术家之一，吕西安·弗洛伊德坚持画画直到他去世之前。尽管在二十世纪，抽象表现主义占领了整个艺术世界，但是弗洛伊德一直坚持表现主义绘画，
+    最终成为英国最伟大的当代画家之一。
+
+![佛洛依德.jpg](pictures%2F%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%2F%E4%BD%9B%E6%B4%9B%E4%BE%9D%E5%BE%B7.jpg)
+
+Benefits Supervisor Sleeping
+
+![Benefits Supervisor Sleeping.webp](pictures%2F%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%2FBenefits%20Supervisor%20Sleeping.webp)
+
+Girl with a Kitten
+
+![GirlWithAKitten.webp](pictures%2F%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%2FGirlWithAKitten.webp)
+
+自画像
+
+![自画像.webp](pictures%2F%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%2F%E8%87%AA%E7%94%BB%E5%83%8F.webp)
+
+女皇
+
+![女皇.webp](pictures%2F%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%2F%E5%A5%B3%E7%9A%87.webp)
+
+### 安东尼奥·洛佩斯·加西亚
+
+1936年出生于西班牙一个农民家庭，他的绘画启蒙老师是其叔父安东尼奥·洛佩斯·托雷斯，对其成长产生了极大的影响1949年13岁的洛佩兹只身赴马德里学画，
+次年考入圣费尔南多高等美术学院(现称马德里美术学院)，在学习期间，他主要学习绘画，兼学雕刻，因为他不但对雕塑发生浓厚的兴趣，而且认为绘画与雕刻是相辅相成的。
+1964—1969年在母校任教，后为职业艺术家，潜心从事绘画与雕塑，被授予“圣费尔南多皇家美术学院院士”称号，被人们冠以“在世的最卓越的现实主义画家”。
+
+![洛佩兹2.jpg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E6%B4%9B%E4%BD%A9%E5%85%B92.jpg)
+
+![洛佩兹3.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E6%B4%9B%E4%BD%A9%E5%85%B93.jpeg)
+
+sink and mirror
+
+![sink and mirror.webp](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2Fsink%20and%20mirror.webp)
+
+大马路
+
+![大马路.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%A4%A7%E9%A9%AC%E8%B7%AF.jpeg)
+
+初领圣体的小卡门
+
+![初领圣体的小卡门.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%88%9D%E9%A2%86%E5%9C%A3%E4%BD%93%E7%9A%84%E5%B0%8F%E5%8D%A1%E9%97%A8.jpeg)
