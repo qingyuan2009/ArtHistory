@@ -3089,7 +3089,11 @@ Girl with a Kitten
 
 sink and mirror
 
-![sink and mirror.webp](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2Fsink%20and%20mirror.webp)
+![sink and mirror.jpg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2Fsink%20and%20mirror.jpg)
+
+View of Madrid from Torres Blancas
+
+![View of Madrid from Torres Blancas.jpg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2FView%20of%20Madrid%20from%20Torres%20Blancas.jpg)
 
 大马路
 
@@ -3098,3 +3102,8 @@ sink and mirror
 初领圣体的小卡门
 
 ![初领圣体的小卡门.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%88%9D%E9%A2%86%E5%9C%A3%E4%BD%93%E7%9A%84%E5%B0%8F%E5%8D%A1%E9%97%A8.jpeg)
+
+冰箱
+
+![冰箱.webp](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%86%B0%E7%AE%B1.webp)
+
