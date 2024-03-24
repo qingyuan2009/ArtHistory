@@ -1497,6 +1497,35 @@ The Conspiracy of Claudius Civilis
 
 ![窗边读信的少女.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%AA%97%E8%BE%B9%E8%AF%BB%E4%BF%A1%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
 
+####    夏尔丹
+
+让·巴蒂斯特·西梅翁·夏尔丹（1699年11月2日—1779年12月6日）是18世纪的法国画家，是著名的静物画大师。启蒙思想
+
+![1280px-Chardin_pastel_selfportrait.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2F1280px-Chardin_pastel_selfportrait.jpg)
+
+鳐鱼
+
+![鳐鱼.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2F%E9%B3%90%E9%B1%BC.jpg)
+
+水杯
+
+![水杯.webp](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2F%E6%B0%B4%E6%9D%AF.webp)
+
+铜水箱
+
+![铜水箱.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2F%E9%93%9C%E6%B0%B4%E7%AE%B1.jpg)
+
+吹泡泡
+
+![吹泡泡.jpeg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2F%E5%90%B9%E6%B3%A1%E6%B3%A1.jpeg)
+
+洗萝卜的女人
+![Jean-Baptiste_Siméon_Chardin_017.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2FJean-Baptiste_Sim%C3%A9on_Chardin_017.jpg)
+
+玩陀螺的男孩
+
+![Jean-Baptiste_Siméon_Chardin_006.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2FJean-Baptiste_Sim%C3%A9on_Chardin_006.jpg)
+
 ###    巴洛克建筑
 
 凡尔赛宫
@@ -1581,6 +1610,14 @@ The Conspiracy of Claudius Civilis
 ![洛可可2.jpg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF2.jpg)
 ![洛可可3.jpg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF3.jpg)
 
+安娜王后珠宝箱
+
+    一般认为箱子的主人是路易十三的王后“奥地利的安娜”（Anne d’Autrich，1601-1666年，路易十四的母亲和执政初期的摄政），她是金制花丝镶嵌品的爱好者。
+    花丝镶嵌是一门金银丝细工技术，采取点焊接方式或用小环，将平滑或盘曲的金属细丝固定于金属支架之上，藉助金属细丝勾勒出螺旋或藤蔓纹样。
+    透过这个箱子外边的金制花叶饰，其内部覆盖着的深蓝色丝缎隐约可见。这种以精妙的锻造技艺呈现独特刺绣效果的手法，在17世纪备受崇尚。
+
+![安娜王后珠宝箱.jpg](pictures%2F%E6%B4%9B%E5%8F%AF%E5%8F%AF%2F%E5%AE%89%E5%A8%9C%E7%8E%8B%E5%90%8E%E7%8F%A0%E5%AE%9D%E7%AE%B1.jpg)
+
 #### 华托
 
     法国洛可可时代代表画家，他开创了雅宴画，即“风雅的游园集会”，特别是户外的活动，主要描绘的是浪漫而又美轮美奂的聚会，那些盛装的男女在户外花园式的环境中随着音乐优雅地嬉戏、调情。
@@ -1619,6 +1656,8 @@ The Conspiracy of Claudius Civilis
 在弗拉戈纳尔的艺术中不仅受到布歇和意大利的艺术影响，还有来自北方的鲁本斯的色彩和伦勃朗的明暗法，这使他能立足于广博的艺术精华基础之上，
 最后形成自己独特的艺术风格。
 
+![弗拉贡纳尔.jpeg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94.jpeg)
+
 秋千
 
     这幅作品的委托人圣朱利安男爵，原本委托了历史画家德瓦扬，为他和他的情人创作一幅富有情趣的画。
@@ -1646,6 +1685,13 @@ The Conspiracy of Claudius Civilis
 
 ![](pictures/弗拉贡纳尔/读书少女-弗拉贡纳尔.jpg)
 
+門閂
+
+![门闩.jpg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2F%E9%97%A8%E9%97%A9.jpg)
+
+沐浴
+
+![Las_bañistas,_por_Jean-Honoré_Fragonard.JPG](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2FLas_ba%C3%B1istas%2C_por_Jean-Honor%C3%A9_Fragonard.JPG)
 
 ### 启蒙时期的新古典主义
 
