@@ -1319,13 +1319,20 @@ The Four Continents
 
 ####    委拉斯开兹
 
-迭戈·罗德里格斯·德席尔瓦-委拉斯开兹是西班牙画家，国王腓力四世（Philip IV）宫廷中的主要艺术家，也是西班牙黄金时代最重要的画家之一。他是巴洛克时期的个人主义艺术家。
-除了众多具有历史和文化意义的场景，他还画了许多西班牙王室的肖像，其他著名的欧洲人物和平民。因西班牙严厉的宗教政策，他的作品原来大部分收藏在马德里的博物馆中默默无闻，
-在1811年法国入侵西班牙的战争中，被外界所了解。但占领军基于想让公众欣赏，并没有破坏和盗走这些画。经过鉴定家克蒂斯的鉴定，委拉斯开兹有274幅作品存世。
+迭戈·罗德里格斯·德席尔瓦-委拉斯开兹是西班牙画家(1599年6月6日—1660年8月6日)，国王腓力四世（Philip IV）宫廷中的主要艺术家，也是西班牙黄金时代最重要的画家之一。
+他是巴洛克时期的个人主义艺术家。除了众多具有历史和文化意义的场景，他还画了许多西班牙王室的肖像，其他著名的欧洲人物和平民。因西班牙严厉的宗教政策，
+他的作品原来大部分收藏在马德里的博物馆中默默无闻，在1811年法国入侵西班牙的战争中，被外界所了解。但占领军基于想让公众欣赏，并没有破坏和盗走这些画。
+经过鉴定家克蒂斯的鉴定，委拉斯开兹有274幅作品存世。
 
 ![Diegovelazquezselfportrait.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FDiegovelazquezselfportrait.jpg)
 
 Portrait of Pope Innocent X  教皇Innocent十世
+
+    画中的诺森十世正襟危坐在一张华丽的安乐椅上，身体稍向左倾，紧锁的双眉下一对凶犯的眼睛射出阴森的光，狭长的脸上长着一只肥厚的略带鹰钩形的鼻子，
+    紧闭的嘴唇边留着稀疏的髭须。这副相貌威严中带着贪婪，阴险中含有狡诈。画像无以复加地再现了这个显赫权贵的外貌和性格特征。人物发光的红色僧袍、
+    法衣和洁白的衬衣、绸裙构成了画面鲜明而变化丰富的色调。背景是暗红色的天鹅绒帷幕，座椅上镶嵌的金银宝石闪烁着光芒，整个画面既沉着厚重又金碧辉煌。
+    画像完成后，教皇本人曾以赞叹而兼有不满的口气说：“画得太像！”
+    这幅肖像是委拉斯蓋茲的杰作，也是欧洲绘画史上最卓越的现实主义肖像名作之一。后世的许多著名画家都曾对这幅画推崇备至，把它奉为绘画之奇迹和典型。
 
 ![Retrato_del_Papa_Inocencio_X._Roma,_by_Diego_Velázquez.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FRetrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg)
 
@@ -1350,9 +1357,13 @@ Portrait of Pope Innocent X  教皇Innocent十世
     反而说“我绝对可以和女神一决高下”。这时女神完全怒了，立马现身，接受阿拉克涅的挑战。于是姑娘和女神分别制作了精美的挂毯，
     结果竟然不分上下。但最让女神生气的是挂毯的内容：女神编织的挂毯歌颂神明的伟大，而姑娘的挂毯却揭露神的恶行。雅典娜怒火中烧，
     用手中的梭子打阿拉克涅（女神这么厉害，为什么像泼妇骂街，难道不要女神形象了嘛）。姑娘一肚子憋屈，但是对手是女神呀，简直是投诉无门，
-    一气之下用纺纱吊死自尽。这时雅典娜大发慈悲把姑娘复活了，但作为代价，阿拉克涅会作为蜘蛛活下去，从此永生永世都要织网
+    一气之下用纺纱吊死自尽。这时雅典娜大发慈悲把姑娘复活了，但作为代价，阿拉克涅会作为蜘蛛活下去，从此永生永世都要织网。
 
 ![纺织女.webp](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2F%E7%BA%BA%E7%BB%87%E5%A5%B3.webp)
+
+镜前的维纳斯 又常譯為《維納斯對鏡梳妝》-- 画作显示了裸体的希腊神话爱神维纳斯和小爱神邱比特。
+
+![RokebyVenus.jpg](pictures%2F%E5%A7%94%E6%8B%89%E6%96%AF%E5%BC%80%E5%85%B9%2FRokebyVenus.jpg)
 
 ####    伦勃朗
 
@@ -1374,6 +1385,14 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 ![伦勃朗.webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E4%BC%A6%E5%8B%83%E6%9C%97.webp)
 
+杜尔博士的解剖学课
+
+    这幅画描绘的精细程度可谓分毫毕现，杜普医生拿着解剖所用的镊子的姿势，镊子夹起的肌腱、尸体的特征、围在尸体周围的外科医生脸上紧张而专注的神情，
+    杜普医生镇定自若胸有成竹的姿态，以及并未低头看向尸体反而是望向教室阶梯方向的目光——似乎暗示了他当时正在向大众讲课。
+    画中的每一个细节都经得起推敲并且也确实不断的被人分析和演绎过，它也暗示了当时的阿姆斯特丹对科学的关注与投入，伦勃朗也因这幅画而声名大噪，
+    每个人都想委托他作画，他的一副肖像画在当时可以卖到一百荷兰盾，那相当于一名技术娴熟的工人大半年的薪水。
+
+![杜尔博士的解剖学课.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E6%9D%9C%E5%B0%94%E5%8D%9A%E5%A3%AB%E7%9A%84%E8%A7%A3%E5%89%96%E5%AD%A6%E8%AF%BE.jpg)
 
 夜巡
 
@@ -1385,15 +1404,6 @@ Portrait of Pope Innocent X  教皇Innocent十世
 月亮与狩猎女神
 
 ![月亮与狩猎女神 .webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E6%9C%88%E4%BA%AE%E4%B8%8E%E7%8B%A9%E7%8C%8E%E5%A5%B3%E7%A5%9E%20.webp)
-
-杜尔博士的解剖学课
-    
-    这幅画描绘的精细程度可谓分毫毕现，杜普医生拿着解剖所用的镊子的姿势，镊子夹起的肌腱、尸体的特征、围在尸体周围的外科医生脸上紧张而专注的神情，
-    杜普医生镇定自若胸有成竹的姿态，以及并未低头看向尸体反而是望向教室阶梯方向的目光——似乎暗示了他当时正在向大众讲课。
-    画中的每一个细节都经得起推敲并且也确实不断的被人分析和演绎过，它也暗示了当时的阿姆斯特丹对科学的关注与投入，伦勃朗也因这幅画而声名大噪，
-    每个人都想委托他作画，他的一副肖像画在当时可以卖到一百荷兰盾，那相当于一名技术娴熟的工人大半年的薪水。
-
-![杜尔博士的解剖学课.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E6%9D%9C%E5%B0%94%E5%8D%9A%E5%A3%AB%E7%9A%84%E8%A7%A3%E5%89%96%E5%AD%A6%E8%AF%BE.jpg)
 
 犹太新娘
     
@@ -1408,7 +1418,10 @@ Portrait of Pope Innocent X  教皇Innocent十世
 
 ![A_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FA_Woman_Bathing_in_a_Stream_by_Rembrandt.jpg)
 
-The Conspiracy of Claudius Civilis
+The Conspiracy of Claudius Civilis 西菲利斯的阴谋
+
+    晚年的林布蘭獲得一個翻身的機會。阿姆斯特丹剛剛建成的市政廳，需要一幅表現古代荷蘭英雄西菲利斯（Claudius Civilis) 反抗羅馬暴政的巨幅畫作。 
+    然而他的畫卻讓政府官員對他徹底失望了，英雄西菲利斯是毒眼殘疾人這沒錯， 但他沒有像其他畫家只畫他健全的那一側，最後為了生計，他將這幅畫砍得七零八落。
 
     The Conspiracy of Claudius Civilis (Dutch: De samenzwering van de Bataven onder Claudius Civilis; Swedish: Batavernas trohetsed till Claudius Civilis) 
     is an oil painting by the Dutch painter Rembrandt, c. 1661–62, which was originally the largest he ever painted, 
@@ -1418,6 +1431,7 @@ The Conspiracy of Claudius Civilis
 
 ![The Conspiracy of Claudius Civilis.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FThe%20Conspiracy%20of%20Claudius%20Civilis.jpg)
 
+[伦勃朗作品](Rembrandt.md)
 
 ####    哈尔斯
 
