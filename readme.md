@@ -69,7 +69,7 @@
 
 ##  画家：
 
-[波提切利](#波提切利) [达芬奇](#达芬奇-leonardo-da-vinci)
+[波提切利](#波提切利) [达芬奇](#达芬奇-leonardo-da-vinci) [提香](#提香----肖像画大师--艳丽明亮光溜溜)
     
 
 ##  史前美术：
@@ -252,6 +252,7 @@
 规模巨大的罗马斗兽场和万神庙是古罗马建筑的杰出代表。而曾被维苏威火山灰掩埋达1700多年的庞贝壁画，则给我们展示了古罗马绘画的独特面貌。
 
 ####    古罗马斗兽场
+
 罗马斗兽场建于72-80年间，古罗马文明的象征，是古罗马帝国专供奴隶主、贵族和自由民观看斗兽或奴隶角斗的地方。
 
 ![古罗马斗兽场.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA.jpg)
@@ -696,11 +697,17 @@ Hermes and the Infant Dionysus
 
 ![最后的晚餐.jpg](pictures%2F%E8%BE%BE%E8%8A%AC%E5%A5%87%2F%E6%9C%80%E5%90%8E%E7%9A%84%E6%99%9A%E9%A4%90.jpg)
 
+抱银鼠的女子 -- 作品中的女子是米兰公爵卢多维科·斯福尔扎的情妇切奇利娅·加莱拉尼
+
+![抱银鼠的女子.jpg](pictures%2F%E8%BE%BE%E8%8A%AC%E5%A5%87%2F%E6%8A%B1%E9%93%B6%E9%BC%A0%E7%9A%84%E5%A5%B3%E5%AD%90.jpg)
+
 手稿
 
 ![大西洋手稿.jpg](pictures%2F%E8%BE%BE%E8%8A%AC%E5%A5%87%2F%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%89%8B%E7%A8%BF.jpg)
 
 ![温莎手稿.jpg](pictures%2F%E8%BE%BE%E8%8A%AC%E5%A5%87%2F%E6%B8%A9%E8%8E%8E%E6%89%8B%E7%A8%BF.jpg)
+
+[达芬奇作品](%E8%BE%BE%E8%8A%AC%E5%A5%87.md)
 
 ####    米开朗基罗 -- 意大利文艺复兴时期伟大的绘画家、雕塑家、建筑师和诗人，文艺复兴时期雕塑艺术最高峰的代表
 
@@ -873,6 +880,13 @@ Hermes and the Infant Dionysus
 
 ![Titian_-_Diana_and_Actaeon_-_1556-1559.jpg](pictures%2F%E6%8F%90%E9%A6%99%2FTitian_-_Diana_and_Actaeon_-_1556-1559.jpg)
 
+聖母升天
+
+    放置於威尼斯聖方濟會榮耀聖母聖殿的聖壇上，《聖母升天》是提香在威尼斯繪製的第一幅名畫，在此後不久他便成爲了威尼斯最有名的畫家之一。
+    這幅畫打破了同類型繪畫的一貫傳統，將聖母的身軀畫得扭曲起來，并戲劇性地繪出打擾到了旁人的使徒。
+
+ ![聖母升天.jpg](pictures%2F%E6%8F%90%E9%A6%99%2F%E8%81%96%E6%AF%8D%E5%8D%87%E5%A4%A9.jpg)   
+
 巴克斯和阿里阿德涅
 
     阿里阿德涅被情人忒修斯遗弃在纳克索斯岛上，远处情人的船已驶向画面的最左边。当时酒神巴克斯 正乘坐由两只猎豹拉动的战车，带领一群人狂欢来到岸边。
@@ -890,6 +904,12 @@ Hermes and the Infant Dionysus
 
 ![乌尔比诺的维纳斯.jpg](pictures%2F%E6%8F%90%E9%A6%99%2F%E4%B9%8C%E5%B0%94%E6%AF%94%E8%AF%BA%E7%9A%84%E7%BB%B4%E7%BA%B3%E6%96%AF.jpg)
 
+神圣与世俗之爱
+
+![Sacred and Profane Love.jpg](pictures%2F%E6%8F%90%E9%A6%99%2FSacred%20and%20Profane%20Love.jpg)
+
+[提香作品](%E6%8F%90%E9%A6%99.md)
+
 ### 样式主义 -- 矫饰艺术
 
 ####    丁托列托
@@ -903,12 +923,34 @@ Hermes and the Infant Dionysus
 
 ![Jacopo_Tintoretto_-_Finding_of_the_body_of_St_Mark_-_Yorck_Project.jpg](pictures%2F%E4%B8%81%E6%89%98%E5%88%97%E6%89%98%2FJacopo_Tintoretto_-_Finding_of_the_body_of_St_Mark_-_Yorck_Project.jpg)
 
+圣马可解救奴隶的奇迹
+    
+    描绘圣马可从天而降，前来拯救一名即将殉道的奴隶，身上的镣铐刑具粉碎一地。
+
+![圣马可解救奴隶的奇迹.jpg](pictures%2F%E4%B8%81%E6%89%98%E5%88%97%E6%89%98%2F%E5%9C%A3%E9%A9%AC%E5%8F%AF%E8%A7%A3%E6%95%91%E5%A5%B4%E9%9A%B6%E7%9A%84%E5%A5%87%E8%BF%B9.jpg)
+
+偷运圣马尔谷的圣髑
+
+    将圣马尔谷的圣髑从埃及的亚历山大港偷运到威尼斯，以运用透视著称，近处物体的颜色较暗，而背景中的人物是白色的，几乎透明。
+    奇异的红色天空翻滚着不祥的乌云，为画面增添了沉重的气氛。丁托列托本人也在作品中出现，是骆驼旁边的大胡子。
+
+![偷运圣马尔谷的圣髑.jpg](pictures%2F%E4%B8%81%E6%89%98%E5%88%97%E6%89%98%2F%E5%81%B7%E8%BF%90%E5%9C%A3%E9%A9%AC%E5%B0%94%E8%B0%B7%E7%9A%84%E5%9C%A3%E9%AB%91.jpg)
+
 维纳斯、火神及战神
 
     故事讲到，集爱与美于一身的维纳斯被宙斯要求嫁给其貌不扬、有腿疾的火神伏尔甘，维纳斯忍受不了便与英俊潇洒的战神Mars出轨了。
     画面描写的正是伏尔甘杀回家里来捉奸，维纳斯惊慌失措急忙拿布想遮盖自己，伏尔甘连忙上前想查看证据，堂堂战神吓得躲到桌子底下的场景。
 
 ![维纳斯、火神及战神.png](pictures%2F%E4%B8%81%E6%89%98%E5%88%97%E6%89%98%2F%E7%BB%B4%E7%BA%B3%E6%96%AF%E3%80%81%E7%81%AB%E7%A5%9E%E5%8F%8A%E6%88%98%E7%A5%9E.png)
+
+天堂
+
+    《天堂》是一幅巨大的布面油画（尺寸为22 x 9 米），位于威尼斯总督府的主厅，威尼斯大议会在这里举行。这是世界上最大的油画之一，由丁托列托绘制，
+    他是一位威尼斯染匠的儿子。 这幅画描绘了天堂的场景，其中有各种宗教人物。
+
+![天堂.jpg](pictures%2F%E4%B8%81%E6%89%98%E5%88%97%E6%89%98%2F%E5%A4%A9%E5%A0%82.jpg)   
+
+[丁托列托作品](%E4%B8%81%E6%89%98%E5%88%97%E6%89%98.md)
 
 ####    格列柯
 
@@ -1015,6 +1057,10 @@ Hermes and the Infant Dionysus
 
 ![雪中猎人.jpg](pictures%2F%E5%8B%83%E9%B2%81%E7%9B%96%E5%B0%94%2F%E9%9B%AA%E4%B8%AD%E7%8C%8E%E4%BA%BA.jpg)
 
+冬季捕鸟陷阱风景
+
+![冬季捕鸟陷阱风景.jpg](pictures%2F%E5%8B%83%E9%B2%81%E7%9B%96%E5%B0%94%2F%E5%86%AC%E5%AD%A3%E6%8D%95%E9%B8%9F%E9%99%B7%E9%98%B1%E9%A3%8E%E6%99%AF.jpg)
+
 盲人的寓言
 
     6个瞎子互相扶持着，沿着画面的对角线由左上方向右下方运动，却不知已陷入险境，领头的第一个瞎子已跌入壕沟，
@@ -1070,6 +1116,8 @@ Hermes and the Infant Dionysus
 
 ![丢勒.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%A2%E5%8B%92.jpg)
 
+![Durer_selfporitrait.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FDurer_selfporitrait.jpg)
+
 ![Self-portrait_at_13_by_Albrecht_Dürer.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FSelf-portrait_at_13_by_Albrecht_D%C3%BCrer.jpg)
 
 启示录-- 共有十五幅，于 1498 年出版，描绘《启示录》中的场景
@@ -1089,6 +1137,12 @@ Hermes and the Infant Dionysus
 
 ![母亲-丢勒.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E6%AF%8D%E4%BA%B2-%E4%B8%A2%E5%8B%92.jpg)
 
+丟勒的犀牛
+
+    木刻版畫，作品建基於一幅由不知名畫家所畫的素描印度犀牛。畫中的犀牛早幾年來到里斯本，是自從羅馬帝國以來第一只活的样本。然而，丟勒本人從沒見過那隻犀牛的實體。
+
+![丟勒的犀牛.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%9F%E5%8B%92%E7%9A%84%E7%8A%80%E7%89%9B.jpg)
+
 青草地
 
 ![一块草皮.jpeg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%80%E5%9D%97%E8%8D%89%E7%9A%AE.jpeg)
@@ -1107,6 +1161,7 @@ Hermes and the Infant Dionysus
 ![丢勒素描2.jpeg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%A2%E5%8B%92%E7%B4%A0%E6%8F%8F2.jpeg)
 ![丢勒素描3.jpeg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%A2%E5%8B%92%E7%B4%A0%E6%8F%8F3.jpeg)
 
+[丢勒作品](%E4%B8%A2%E5%8B%92.md)
 
 ####    荷尔拜因
 
