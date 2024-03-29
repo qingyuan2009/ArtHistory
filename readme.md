@@ -3197,3 +3197,17 @@ View of Madrid from Torres Blancas
 
 ![冰箱.webp](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%86%B0%E7%AE%B1.webp)
 
+素描
+
+女儿 
+
+![女儿.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E5%A5%B3%E5%84%BF.jpeg)
+
+![素描.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E7%B4%A0%E6%8F%8F.jpeg)
+
+![素描2.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E7%B4%A0%E6%8F%8F2.jpeg)
+
+![自画像.jpeg](pictures%2F%E6%B4%9B%E4%BD%A9%E5%85%B9%2F%E8%87%AA%E7%94%BB%E5%83%8F.jpeg)
+
+
+
