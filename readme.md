@@ -1005,6 +1005,8 @@ Hermes and the Infant Dionysus
 
 ![歐貴茲伯爵的葬禮.jpeg](pictures%2F%E6%A0%BC%E5%88%97%E6%9F%AF%2F%E6%AD%90%E8%B2%B4%E8%8C%B2%E4%BC%AF%E7%88%B5%E7%9A%84%E8%91%AC%E7%A6%AE.jpeg)
 
+[格列柯作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E6%A0%BC%E5%88%97%E6%9F%AF.md)
+
 ### 尼德兰文艺复兴
 
 尼德兰包括荷兰、比利时、卢森堡以及法国东北部的一些地区。由于地理条件优越，尼德兰很早就是欧洲西北部重要的水陆交通中心，手工业发达，商业繁荣，
@@ -1420,6 +1422,7 @@ The Four Continents
 
 ![Anton_van_Dyck_-_Samson_and_Delilah_-_Google_Art_Project.jpg](pictures%2F%E8%8C%83%E6%88%B4%E5%85%8B%2FAnton_van_Dyck_-_Samson_and_Delilah_-_Google_Art_Project.jpg)
 
+[范戴克作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E8%8C%83%E6%88%B4%E5%85%8B.md)
 
 ####    委拉斯开兹
 
@@ -1795,6 +1798,12 @@ The Assumption of the Virgin
 
 ![龐巴度夫人.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E9%BE%90%E5%B7%B4%E5%BA%A6%E5%A4%AB%E4%BA%BA.jpg)
 
+奥墨菲
+
+![奥墨菲.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E5%A5%A5%E5%A2%A8%E8%8F%B2.jpg)
+
+[布歇作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%B8%83%E6%AD%87.md)
+
 #### 弗拉贡纳尔
 
 1732年4月5日出生在法国南部一个商人家庭，1738年随父移居巴黎。1747年父亲送他去律师家学徒，但他无意于律师职业，于是到了夏尔丹画室学习绘画。
@@ -2091,6 +2100,8 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 ![萨达纳帕拉之死..jpg](pictures%2F%E5%BE%B7%E6%8B%89%E5%85%8B%E6%B4%9B%E7%93%A6%2F%E8%90%A8%E8%BE%BE%E7%BA%B3%E5%B8%95%E6%8B%89%E4%B9%8B%E6%AD%BB..jpg)
 
+[德拉克洛瓦作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%BE%B7%E6%8B%89%E5%85%8B%E6%B4%9B%E7%93%A6.md)
+
 ### 色彩理论
 
 色轮（color wheel）
@@ -2161,6 +2172,8 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 从主教花园望见的索尔兹伯里大教堂
 
 ![從主教花園望見的索爾茲伯里座堂 .jpg](pictures%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94%2F%E5%BE%9E%E4%B8%BB%E6%95%99%E8%8A%B1%E5%9C%92%E6%9C%9B%E8%A6%8B%E7%9A%84%E7%B4%A2%E7%88%BE%E8%8C%B2%E4%BC%AF%E9%87%8C%E5%BA%A7%E5%A0%82%20.jpg)
+
+[康斯特布尔作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%BA%B7%E6%96%AF%E7%89%B9%E5%B8%83%E5%B0%94.md)
 
 ####    透纳
 
