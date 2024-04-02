@@ -58,6 +58,7 @@
         g.抽象主义 -- 康定斯基， *蒙德里安， 波洛克
         h.POP艺术 -- 安迪·沃霍尔
         i.超写实主义
+        j.当代画家 -- 安东尼奥·洛佩斯， 弗洛伊德， 怀斯
 
 ##  理论：
     
@@ -87,6 +88,9 @@
 *   [格列柯](#格列柯)
 *   [范戴克](#范戴克)
 *   [透纳](#透纳)
+*   [列宾](#列宾)
+*   [柯罗----风景大师与诗意自然相拥的一生--我的最爱啊](#柯罗----风景大师与诗意自然相拥的一生--我的最爱啊)
+*   [怀斯](#怀斯)
     
 
 ##  史前美术：
@@ -1957,6 +1961,14 @@ The Assumption of the Virgin
 
 ![Jean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FJean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg)
 
+布罗格利公主
+    
+    布罗格利公主身着漂亮蓝色绸裙，神态自如地靠在椅背边。画家以熟练的古典精致写实画法，将这位公爵夫人恬淡的性格，十分含蓄而又抒情地表现出来：她神情专注，
+    嘴角微露笑意，圆润的脖颈上配戴着十字花纹的金项链，洁润如玉的双臂，纤柔的手腕上饰有晶莹闪烁的珠翠珍宝以及透明花边都被细腻极致地描绘如真，
+    不同织物的质感展现在观众前面，令人惊叹不已，画家是女性美的崇拜者和表现者。此画为安格尔73岁时所作。
+
+![布罗格利公主.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E5%B8%83%E7%BD%97%E6%A0%BC%E5%88%A9%E5%85%AC%E4%B8%BB.jpg)
+
 大宫女
 
     这幅画是受拿破仑的妹妹，那不勒斯王国王后卡罗琳·波拿巴的委托而做。显示土耳其内宫一裸体宫女。现藏于法国巴黎卢浮宫。
@@ -2263,6 +2275,10 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 ![晚禱.jpg](pictures%2F%E7%B1%B3%E5%8B%92%2F%E6%99%9A%E7%A6%B1.jpg)
 
+牧羊女与羊群
+
+![牧羊女与羊群.jpg](pictures%2F%E7%B1%B3%E5%8B%92%2F%E7%89%A7%E7%BE%8A%E5%A5%B3%E4%B8%8E%E7%BE%8A%E7%BE%A4.jpg)
+
 ####    杜米埃
 
 奥诺雷·杜米埃(Honoré Daumier)(1808年2月26日-1879年2月10日)是法国著名画家、讽刺漫画家、雕塑家和版画家。是当时最多产的艺术家，
@@ -2298,11 +2314,15 @@ The Evening Star
 
 ![The Evening Star.jpg](pictures%2F%E6%9F%AF%E7%BD%97%2FThe%20Evening%20Star.jpg)
 
+[柯罗作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E6%9F%AF%E7%BD%97.md)
+
 ####    库尔贝
 
 19世纪中叶之前，西方绘画的主流是历史与虚构的主题。创作古典神话和圣经题材的画作，是延续了几百年的传统。但一批艺术家们开始对此感到不满，想要推翻陈规，
 他们声称 ：“只有当下的东西，人们亲眼看见的东西才是真实的”，他们更关心人们的亲身经历和日常生活。这一艺术运动的发起者，就是有着“画坛叛逆”之名的，
 写实主义画派先驱，法国画家居斯塔夫 · 库尔贝。
+
+![Portrait of Gustave Courbet.jpg](pictures%2F%E5%BA%93%E5%B0%94%E8%B4%9D%2FPortrait%20of%20Gustave%20Courbet.jpg)
 
 你好，库尔贝先生
 
@@ -2324,6 +2344,9 @@ The Evening Star
 
 ![畫室.jpg](pictures%2F%E5%BA%93%E5%B0%94%E8%B4%9D%2F%E7%95%AB%E5%AE%A4.jpg)
 
+庫爾貝自畫像
+
+![庫爾貝自畫像.jpg](pictures%2F%E5%BA%93%E5%B0%94%E8%B4%9D%2F%E5%BA%AB%E7%88%BE%E8%B2%9D%E8%87%AA%E7%95%AB%E5%83%8F.jpg)
 
 ####    列宾
 
@@ -2340,6 +2363,12 @@ The Evening Star
 
 ![圣尼古拉拯救三个要被处死的无辜者.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E5%9C%A3%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%8B%AF%E6%95%91%E4%B8%89%E4%B8%AA%E8%A6%81%E8%A2%AB%E5%A4%84%E6%AD%BB%E7%9A%84%E6%97%A0%E8%BE%9C%E8%80%85.jpg)
 
+扎波罗热哥萨克致土耳其苏丹的回信
+
+![扎波罗热哥萨克致土耳其苏丹的回信.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%93%A5%E8%90%A8%E5%85%8B%E8%87%B4%E5%9C%9F%E8%80%B3%E5%85%B6%E8%8B%8F%E4%B8%B9%E7%9A%84%E5%9B%9E%E4%BF%A1.jpg)
+
+![扎波罗热哥萨克致土耳其苏丹的回信2.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%93%A5%E8%90%A8%E5%85%8B%E8%87%B4%E5%9C%9F%E8%80%B3%E5%85%B6%E8%8B%8F%E4%B8%B9%E7%9A%84%E5%9B%9E%E4%BF%A12.jpg)
+
 沙皇尼古拉二世草稿
 
 ![沙皇尼古拉二世草稿.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E6%B2%99%E7%9A%87%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96%E8%8D%89%E7%A8%BF.jpg)
@@ -2347,6 +2376,8 @@ The Evening Star
 萨特阔在水晶宫
 
 ![萨特阔在水晶宫.jpg](pictures%2F%E5%88%97%E5%AE%BE%2F%E8%90%A8%E7%89%B9%E9%98%94%E5%9C%A8%E6%B0%B4%E6%99%B6%E5%AE%AB.jpg)
+
+[列宾作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%88%97%E5%AE%BE.md)
 
 ### 印象主义
 
@@ -3314,5 +3345,37 @@ View of Madrid from Torres Blancas
 
 ### 怀斯
 
+安德鲁·怀斯是美国当代重要的新写实主义画家，他的作品以水彩画和蛋彩画为主，以贴近平民生活的主题画闻名，作品已被相当多的博物馆、艺廊重视与收藏，包括了美国国家画廊。
+安德鲁·怀斯先后被三届美国总统肯尼迪、里根、布什分别授予“总统自由勋章”、“金质总统勋章”和“国会金质章”。主要作品有《克里斯蒂娜的世界》、《仔兔》、《芝草》等。
 
+![Self-Portrait.webp](pictures%2F%E6%80%80%E6%96%AF%2FSelf-Portrait.webp)
+
+克里斯蒂娜的世界
+
+    畫中的女性是安娜·克里斯蒂娜·奧爾森（Anna Christina Olson，1893年5月-1968年1月27日），患有小兒麻痺症，因而下身無法活動。魏斯和她相識，
+    1940年到1980年間多次以她與她的弟弟為模特繪製作品。
+
+![克里斯蒂娜的世界.jpg](pictures%2F%E6%80%80%E6%96%AF%2F%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%A8%9C%E7%9A%84%E4%B8%96%E7%95%8C.jpg)
+
+Christina Olson
+
+![Christina Olson.jpg](pictures%2F%E6%80%80%E6%96%AF%2FChristina%20Olson.jpg)
+
+Helga
+
+![Helga.jpg](pictures%2F%E6%80%80%E6%96%AF%2FHelga.jpg)
+
+Wind from the Sea
+
+![Wind from the Sea.jpg](pictures%2F%E6%80%80%E6%96%AF%2FWind%20from%20the%20Sea.jpg)
+
+Winter
+
+![Winter.jpg](pictures%2F%E6%80%80%E6%96%AF%2FWinter.jpg)
+
+Faraway
+
+![Faraway.jpg](pictures%2F%E6%80%80%E6%96%AF%2FFaraway.jpg)
+
+[怀斯作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E6%80%80%E6%96%AF.md)
 
