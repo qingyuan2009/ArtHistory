@@ -1215,6 +1215,10 @@ The Conversion of Mary Magdalene
 
 ![天使报喜.jpg](pictures%2F%E6%89%AC%C2%B7%E5%87%A1%C2%B7%E8%89%BE%E5%85%8B%2F%E5%A4%A9%E4%BD%BF%E6%8A%A5%E5%96%9C.jpg)
 
+大臣罗林的圣母
+
+![大臣罗林的圣母.jpeg](pictures%2F%E6%89%AC%C2%B7%E5%87%A1%C2%B7%E8%89%BE%E5%85%8B%2F%E5%A4%A7%E8%87%A3%E7%BD%97%E6%9E%97%E7%9A%84%E5%9C%A3%E6%AF%8D.jpeg)
+
 ####    勃鲁盖尔 - 欧洲美术史上第一位“农民画家”, 或者风俗画
 
 老彼得·布呂赫爾（荷蘭語：Pieter Bruegel de Oude，約1525年—1569年9月9日），
@@ -2798,6 +2802,8 @@ The Evening Star
 德加与安格尔相见并临摹了许多他的作品。德加富于创新的构图、细致的描绘和对动作的透彻表达使他成为19世纪晚期现代艺术的大师之一。
 他最著名的绘画题材包括芭蕾舞演员和其他女性、以及赛马。他通常被认为是属于印象派，但他的有些作品更具古典、现实主义或者浪漫主义画派风格。
 
+![Edgar_Degas_self_portrait_1855.jpeg](pictures%2F%E5%BE%B7%E5%8A%A0%2FEdgar_Degas_self_portrait_1855.jpeg)
+
 舞女
 
 ![舞女.jpeg](pictures%2F%E5%BE%B7%E5%8A%A0%2F%E8%88%9E%E5%A5%B3.jpeg)
@@ -2813,6 +2819,11 @@ The Evening Star
     大部分空间用来描绘酒吧陈设，这种空旷感与人物的失落感相映成趣，被人誉为是一幅有思想性的叙事画。
 
 ![苦艾酒.jpg](pictures%2F%E5%BE%B7%E5%8A%A0%2F%E8%8B%A6%E8%89%BE%E9%85%92.jpg)
+
+斯巴达少年的训练
+
+![斯巴达少年的训练.jpg](pictures%2F%E5%BE%B7%E5%8A%A0%2F%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%B0%91%E5%B9%B4%E7%9A%84%E8%AE%AD%E7%BB%83.jpg)
+
 
 ####    雷诺阿 -- 追逐阳光的“少年”
 
