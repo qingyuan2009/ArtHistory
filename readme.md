@@ -69,6 +69,7 @@
         新现实主义 -- 安东尼奥·洛佩斯 
         新写实主义 -- 怀斯
         表现主义 -- 弗洛伊德
+    十、其他画家作品
 
 ##  理论：
     
@@ -466,11 +467,19 @@ Hermes and the Infant Dionysus
 
 ![亞美尼亞泥金裝飾手抄本.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC.jpg)
 
+傳道者聖約翰 於1147年以前繪製，羊皮紙上的彩圖
+
+![傳道者聖約翰.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%82%B3%E9%81%93%E8%80%85%E8%81%96%E7%B4%84%E7%BF%B0.jpg)
+
 ####    圣像画
 
 用颜料画在木板上的圣像画得到了广泛的使用，并成为教堂内部装饰不可或缺的一部分。做圣像画的木板主要由雪松和柏树制成。圣像画有不同的尺寸和形状。
 通常，在木板上雕刻出一个与周边形状相同、深达10毫米的区域，用来绘制圣像画。圣像画的主图像被放置在雕刻出的区域内，而周边要么放置其它图像要么保持空白。
 圣像画主要是用蛋彩画使用的材料--矿物颜料与蛋黄混合。
+
+新約三位一體的聖像畫 木板（白楊木）上的蛋彩畫和金色
+
+![三位一體.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94.jpg)
 
 救世主
 
@@ -556,9 +565,11 @@ Hermes and the Infant Dionysus
 
 ![玻璃镶嵌画.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%8E%BB%E7%92%83%E9%95%B6%E5%B5%8C%E7%94%BB.jpg)
 
-進入耶路撒冷
+巴黎桑斯府邸火焰式哥德式十字窗
 
-![Entrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2FEntrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg)
+![桑斯宫邸.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E6%A1%91%E6%96%AF%E5%AE%AB%E9%82%B8.jpg)
+
+![十字窗.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%8D%81%E5%AD%97%E7%AA%97.jpg)
 
 
 ##  文艺复兴 （the Renaissance）
@@ -1374,6 +1385,12 @@ The Conversion of Mary Magdalene
 
 ![两大使.jpeg](pictures%2F%E8%8D%B7%E5%B0%94%E6%8B%9C%E5%9B%A0%2F%E4%B8%A4%E5%A4%A7%E4%BD%BF.jpeg)
 
+亨利八世（
+
+    英語：Henry VIII；1491年6月28日—1547年1月28日），是英格兰国王亨利七世次子，都铎王朝第二任国王
+
+![亨利八世.jpg](pictures%2F%E8%8D%B7%E5%B0%94%E6%8B%9C%E5%9B%A0%2F%E4%BA%A8%E5%88%A9%E5%85%AB%E4%B8%96.jpg)
+
 死神之舞
 
 ![death-046.jpg](pictures%2F%E8%8D%B7%E5%B0%94%E6%8B%9C%E5%9B%A0%2Fdeath-046.jpg)
@@ -1806,6 +1823,10 @@ The Conspiracy of Claudius Civilis 西菲利斯的阴谋
 窗边读信的少女
 
 ![窗边读信的少女.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%AA%97%E8%BE%B9%E8%AF%BB%E4%BF%A1%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
+
+繪畫的藝術
+
+![繪畫的藝術.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%B9%AA%E7%95%AB%E7%9A%84%E8%97%9D%E8%A1%93.jpg)
 
 ####    范勒伊斯达尔 -- 最伟大的荷兰风景画家
 
@@ -2489,6 +2510,10 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 波浪
 
 ![波浪.jpg](pictures%2F%E5%B8%83%E6%A0%BC%E7%BD%97%2F%E6%B3%A2%E6%B5%AA.jpg)
+
+抵御爱神
+
+![抵御爱神.jpg](pictures%2F%E5%B8%83%E6%A0%BC%E7%BD%97%2F%E6%8A%B5%E5%BE%A1%E7%88%B1%E7%A5%9E.jpg)
 
 维纳斯的诞生
 
@@ -3882,4 +3907,72 @@ Faraway
 ![Faraway.jpg](pictures%2F%E6%80%80%E6%96%AF%2FFaraway.jpg)
 
 [怀斯作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E6%80%80%E6%96%AF.md)
+
+##  其他画家作品
+
+### 罗希尔·范德魏登
+
+（Rogier van der Weyden，约1399年或1400年－1464年6月18日），出生于今天的比利时图尔奈，是早期尼德兰画家
+
+降下十字架
+
+![降下十字架.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%99%8D%E4%B8%8B%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)
+
+### 帕尔米贾尼诺
+
+吉罗拉莫·弗朗切斯科·马里亚·马佐拉（義大利語：Girolamo Francesco Maria Mazzola；1503年1月11日—1540年8月24日），
+人称帕尔米贾尼诺（義大利語：Parmigianino，意为“来自帕尔马的小个子”），是16世纪意大利矫饰主义风格画家，同时他也是一名版画家，
+
+长颈圣母
+
+![長脖子的聖母瑪利亞.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%95%B7%E8%84%96%E5%AD%90%E7%9A%84%E8%81%96%E6%AF%8D%E7%91%AA%E5%88%A9%E4%BA%9E.jpg)
+
+### 朱塞佩·阿尔钦博托
+
+朱塞佩·阿尔钦博托（義大利語：Giuseppe Arcimboldo，1527年—1593年7月11日）是意大利文艺复兴时期著名肖像画家，他的作品包括挂毯设计和彩色玻璃装饰设计，
+他的作品特点是用水果、蔬菜、花、书、鱼等各种物体来堆砌成人物的肖像。
+
+夏季
+
+![夏季.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E5%A4%8F%E5%AD%A3.jpg)
+
+鲁道夫二世
+
+![鲁道夫二世.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%B2%81%E9%81%93%E5%A4%AB%E4%BA%8C%E4%B8%96.jpg)
+
+
+### 亚森特·里戈
+
+亚森特·里戈（法語：Hyacinthe Rigaud，1659年7月20日—1743年12月27日），法国画家，以宫廷人物肖像画擅长，代表作《路易十四》
+
+![路易十四肖像.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E8%B7%AF%E6%98%93%E5%8D%81%E5%9B%9B%E8%82%96%E5%83%8F.jpg)
+
+### 克洛德·洛兰
+
+克洛德·洛林 （法語：Claude Lorrain，约1600年—1682年11月21日），也译作劳兰、劳伦或罗兰恩，原名克洛德·热莱（法語：Claude Gellée），
+是法国巴洛克时期的风景画家，但主要活动是在意大利。
+
+示巴女王登陆
+
+![示巴女王登陆.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E7%A4%BA%E5%B7%B4%E5%A5%B3%E7%8E%8B%E7%99%BB%E9%99%86.jpg)
+
+### 弗朗索瓦·吕德
+
+弗朗索瓦·吕德（François Rude，1784年1月4日—1855年11月3日），法国雕塑家。
+
+马赛曲
+
+![马赛曲.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%A9%AC%E8%B5%9B%E6%9B%B2.jpg)
+
+
+### 約翰·艾佛雷特·米萊
+
+第一代從男爵約翰·艾佛雷特·米萊 PRA（Sir John Everett Millais, 1st Baronet 1829年6月8日—1896年8月13日），英國畫家與插圖畫家，也是前拉斐爾派的創始人之一。
+
+奥菲莉娅
+
+    奥菲莉娅（Ophelia）是英国画家約翰·艾佛雷特·米萊（John Everett Millais ）于1851～1852年绘制的布面油画，
+    為米莱個人以及前拉斐尔派的经典作品，现藏于伦敦泰特美术馆，是镇馆之宝之一。
+
+![奥菲莉娅.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E5%A5%A5%E8%8F%B2%E8%8E%89%E5%A8%85.jpg)
 
