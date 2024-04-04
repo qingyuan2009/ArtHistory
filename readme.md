@@ -466,6 +466,24 @@ Hermes and the Infant Dionysus
 
 ![亞美尼亞泥金裝飾手抄本.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC.jpg)
 
+####    圣像画
+
+用颜料画在木板上的圣像画得到了广泛的使用，并成为教堂内部装饰不可或缺的一部分。做圣像画的木板主要由雪松和柏树制成。圣像画有不同的尺寸和形状。
+通常，在木板上雕刻出一个与周边形状相同、深达10毫米的区域，用来绘制圣像画。圣像画的主图像被放置在雕刻出的区域内，而周边要么放置其它图像要么保持空白。
+圣像画主要是用蛋彩画使用的材料--矿物颜料与蛋黄混合。
+
+救世主
+
+![救世主.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E6%95%91%E4%B8%96%E4%B8%BB.jpg)
+
+圣母子
+
+![圣母子.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%9C%A3%E6%AF%8D%E5%AD%90.jpeg)
+
+耶稣受难
+
+![耶稣受难.png](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E8%80%B6%E7%A8%A3%E5%8F%97%E9%9A%BE.png)
+
 
 ### 罗马式 （10-12世纪）
 
@@ -541,6 +559,7 @@ Hermes and the Infant Dionysus
 進入耶路撒冷
 
 ![Entrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2FEntrance_in_Jerusalem-Master_of_monogram_AH-MBA_Lyon_H648b-IMG_0241.jpg)
+
 
 ##  文艺复兴 （the Renaissance）
 
