@@ -2258,7 +2258,7 @@ Marie Antoinette on the Way to the Guillotine
 
 ####    安格尔 -- 唯美主义的古典主义
 
-让-奥古斯特-多米尼克•安格尔，1780年8月29日- 1867年1月14日，他出生在蒙托邦的一个普通家庭，法国新古典主义画家。
+让-奥古斯特-多米尼克•安格尔(Jean Auguste Dominique Ingres)，1780年8月29日- 1867年1月14日，他出生在蒙托邦的一个普通家庭，法国新古典主义画家。
 安格尔强调绘画必须重视骨骼，而肌肉远在其次，他认为肌肉绘制得过分精确会成为造型纯真的最大障碍，甚至会造成独特构思的浪费使作品平庸化。
 这是发前人所未想的重要美学理论，1814年他应卡萝琳皇后的邀请创作的《大宫女》就是这种理论的最好佐证。
 安格尔崇尚自然，代表他最高成就的裸体创作往往不事雕琢，是自然形象洗练化与古典造型理性的结合。他笔下的裸女没有思想《土耳其浴室》、
@@ -2325,6 +2325,14 @@ Marie Antoinette on the Way to the Guillotine
 
 ![路易十三世的宣誓.jpeg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E8%B7%AF%E6%98%93%E5%8D%81%E4%B8%89%E4%B8%96%E7%9A%84%E5%AE%A3%E8%AA%93.jpeg)
 
+Napoleon on his imperial throne
+
+![Napoleon on his imperial throne.jpeg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FNapoleon%20on%20his%20imperial%20throne.jpeg)
+
+Emperor Napoleon in His Study canvas Tuileries
+
+![Emperor-Napoleon-in-His-Study-canvas-Tuileries-1812.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FEmperor-Napoleon-in-His-Study-canvas-Tuileries-1812.jpg)
+
 [安格尔作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%AE%89%E6%A0%BC%E5%B0%94.md)
 
 ##  19世纪美术
@@ -2375,6 +2383,8 @@ Marie Antoinette on the Way to the Guillotine
 他一生总在改变，虽然他从没有建立自己的门派，但对后世的现实主义画派、浪漫主义画派和印象派都有很大的影响，
 是一位承前启后的过渡性人物。代表作有《裸体的玛哈》、《着衣的玛哈》、《阳伞》、《巨人》等。
 
+![Autorretrato_con_gafas_por_Francisco_de_Goya_(Musée_Bonnat-Helleu).jpg](pictures%2F%E6%88%88%E9%9B%85%2FAutorretrato_con_gafas_por_Francisco_de_Goya_%28Mus%C3%A9e_Bonnat-Helleu%29.jpg)
+
 1808年5月3日夜枪杀起义者
 
     1808年拿破仑的雇佣军入侵西班牙，腐败无能的卡洛斯王朝不战而降，不甘心做亡国奴的西班牙人民奋起反抗。5月2日，
@@ -2387,6 +2397,14 @@ Marie Antoinette on the Way to the Guillotine
 查理四世的一家
 
 ![La_familia_de_Carlos_IV,_Francisco_de_Goya.jpg](pictures%2F%E6%88%88%E9%9B%85%2FLa_familia_de_Carlos_IV%2C_Francisco_de_Goya.jpg)
+
+The Disasters of War
+
+![The Disasters of War.jpg](pictures%2F%E6%88%88%E9%9B%85%2FThe%20Disasters%20of%20War.jpg)
+
+被分割的表演場所
+
+![被分割的表演場所.jpg](pictures%2F%E6%88%88%E9%9B%85%2F%E8%A2%AB%E5%88%86%E5%89%B2%E7%9A%84%E8%A1%A8%E6%BC%94%E5%A0%B4%E6%89%80.jpg)
 
 裸体的马哈和穿衣的马哈
 
