@@ -2269,7 +2269,9 @@ Marie Antoinette on the Way to the Guillotine
 少女是画家衰老年岁的产儿，她的美资超过了所有的姐妹，集中了她们的美于一身。安格尔的艺术形式美是成功的，他笔下的裸体屏弃了一切非自然的成分，
 因而她们的美是可供任何时代膜拜的典范。
 
-![安格尔.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2F%E5%AE%89%E6%A0%BC%E5%B0%94.jpg)
+安格尔后期是反对印象派的顶流阶层。也反对写实主义和浪漫主义。
+
+![Ingres-autoportrait-1858_Florence.jpg](pictures%2F%E5%AE%89%E6%A0%BC%E5%B0%94%2FIngres-autoportrait-1858_Florence.jpg)
 
 泉
 
@@ -2329,9 +2331,9 @@ Marie Antoinette on the Way to the Guillotine
 
 ### 浪漫主义
 
-古典主义的对立面。
+古典主义的对立面。生命如何面对巨大的挑战。
     
-    1. 激越的感情
+    1. 激越的感情， 创作是感情的宣泄
     2. 极端个性化的描写
 
 ####    傑利柯  -- 於畫布上繪出人性的絕望與死亡的悲劇
@@ -2497,7 +2499,6 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 <img src="pictures/色彩理论/tetradic.png" width = "500" height = "300" alt="图片名称" align=center />
 <img src="pictures/色彩理论/四色例子.jpg" width = "500" height = "300" alt="图片名称" align=center />
 
-
 ####    康斯特布尔 -- 19世纪英国最伟大的风景画家
 
 约翰·康斯特布尔（John Constable，1776年6月11日~1837年3月31日），英国皇家美术学院院士，19世纪英国最伟大的风景画家。
@@ -2620,7 +2621,6 @@ Invocation
 Solitude
 
 ![Solitude.jpg](pictures%2F%E8%90%8A%E9%A0%93%2FSolitude.jpg)
-
 
 ### 现实主义
 
