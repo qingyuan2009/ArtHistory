@@ -158,7 +158,7 @@
 
 如何评价希腊艺术或古典艺术，德意志艺术史家温克尔曼一语评之——**高贵的单纯**，**静穆的伟大**。
 
-##  史前美术：
+##  史前美术
 
 人类迄今为止发现的最早的美术作品源自旧石器时代晚期-新石器时代，证明人类的艺术至少也有三万年的历史。
 这一时期的美术主要的表现形式为洞穴中的壁画和雕塑，内容皆以动物为主，手法写实，造型生动。又称“原始美术”，西方人最早的美术作品产生于旧石器时代晚期，即距今3万到1万多年之间。
@@ -166,7 +166,7 @@
 迄今为止发现的原始雕刻大多为小型动物雕刻，少数人像雕刻中，裸体女性雕像佔主要地位，这些女性雕像夸张女性的生理特点，突出表现女性的乳房、臀部、腹部、大腿等，
 体现出原始人对于母性和生殖的崇拜意识。在奥地利维也纳附近的维伦多夫出土的女性雕像被称为“维伦多夫的维纳斯”，是其中最著名的代表作。史前美术描述的是人的本能与自然之间的关系。
 
-### 洞窟壁画：
+### 洞窟壁画
 
 法国的**拉斯科洞窟**壁画：距今15517±800年，约有600多幅，其中以马最多，还有牛、驯鹿、洞熊、狼、鸟等，也有一些想像的动物和人像。使用的颜料是木炭及各种矿砂，工具则是蕨草和羽毛等。
 
@@ -179,7 +179,7 @@
 ![阿尔塔米拉洞窟2.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%98%BF%E5%B0%94%E5%A1%94%E7%B1%B3%E6%8B%89%E6%B4%9E%E7%AA%9F2.jpg)
 ![阿尔塔米拉洞窟3.jpg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E9%98%BF%E5%B0%94%E5%A1%94%E7%B1%B3%E6%8B%89%E6%B4%9E%E7%AA%9F3.jpg)
 
-### 雕像：
+### 雕像
 
 **维伦多夫的维纳斯**：出土于奥地利维也纳附近的维伦多夫，最古老的艺术品之一，约制作于24000年前。被人们称为“原始的维纳斯”，又叫“母神雕像”。
 
@@ -199,7 +199,7 @@
 
 ![巨石阵.jpeg](pictures%2F%E5%8F%B2%E5%89%8D%E7%BE%8E%E6%9C%AF%2F%E5%B7%A8%E7%9F%B3%E9%98%B5.jpeg)
 
-##  古代美术：
+##  古代美术
 
 西方习惯把新石器末期到中世纪称为古代，具体来说就是指公元前4000年（文字的出现）到公元476年（西罗马帝国灭亡）。
 这一时期的美术主要包括了两河流域（美索不达米亚）、古埃及、古希腊、古罗马的艺术。
@@ -212,7 +212,7 @@
 
 ### 埃及
 
-####    正面律
+**正面律**
 
 就是指表现人物时，头侧面，眼睛正面，肩及身体正面，腰部以下又是侧面。画面用水平横线来分割结构，人物排列井然有序，甚至动物都是成排出现。
 运用以上的表现手法对人物的形象进行处理，是为了使人的形象特征更加突出和完整，这也是埃及绘画追求完整性的体现。
@@ -220,13 +220,13 @@
 ![正面律1.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E6%AD%A3%E9%9D%A2%E5%BE%8B1.jpg)
 ![正面律2.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E6%AD%A3%E9%9D%A2%E5%BE%8B2.jpg)
 
-####    金字塔
+**金字塔**
 
 ![金字塔.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E9%87%91%E5%AD%97%E5%A1%94.jpg)
 
 ![狮身人面.jpg](pictures%2F%E5%8F%A4%E5%9F%83%E5%8F%8A%E4%B8%A4%E6%B2%B3%E6%B5%81%E5%9F%9F%2F%E7%8B%AE%E8%BA%AB%E4%BA%BA%E9%9D%A2.jpg)
 
-####    石棺画
+**石棺画**
 
 拉美西斯四世的陵墓
 
@@ -240,11 +240,11 @@
 古希臘的自由民主創造了具有民主思想的建築、雕刻和繪畫作品，其中留存於世的不少健美而優雅的雕刻形象，如《擲鐵餅者》、《米洛斯的维纳斯》等，尤其具有無窮的魅力。
 帕特农神庙即為自古希臘延續到現代的建築。希臘大理石雕塑通常被描述為古典藝術的最高形式。從古希臘的陶器繪畫及陶瓷工藝，可以讓人們對古希臘社會的運作方式有豐富的瞭解。
 
-女蛇神像 -- 米諾斯新宮殿時期
+**女蛇神像** -- 米諾斯新宮殿時期
 
 ![女蛇神像.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%A5%B3%E8%9B%87%E7%A5%9E%E5%83%8F.jpg)
 
-阿尔特米西昂青铜像（通常也被称为海神波塞冬像）
+**阿尔特米西昂青铜像**（通常也被称为海神波塞冬像）
 
 ![阿爾特米西昂青銅像.jpeg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%98%BF%E7%88%BE%E7%89%B9%E7%B1%B3%E8%A5%BF%E6%98%82%E9%9D%92%E9%8A%85%E5%83%8F.jpeg)
 
@@ -291,14 +291,14 @@
 ![胜利女神像1.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E%E5%83%8F1.jpg)
 ![胜利女神像2.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E%E5%83%8F2.jpg)
 
-拉奥孔(The Laocoon and his Sons)
+**拉奥孔**(The Laocoon and his Sons)
 
     大理石群雕，高约184厘米，是希腊化时期的雕塑名作。阿格桑德罗斯等创作于约公元前一世纪，现收藏于罗马梵帝冈美术馆。这几乎代表了传统雕塑艺术的最高成就。
     拉奥孔在特洛伊战争中警告特洛伊人不要接受希腊人留下的木马，但没有成功。随后他就被两条从希腊人临时驻扎的Tenedos岛上跨海而来的大蛇夺去了性命。
 
 ![拉孔奥.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E6%8B%89%E5%AD%94%E5%A5%A5.jpg)
 
-德尔斐的驾车人
+**德尔斐的驾车人**
 
     这座雕像发现于希腊德尔斐，是为了纪念西西里岛的僭主波利扎罗斯和代表它的战车在公元前478年或公元前474年的两次皮提亚运动会中取得的某次胜利。
     作为泛希腊运动会的一种，皮提亚运动会在德尔斐举行，以纪念阿波罗的皮提亚。也有人认为，这座雕像实际上是为了纪念波利扎洛斯的兄弟希伦在同一场比赛中的胜利，
@@ -310,21 +310,21 @@
 
 ####    瓶绘
 
-古希腊瓶画，是希腊陶器上的装饰画，依附于陶器而得以流传下来，代表了希腊绘画风貌。
+**古希腊瓶画**，是希腊陶器上的装饰画，依附于陶器而得以流传下来，代表了希腊绘画风貌。
 
 ![古希腊瓶画.png](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%93%B6%E7%94%BB.png)
 
-馬雷斯風格喙嘴壺 -- 克里特岛
+**馬雷斯風格喙嘴壺** -- 克里特岛
 
 ![馬雷斯風格喙嘴壺.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%A6%AC%E9%9B%B7%E6%96%AF%E9%A2%A8%E6%A0%BC%E5%96%99%E5%98%B4%E5%A3%BA.jpg)
 
 ####    建筑
 
-克諾索斯王宮
+**克諾索斯王宮**
 
 ![克諾索斯王宮.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%85%8B%E8%AB%BE%E7%B4%A2%E6%96%AF%E7%8E%8B%E5%AE%AE.jpg)
 
-邁錫尼獅子門
+**邁錫尼獅子門**
 
 ![邁錫尼獅子門.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E9%82%81%E9%8C%AB%E5%B0%BC%E7%8D%85%E5%AD%90%E9%96%80.jpg)
 
@@ -333,24 +333,24 @@
 古罗马艺术是希腊艺术的直接继承和发展，它们共同奠定了西方文明的基础，成为西方文明的摇篮。罗马人的美术更倾向于实用主义。
 规模巨大的罗马斗兽场和万神庙是古罗马建筑的杰出代表。而曾被维苏威火山灰掩埋达1700多年的庞贝壁画，则给我们展示了古罗马绘画的独特面貌。
 
-####    古罗马斗兽场
+**古罗马斗兽场**
 
-罗马斗兽场建于72-80年间，古罗马文明的象征，是古罗马帝国专供奴隶主、贵族和自由民观看斗兽或奴隶角斗的地方。
+    罗马斗兽场建于72-80年间，古罗马文明的象征，是古罗马帝国专供奴隶主、贵族和自由民观看斗兽或奴隶角斗的地方。
 
 ![古罗马斗兽场.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA.jpg)
 ![古罗马斗兽场2.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA2.jpg)
 
-####    柱头
+**柱头**
 
-**多立克**
+*多立克*
 
 ![多立克.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%A4%9A%E7%AB%8B%E5%85%8B.jpg)
 
-**爱奥尼亚**
+*爱奥尼亚*
 
 ![爱奥尼亚.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E7%88%B1%E5%A5%A5%E5%B0%BC%E4%BA%9A.jpg)
 
-**柯林斯**
+*柯林斯*
 
 ![柯林斯.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E6%9F%AF%E6%9E%97%E6%96%AF.jpg)
 
@@ -368,25 +368,25 @@
 ![庞贝2.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%BA%9E%E8%B4%9D2.jpg)
 ![卡里忒斯，庞贝壁画.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E5%8D%A1%E9%87%8C%E5%BF%92%E6%96%AF%EF%BC%8C%E5%BA%9E%E8%B4%9D%E5%A3%81%E7%94%BB.jpg)
 
-伯斯科雷阿萊別墅（英語：Villa Boscoreale）是對多棟在義大利伯斯科雷阿萊地區所發現的古羅馬別墅的泛稱
+**伯斯科雷阿萊別墅**（英語：Villa Boscoreale）是對多棟在義大利伯斯科雷阿萊地區所發現的古羅馬別墅的泛稱
 
 ![2880px-Cubiculum_(bedroom)_from_the_Villa_of_P._Fannius_Synistor_at_Boscoreale_MET_DP170950.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F2880px-Cubiculum_%28bedroom%29_from_the_Villa_of_P._Fannius_Synistor_at_Boscoreale_MET_DP170950.jpg)
 
 ####    人体雕像
 
-屋大維
+**屋大維**
 
 ![Statue-Augustus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FStatue-Augustus.jpg)
 
-Hermes and the Infant Dionysus
+**Hermes and the Infant Dionysus**
 
 ![Hermes and the Infant Dionysus.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2FHermes%20and%20the%20Infant%20Dionysus.jpg)
 
-燈座上的哲學家銅像
+**燈座上的哲學家銅像**
 
 ![燈座上的哲學家銅像.jpg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F%E7%87%88%E5%BA%A7%E4%B8%8A%E7%9A%84%E5%93%B2%E5%AD%B8%E5%AE%B6%E9%8A%85%E5%83%8F.jpg)
 
-飾有有阿波羅、密涅瓦和繆斯女神的石棺；約於西元200年；來自亞壁古道；
+飾有**阿波羅、密涅瓦和繆斯女神的石棺**；約於西元200年；來自亞壁古道；
 
 ![2880px-Sarcofago_con_apollo,_minerva_e_le_muse,_dalla_via_appia,_200_dc_ca._01.jpeg](pictures%2F%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%8F%A4%E7%BD%97%E9%A9%AC%2F2880px-Sarcofago_con_apollo%2C_minerva_e_le_muse%2C_dalla_via_appia%2C_200_dc_ca._01.jpeg)
 
@@ -410,7 +410,7 @@ Hermes and the Infant Dionysus
 
 ![罗马圣母大殿.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%BD%97%E9%A9%AC%E5%9C%A3%E6%AF%8D%E5%A4%A7%E6%AE%BF.jpeg)
 
-克拉塞的聖亞坡理納聖殿 Basilica di Sant'Apollinare in Classe (意大利)
+**克拉塞的聖亞坡理納聖殿** Basilica di Sant'Apollinare in Classe (意大利)
 
 ![basilica-di-sant-apollinare-in-classe-ravenna-emilia-romagna-4_1_orig.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2Fbasilica-di-sant-apollinare-in-classe-ravenna-emilia-romagna-4_1_orig.jpg)
 
@@ -428,7 +428,7 @@ Hermes and the Infant Dionysus
 
 ![圣索菲亚大教堂.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%9C%A3%E7%B4%A2%E8%8F%B2%E4%BA%9A%E5%A4%A7%E6%95%99%E5%A0%82.jpeg)
 
-圣马可教堂
+**圣马可教堂**
 
     圣马尔谷圣殿宗主教座堂，简称圣马可大教堂，矗立于威尼斯市中心的圣马可广场上，始建于公元829年，重建于1043~1071年，它曾是中世纪欧洲最大的教堂，
     是威尼斯建筑艺术的经典之作，它同时也是一座收藏丰富艺术品的宝库，圣马可大教堂是威尼斯的骄傲，圣马可大教堂是基督教世界最负盛名的大教堂之一，
@@ -446,33 +446,33 @@ Hermes and the Infant Dionysus
 
 ![镶嵌画.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E9%95%B6%E5%B5%8C%E7%94%BB.jpg)
 
-查士丁尼大帝和他的随从
+**查士丁尼大帝和他的随从**
 
 ![查士丁尼大帝和他的随从.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E6%9F%A5%E5%A3%AB%E4%B8%81%E5%B0%BC%E5%A4%A7%E5%B8%9D%E5%92%8C%E4%BB%96%E7%9A%84%E9%9A%8F%E4%BB%8E.jpg)
 
-皇后西奥多拉和她的随从
+**皇后西奥多拉和她的随从**
 
 ![皇后西奥多拉和她的随从.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%9A%87%E5%90%8E%E8%A5%BF%E5%A5%A5%E5%A4%9A%E6%8B%89%E5%92%8C%E5%A5%B9%E7%9A%84%E9%9A%8F%E4%BB%8E.jpg)
 
 ####    手抄本插图 -- 细密画
 
-圣三位一体： 所谓圣三位一体，是指圣父耶和华、圣子耶稣、圣灵上帝是同一位。
+**圣三位一体**： 所谓圣三位一体，是指圣父耶和华、圣子耶稣、圣灵上帝是同一位。
 
 ![圣三位一体.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%9C%A3%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93.jpeg)
 
-马太福音扉页： 开始带有表现的意识
+**马太福音扉页**： 开始带有表现的意识
 
 ![马太福音扉页.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E9%A9%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3%E6%89%89%E9%A1%B5.jpeg)
 
-福音經文；約1100年；羊皮紙上的蛋彩畫、黃金和墨水，以及皮革裝訂
+**福音經文** 約1100年；羊皮紙上的蛋彩畫、黃金和墨水，以及皮革裝訂
 
 ![福音經文.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%A6%8F%E9%9F%B3%E7%B6%93%E6%96%87.jpg)
 
-亞美尼亞泥金裝飾手抄本
+**亞美尼亞泥金裝飾手抄本**
 
 ![亞美尼亞泥金裝飾手抄本.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC.jpg)
 
-傳道者聖約翰 於1147年以前繪製，羊皮紙上的彩圖
+**傳道者聖約翰** 於1147年以前繪製，羊皮紙上的彩圖
 
 ![傳道者聖約翰.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%82%B3%E9%81%93%E8%80%85%E8%81%96%E7%B4%84%E7%BF%B0.jpg)
 
@@ -482,22 +482,21 @@ Hermes and the Infant Dionysus
 通常，在木板上雕刻出一个与周边形状相同、深达10毫米的区域，用来绘制圣像画。圣像画的主图像被放置在雕刻出的区域内，而周边要么放置其它图像要么保持空白。
 圣像画主要是用蛋彩画使用的材料--矿物颜料与蛋黄混合。
 
-新約三位一體的聖像畫 木板（白楊木）上的蛋彩畫和金色
+**新約三位一體的聖像畫** 木板（白楊木）上的蛋彩畫和金色
 
 ![三位一體.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94.jpg)
 
-救世主
+**救世主**
 
 ![救世主.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E6%95%91%E4%B8%96%E4%B8%BB.jpg)
 
-圣母子
+**圣母子**
 
 ![圣母子.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%9C%A3%E6%AF%8D%E5%AD%90.jpeg)
 
-耶稣受难
+**耶稣受难**
 
 ![耶稣受难.png](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E8%80%B6%E7%A8%A3%E5%8F%97%E9%9A%BE.png)
-
 
 ### 罗马式 （10-12世纪）
 
@@ -505,7 +504,7 @@ Hermes and the Infant Dionysus
     高大雄伟的塔楼和半圆形拱穹(筒状拱)结构为主要特征。著名的建筑有意大利的比萨大教堂、德国的沃尔姆斯大教堂等。出现在教堂外部墙壁上的雕刻多取材于《圣经》故事，
     并以非写实性和框架法为特点。
 
-瑪麗亞拉赫修道院（德國安德納附近）最具標誌性的羅馬式教堂之一
+**瑪麗亞拉赫修道院**（德國安德納附近）最具標誌性的羅馬式教堂之一
 
 ![瑪麗亞拉赫修道院.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%91%AA%E9%BA%97%E4%BA%9E%E6%8B%89%E8%B5%AB%E4%BF%AE%E9%81%93%E9%99%A2.jpg)
 
@@ -538,7 +537,7 @@ Hermes and the Infant Dionysus
 
 ![巴黎圣母院.jpeg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2.jpeg)
 
-肋状拱
+**肋状拱**
 
 ![肋状拱.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E8%82%8B%E7%8A%B6%E6%8B%B1.jpg)
 ![肋状拱2.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E8%82%8B%E7%8A%B6%E6%8B%B12.jpg)
@@ -565,12 +564,12 @@ Hermes and the Infant Dionysus
 
 ![米兰大教堂.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%B1%B3%E5%85%B0%E5%A4%A7%E6%95%99%E5%A0%82.jpg)
 
-哥特式绘画-哥特式绘画伴随哥特式建筑的发展而产生,主要包括玻璃镶嵌画、插图画、壁画和镶板画。由于典型的哥特式建筑采用了石头骨架结构和宽大的窗子，
+**哥特式绘画**-哥特式绘画伴随哥特式建筑的发展而产生,主要包括玻璃镶嵌画、插图画、壁画和镶板画。由于典型的哥特式建筑采用了石头骨架结构和宽大的窗子，
 壁面被减少到最低限度，因此，壁画发展受到了限制。
 
 ![玻璃镶嵌画.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E7%8E%BB%E7%92%83%E9%95%B6%E5%B5%8C%E7%94%BB.jpg)
 
-巴黎桑斯府邸火焰式哥德式十字窗
+巴黎桑斯府邸火焰式**哥德式十字窗**
 
 ![桑斯宫邸.jpg](pictures%2F%E4%B8%AD%E4%B8%96%E7%BA%AA%2F%E6%A1%91%E6%96%AF%E5%AE%AB%E9%82%B8.jpg)
 
@@ -607,11 +606,11 @@ Hermes and the Infant Dionysus
 
 ![圣方济各之死.jpg](pictures%2F%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9%2F%E5%9C%A3%E6%96%B9%E6%B5%8E%E5%90%84%E4%B9%8B%E6%AD%BB.jpg)
 
-**哀悼基督**：自然的表情，立体感，明暗关系，透视感，自然风景
+哀悼基督：自然的表情，立体感，明暗关系，透视感，自然风景
 
 ![哀悼基督-乔托.jpg](pictures%2F%E4%B9%94%E6%89%98%2F%E5%93%80%E6%82%BC%E5%9F%BA%E7%9D%A3-%E4%B9%94%E6%89%98.jpg)
 
-**逃亡埃及**：宗教世俗化
+逃亡埃及：宗教世俗化
 
 ![逃亡埃及-乔托.jpg](pictures%2F%E4%B9%94%E6%89%98%2F%E9%80%83%E4%BA%A1%E5%9F%83%E5%8F%8A-%E4%B9%94%E6%89%98.jpg)
 
@@ -636,7 +635,7 @@ Hermes and the Infant Dionysus
 
 ![逐出伊甸园.jpg](pictures%2F%E9%A9%AC%E8%90%A8%E4%B9%94%2F%E9%80%90%E5%87%BA%E4%BC%8A%E7%94%B8%E5%9B%AD.jpg)
 
-**圣三位一体**
+圣三位一体
 
     這幅畫有明顯的消失點，約是人的高度，是單點透視的畫。畫家用鴿子代表聖靈(上帝)，站在耶穌(圣子)的頭上。聖父耶和华則在耶穌背後。耶穌腳下的人是畫的贊助人
 
@@ -1472,6 +1471,38 @@ The Conversion of Mary Magdalene
 17世纪欧洲美术是以巴洛克美术为代表的多种风格共存并互相影响的时代。
 其中以巴洛克美术为主导，另外还诞生了学院派美术（最早的美术学院）和以卡拉瓦乔为代表的地方现实主义画派
 
+###    巴洛克建筑
+
+*圣彼得大教堂*
+
+![圣彼得大教堂.webp](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A4%A7%E6%95%99%E5%A0%82.webp)
+
+*凡尔赛宫*
+
+![Château_de_Versailles,_cour_Royale.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCh%C3%A2teau_de_Versailles%2C_cour_Royale.jpg)
+
+![Cour_de_Marbre_du_Château_de_Versailles_October_5,_2011.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)
+
+![2560px-Chateau_Versailles_Galerie_des_Glaces.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F2560px-Chateau_Versailles_Galerie_des_Glaces.jpg)
+
+![Appartement_du_Roi_(Versailles).jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FAppartement_du_Roi_%28Versailles%29.jpg)
+
+*美泉宫* - 是一座充滿巴洛克艺术的皇家建築，位於奥地利的首都维也纳，此宮曾是神圣罗马帝国、奥地利帝国和奥匈帝国的御用宮殿，也是如今维也纳最负盛名的旅游景点之一。
+
+![Palacio_de_Schönbrunn,_Viena,_Austria,_2020-02-02,_DD_15.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FPalacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_15.jpg)
+
+美泉宫花园和凯旋门
+
+![美泉宫花园.JPG](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E7%BE%8E%E6%B3%89%E5%AE%AB%E8%8A%B1%E5%9B%AD.JPG)
+
+海神泉
+
+![Neptunbrunnen_Schoenbrunn.JPG](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FNeptunbrunnen_Schoenbrunn.JPG)
+
+*罗马-耶稣教堂*
+
+![巴洛克.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E5%B7%B4%E6%B4%9B%E5%85%8B.jpg)
+
 ### 巴洛克美术
 
 巴洛克艺术代表整个艺术领域，包括音乐、建筑、装饰艺术等，内涵极为复杂。它最基本的特点是打破文艺复兴时期的严肃、含蓄和均衡，崇尚豪华和气派，
@@ -1501,7 +1532,7 @@ The Conversion of Mary Magdalene
 
 ![卡拉瓦乔.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94.jpg)
 
-圣马太蒙召
+圣马太蒙召  -- 强烈的明暗对比
 
     《圣马太的蒙召》是卡拉瓦乔的第一幅公开作品。画面右侧阴影中，是侧身面对观众和耶稣的圣彼得，耶稣只露出了右手和一侧的面孔。
     围坐着的是一组玩牌的人，年轻的犹大在数钱，其余人看向耶稣和圣彼得。光从窗户照进来，仿佛上帝在召唤世人——圣马太蒙恩宠和召唤，
@@ -1514,7 +1545,7 @@ The Conversion of Mary Magdalene
 圣玛窦殉道
 
     这幅画表现马太福音的作者马太（玛窦）的殉道事迹。根据传统，这位圣人正在祭坛上做弥撒时，被埃塞俄比亚国王派人杀害。因为国王贪恋自己的侄女，是一名修女，
-    受到了玛窦的斥责，因为修女是基督的新娘。几十年前去世的康塔雷利枢机，早已明确地规定了要表现的内容：邪恶的国王派来的士兵，杀害了圣人，加上一些合适的建筑，
+    受到了玛窦的斥责，因为修女是基督的新娘。邪恶的国王派来的士兵，杀害了圣人，加上一些合适的建筑，
     还有若干旁观者。
 
 ![圣玛窦殉道.jpg](pictures%2F%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94%2F%E5%9C%A3%E7%8E%9B%E7%AA%A6%E6%AE%89%E9%81%93.jpg)
@@ -1945,38 +1976,6 @@ The Conspiracy of Claudius Civilis 西菲利斯的阴谋
 
 ![Jean-Baptiste_Siméon_Chardin_006.jpg](pictures%2F%E5%A4%8F%E5%B0%94%E4%B8%B9%2FJean-Baptiste_Sim%C3%A9on_Chardin_006.jpg)
 
-###    巴洛克建筑
-
-凡尔赛宫
-
-![Château_de_Versailles,_cour_Royale.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCh%C3%A2teau_de_Versailles%2C_cour_Royale.jpg)
-
-![Cour_de_Marbre_du_Château_de_Versailles_October_5,_2011.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FCour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)
-
-![2560px-Chateau_Versailles_Galerie_des_Glaces.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F2560px-Chateau_Versailles_Galerie_des_Glaces.jpg)
-
-![Appartement_du_Roi_(Versailles).jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FAppartement_du_Roi_%28Versailles%29.jpg)
-
-美泉宫 - 是一座充滿巴洛克艺术的皇家建築，位於奥地利的首都维也纳，此宮曾是神圣罗马帝国、奥地利帝国和奥匈帝国的御用宮殿，也是如今维也纳最负盛名的旅游景点之一。
-
-![Palacio_de_Schönbrunn,_Viena,_Austria,_2020-02-02,_DD_15.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FPalacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_15.jpg)
-
-
-美泉宫花园和凯旋门
-
-![美泉宫花园.JPG](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E7%BE%8E%E6%B3%89%E5%AE%AB%E8%8A%B1%E5%9B%AD.JPG)
-
-海神泉
-
-![Neptunbrunnen_Schoenbrunn.JPG](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2FNeptunbrunnen_Schoenbrunn.JPG)
-
-罗马-耶稣教堂
-
-![巴洛克.jpg](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E5%B7%B4%E6%B4%9B%E5%85%8B.jpg)
-
-圣彼得大教堂
-
-![圣彼得大教堂.webp](pictures%2F%E5%B7%B4%E6%B4%9B%E5%85%8B%2F%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A4%A7%E6%95%99%E5%A0%82.webp)
 
 ### 学院派
 
