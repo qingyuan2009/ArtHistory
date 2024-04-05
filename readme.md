@@ -1057,7 +1057,6 @@ by that of his younger contemporary Michelangelo.
 
 ![Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg](pictures%2F%E4%B9%94%E5%B0%94%E4%B9%94%E5%86%85%2FGiorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg)
 
-
 牧羊人的崇拜 - 画中描绘牧羊人前来向圣婴耶稣朝拜，营造出一种真诚的戏剧张力。父母和朝圣者构成一个矩形。
 
 ![Giorgione_-_Adoration_of_the_Shepherds_-_National_Gallery_of_Art.jpg](pictures%2F%E4%B9%94%E5%B0%94%E4%B9%94%E5%86%85%2FGiorgione_-_Adoration_of_the_Shepherds_-_National_Gallery_of_Art.jpg)
@@ -2996,6 +2995,7 @@ On the Terrace
 
 ![On the Terrace.jpg](pictures%2F%E9%9B%B7%E8%AF%BA%E9%98%BF%2FOn%20the%20Terrace.jpg)
 
+[雷诺阿作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E9%9B%B7%E8%AF%BA%E9%98%BF.md)
 
 ####    毕沙罗 -- 最坚定的印象派大师
 
