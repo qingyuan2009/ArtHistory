@@ -1630,7 +1630,7 @@ The Conversion of Mary Magdalene
 
 ####    鲁本斯 - 这个时代最伟大的艺术家， 对于放纵的生命力的赞颂
 
-彼得·保罗·鲁本斯（Peter Paul Rubens）（1577年6月28日—1640年5月30日），是当时最著名的北欧巴洛克艺术家，被认为是西方艺术史上最重要的画家之一。
+彼得·保罗·鲁本斯（Peter Paul Rubens）（1577年6月28日—1640年5月30日），是当时最著名的北欧比利时巴洛克艺术家，被认为是西方艺术史上最重要的画家之一。
 鲁本斯的作品特点是文艺复兴时期的理想化、丰富的笔触，富有活力，特别是女性柔美的曲线形象。
 西班牙哈布斯堡王朝外交使节。是巴洛克画派早期的代表人物。鲁本斯出生于德国锡根，在他的父亲去世后，12岁的鲁本斯跟随母亲回到了西班牙统治下的家乡安特卫普，
 并在那里接受了天主教洗礼，而宗教也成为鲁本斯画家生涯中十分重要的一个主题。鲁本斯经营一家安特卫普的大型画室，绘制许多著名的画作，也是欧洲知名的艺术收藏家。
@@ -1795,11 +1795,14 @@ Portrait of Pope Innocent X  教皇Innocent十世
     1642年伦勃朗创作《夜巡》，也是他生涯的转折点之一。《夜巡》是阿姆斯特丹射击协会的一群人合资请伦勃朗绘制的。伦勃朗在这些志愿民兵的群像构图上，
     未依照当时军人需依身份及军衔排列的不成文规定，因此造成民兵不满，要求重画，但伦勃朗没有答应，因此告上法庭，伦勃朗因此受到许多的攻击及疏远。
 
-![夜巡.webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E5%A4%9C%E5%B7%A1.webp)
+![La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FLa_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg)
 
 月亮与狩猎女神
+    
+    画作显示的人物有幾種说法：一是帕加马王后阿耳忒弥斯正准备饮用仆人送上的酒杯，酒杯里有她去世的丈夫摩索拉斯的骨灰。另一说是索福尼斯巴正准备饮用她的丈夫送来的毒药，
+    以免她成为大西庇阿邪欲的牺牲品。
 
-![月亮与狩猎女神 .webp](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2F%E6%9C%88%E4%BA%AE%E4%B8%8E%E7%8B%A9%E7%8C%8E%E5%A5%B3%E7%A5%9E%20.webp)
+![Judith_at_the_Banquet_of_Holofernes_(previously_known_as_Artemisia),_by_Rembrandt,_from_Prado_in_Google_Earth.jpg](pictures%2F%E4%BC%A6%E5%B8%83%E6%9C%97%2FJudith_at_the_Banquet_of_Holofernes_%28previously_known_as_Artemisia%29%2C_by_Rembrandt%2C_from_Prado_in_Google_Earth.jpg)
 
 犹太新娘
     
@@ -1919,7 +1922,7 @@ The Conspiracy of Claudius Civilis 西菲利斯的阴谋
 
 ![繪畫的藝術.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%B9%AA%E7%95%AB%E7%9A%84%E8%97%9D%E8%A1%93.jpg)
 
-####    范勒伊斯达尔 -- 最伟大的荷兰风景画家
+####    范勒伊斯达尔----最伟大的荷兰风景画家
 
 雅各布·伊萨克松·范勒伊斯达尔（Jacob Isaakszoon van Ruisdael ，约1628年－1682年3月14日）是著名的荷兰风景画家。
 
@@ -2088,11 +2091,11 @@ The Assumption of the Virgin
     画中描写三姐妹各自带着自己的恋人准备乘船向西苔岛，寻求天堂胜景和永恒之爱的情景。华多这幅画创作完毕后，交皇家绘画雕刻学院，皇家学院授予他会员的荣誉。
     这幅真实地反映了当时宫廷贵族的生活趣味和心理要求，受到上流社会的赞誉，华多也因此博得"风流画家"的雅号。
 
-![舟发西苔岛-华托.jpg](pictures%2F%E5%8D%8E%E6%89%98%2F%E8%88%9F%E5%8F%91%E8%A5%BF%E8%8B%94%E5%B2%9B-%E5%8D%8E%E6%89%98.jpg)
+![舟发西地岛.jpg](pictures%2F%E5%8D%8E%E6%89%98%2F%E8%88%9F%E5%8F%91%E8%A5%BF%E5%9C%B0%E5%B2%9B.jpg)
 
 热尔桑画店
 
-![热尔桑画店-华托.jpg](pictures%2F%E5%8D%8E%E6%89%98%2F%E7%83%AD%E5%B0%94%E6%A1%91%E7%94%BB%E5%BA%97-%E5%8D%8E%E6%89%98.jpg)
+![L'Enseigne_de_Gersaint.jpg](pictures%2F%E5%8D%8E%E6%89%98%2FL%27Enseigne_de_Gersaint.jpg)
 
 [华托作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E5%8D%8E%E6%89%98.md)
 
@@ -2106,7 +2109,7 @@ The Assumption of the Virgin
 
 蓬巴杜夫人
 
-![蓬巴杜夫人-布歇.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E8%93%AC%E5%B7%B4%E6%9D%9C%E5%A4%AB%E4%BA%BA-%E5%B8%83%E6%AD%87.jpg)
+![龐巴度夫人2.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E9%BE%90%E5%B7%B4%E5%BA%A6%E5%A4%AB%E4%BA%BA2.jpg)
 
 ![龐巴度夫人.jpg](pictures%2F%E5%B8%83%E6%AD%87%2F%E9%BE%90%E5%B7%B4%E5%BA%A6%E5%A4%AB%E4%BA%BA.jpg)
 
@@ -2138,7 +2141,11 @@ The Assumption of the Virgin
     秋千上的年轻女子刻意踢飞精致的高跟鞋，而青年的姿势似乎正准备上前迎接。整个场景好似一个舞台，周围场景的纯洁和天真，
     使得荡秋千向青年这个动作更加具有挑逗感。
 
-![](pictures/弗拉贡纳尔/秋千-弗拉贡纳尔.jpg)
+![jean honore fragonard Rococo 1750 - 1799 French 5 stars phistars painting the swing 1767.jpg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2Fjean%20honore%20fragonard%20Rococo%201750%20-%201799%20French%205%20stars%20phistars%20painting%20the%20swing%201767.jpg)
+
+跷跷板
+
+![Fragonard-The-See-Saw.jpg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2FFragonard-The-See-Saw.jpg)
 
 读书少女
 
@@ -2151,7 +2158,7 @@ The Assumption of the Virgin
     使少女的美更加自然纯情，又如春天复苏萌动的生命，闪耀着青春的活力。弗拉戈纳尔以前的作品，大都具有矫情艳丽的虚饰风格，
     而《读书的少女》则一反往昔的矫饰之风，以直率挥洒的笔法、简洁概括的显露出画家的才情和艺术功力。
 
-![](pictures/弗拉贡纳尔/读书少女-弗拉贡纳尔.jpg)
+![读书少女.jpg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2F%E8%AF%BB%E4%B9%A6%E5%B0%91%E5%A5%B3.jpg)
 
 門閂
 
@@ -2160,6 +2167,10 @@ The Assumption of the Virgin
 沐浴
 
 ![Las_bañistas,_por_Jean-Honoré_Fragonard.JPG](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2FLas_ba%C3%B1istas%2C_por_Jean-Honor%C3%A9_Fragonard.JPG)
+
+做迷藏
+
+![Fragonard-Blind-mans-bluff.jpg](pictures%2F%E5%BC%97%E6%8B%89%E8%B4%A1%E7%BA%B3%E5%B0%94%2FFragonard-Blind-mans-bluff.jpg)
 
 ### 启蒙时期的新古典主义
 
@@ -2172,17 +2183,15 @@ The Assumption of the Virgin
     4. 强调素描关系而轻视色彩运用，强调线条和严谨的外形而排斥渲染和自由的笔法
     5. 与古典主义区别在于题材的改变，和法国大革命相关
 
-
-什么是古典主义？
+什么是启蒙运动？-- 从**君权神授**到**天赋人权**
 
 ####    大卫 -- 新古典主义的开创者和奠基人
 
-雅克·路易·大卫(Jacques-Louis David )又译：杰克·路易斯·达维特（1748年8月30日 - 1825年12月9日）是法国著名画家，古典主义画派的奠基人，
+雅克·路易·大卫(Jacques-Louis David )又译：杰克·路易斯·达维特（1748年8月30日 - 1825年12月9日）是法国著名画家，古典主义画派的奠基人，一生参与政治。
 著名的艺术教育家，学生有新古典主义代表人安格尔，科罗等。画风严谨，技法精工。 除去在藝術領域的建樹之外，他還是羅伯斯庇爾的朋友、雅各賓派的一員，活躍于法國大革命之中。
 羅伯斯庇爾失勢之後，又投靠拿破侖。拿破侖失勢之後就自我流放到布魯塞爾，並終老于此。
 
 ![David_Self_Portrait.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FDavid_Self_Portrait.jpg)
-
 
 护从搬来布鲁图斯儿子的尸体
 
@@ -2212,6 +2221,12 @@ The Assumption of the Virgin
     马拉的躯体无力地垂到一边，手中还拿着刺客的信函， [4]右手还握着笔。他审批的木箱上有墨水瓶和纸。
 
 ![Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FJacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg)
+
+Marie Antoinette on the Way to the Guillotine
+
+    16 October 1793. Sketched from a window in the rue Sainte-Honoré while the cart went past.
+
+![Marie Antoinette on the Way to the Guillotine.jpg](pictures%2F%E5%A4%A7%E5%8D%AB%2FMarie%20Antoinette%20on%20the%20Way%20to%20the%20Guillotine.jpg)
 
 拿破仑越过圣贝尔纳山
 
