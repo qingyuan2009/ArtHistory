@@ -3111,6 +3111,10 @@ The Papal Palace, Avignon 阿维尼翁教皇宫
 
 ![Katsushika_Hokusai,_Goten-yama_hill,_Shinagawa_on_the_Tōkaidō,_ca._1832.jpg](pictures%2F%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%2FKatsushika_Hokusai%2C_Goten-yama_hill%2C_Shinagawa_on_the_T%C5%8Dkaid%C5%8D%2C_ca._1832.jpg)
 
+章鱼与海女图
+
+![章鱼与海女图.jpg](pictures%2F%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%2F%E7%AB%A0%E9%B1%BC%E4%B8%8E%E6%B5%B7%E5%A5%B3%E5%9B%BE.jpg)
+
 北斋漫画
 
 ![Hokusai_Manga.jpg](pictures%2F%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%2FHokusai_Manga.jpg)
