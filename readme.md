@@ -1388,9 +1388,9 @@ The Conversion of Mary Magdalene
 
 ![丟勒的犀牛.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%9F%E5%8B%92%E7%9A%84%E7%8A%80%E7%89%9B.jpg)
 
-青草地
+一块大草皮
 
-![一块草皮.jpeg](pictures%2F%E4%B8%A2%E5%8B%92%2F%E4%B8%80%E5%9D%97%E8%8D%89%E7%9A%AE.jpeg)
+![The Large Piece of Turf.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FThe%20Large%20Piece%20of%20Turf.jpg)
 
 四圣徒
 
@@ -1445,6 +1445,8 @@ The Conversion of Mary Magdalene
 伊森海姆祭坛画
 
 ![伊森海姆祭坛画.jpeg](pictures%2F%E6%A0%BC%E5%90%95%E5%86%85%E7%93%A6%E5%B0%94%E5%BE%B7%2F%E4%BC%8A%E6%A3%AE%E6%B5%B7%E5%A7%86%E7%A5%AD%E5%9D%9B%E7%94%BB.jpeg)
+
+![伊森海姆祭坛画2.jpg](pictures%2F%E6%A0%BC%E5%90%95%E5%86%85%E7%93%A6%E5%B0%94%E5%BE%B7%2F%E4%BC%8A%E6%A3%AE%E6%B5%B7%E5%A7%86%E7%A5%AD%E5%9D%9B%E7%94%BB2.jpg)
 
 嘲弄基督
 
@@ -3151,6 +3153,14 @@ The Papal Palace, Avignon 阿维尼翁教皇宫
 
 ![妇女人相十品.webp](pictures%2F%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF%2F%E5%A6%87%E5%A5%B3%E4%BA%BA%E7%9B%B8%E5%8D%81%E5%93%81.webp)
 
+歌撰恋之部·物思恋
+
+![歌撰恋之部·物思恋.jpg](pictures%2F%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF%2F%E6%AD%8C%E6%92%B0%E6%81%8B%E4%B9%8B%E9%83%A8%C2%B7%E7%89%A9%E6%80%9D%E6%81%8B.jpg)
+
+姿见七人化妆 难波屋阿北
+
+![姿见七人化妆 难波屋阿北.jpg](pictures%2F%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF%2F%E5%A7%BF%E8%A7%81%E4%B8%83%E4%BA%BA%E5%8C%96%E5%A6%86%20%E9%9A%BE%E6%B3%A2%E5%B1%8B%E9%98%BF%E5%8C%97.jpg)
+
 ### 后印象主义 -- 塞尚，梵高，高更
 
     后印象主义的特征:
@@ -4033,6 +4043,15 @@ Faraway
 
 ![最后的审判-魏登.jpeg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E6%9C%80%E5%90%8E%E7%9A%84%E5%AE%A1%E5%88%A4-%E9%AD%8F%E7%99%BB.jpeg)
 
+####    罗伯特·康平
+
+罗伯特·康平（Robert Campin, ？—1444年），文艺复兴时期欧洲佛兰德艺术家。与揚·范艾克同是早期尼德蘭畫派的主要奠基人。其作品透视夸张，细节逼真精致，
+世俗化倾向明显。由于其职业特性，他多年为人所误读，他长于个人肖像画创作也擅长祭坛画的绘制。代表作《麦洛德祭坛画》等。
+
+麦洛德祭坛画
+
+![麦洛德三联祭坛画.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%BA%A6%E6%B4%9B%E5%BE%B7%E4%B8%89%E8%81%94%E7%A5%AD%E5%9D%9B%E7%94%BB.jpg)
+
 ### 帕尔米贾尼诺
 
 吉罗拉莫·弗朗切斯科·马里亚·马佐拉（義大利語：Girolamo Francesco Maria Mazzola；1503年1月11日—1540年8月24日），
@@ -4055,6 +4074,17 @@ Faraway
 
 ![鲁道夫二世.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E9%B2%81%E9%81%93%E5%A4%AB%E4%BA%8C%E4%B8%96.jpg)
 
+### 乔瓦尼·贝利尼
+
+乔瓦尼·贝利尼（意大利语：Giovanni Bellini，1430年—1516年），意大利文艺复兴时期艺术家。雅科波·贝利尼（Jacopo Bellini）的小儿子。
+他的姐姐嫁给了安德烈亚·曼泰尼亚（Andrea Mantegna），所以他的早期作品受到曼泰尼亚作品的影响。新颖的笔法和神韵的气质是他后期画作的特色，
+这些对于后来的艺术家，如乔尔乔内（Giorgione）等将成为重要因素。 提香和乔尔乔内的老师。
+
+圣匝加利亚祭坛画
+
+    这幅画是为纪念威尼斯政治家和外交官皮埃特罗·卡佩罗而作，被称为“艺术家最美丽、最精致的作品之一”
+
+![圣匝加利亚祭坛画.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E5%9C%A3%E5%8C%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%A5%AD%E5%9D%9B%E7%94%BB.jpg)
 
 ### 亚森特·里戈
 
@@ -4091,5 +4121,9 @@ Faraway
 
 ![奥菲莉娅.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E5%A5%A5%E8%8F%B2%E8%8E%89%E5%A8%85.jpg)
 
+### 東洲齋寫樂
 
+東洲齋寫樂（?—?），日本江戶時代的浮世繪畫家，因其風格鮮明的人物肖像畫與異常短暫的創作活動期為人所知，被後世視為浮世繪畫家的代表人物之一。
+
+![第三代大谷鬼次之奴江户兵卫.jpg](pictures%2F%E5%85%B6%E4%BB%96%E7%94%BB%E5%AE%B6%2F%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%A4%A7%E8%B0%B7%E9%AC%BC%E6%AC%A1%E4%B9%8B%E5%A5%B4%E6%B1%9F%E6%88%B7%E5%85%B5%E5%8D%AB.jpg)
 
