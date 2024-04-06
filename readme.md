@@ -2680,9 +2680,27 @@ Solitude
 奥诺雷·杜米埃(Honoré Daumier)(1808年2月26日-1879年2月10日)是法国著名画家、讽刺漫画家、雕塑家和版画家。是当时最多产的艺术家，
 也是法国19世纪最伟大的现实主义讽刺画大师。
 
+![1280px-Honoré_Daumier_c1850_-_crop.jpg](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2F1280px-Honor%C3%A9_Daumier_c1850_-_crop.jpg)
+
 三等车厢
 
 ![三等车厢.webp](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2F%E4%B8%89%E7%AD%89%E8%BD%A6%E5%8E%A2.webp)
+
+带孩子的洗衣妇
+
+![带孩子的洗衣妇.jpg](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2F%E5%B8%A6%E5%AD%A9%E5%AD%90%E7%9A%84%E6%B4%97%E8%A1%A3%E5%A6%87.jpg)
+
+高康大
+
+![高康大.jpg](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2F%E9%AB%98%E5%BA%B7%E5%A4%A7.jpg)
+
+Two Lawyers the Handshake
+
+![Two Lawyers the Handshake.jpg](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2FTwo%20Lawyers%20the%20Handshake.jpg)
+
+At The Theater
+
+![At The Theater.webp](pictures%2F%E6%9D%9C%E7%B1%B3%E5%9F%83%2FAt%20The%20Theater.webp)
 
 ####    柯罗 -- 风景大师：与诗意自然相拥的一生
 
@@ -2948,6 +2966,8 @@ X夫人肖像
 日本桥
 
 ![1920px-Bridge_Over_a_Pond_of_Water_Lilies,_Claude_Monet_1899.jpg](pictures%2F%E8%8E%AB%E5%A5%88%2F1920px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg)
+
+[莫奈作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E8%8E%AB%E5%A5%88.md)
 
 ####    罗丹 -- 现代雕塑之父 法兰西的上帝之手
 
