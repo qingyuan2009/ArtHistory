@@ -3305,6 +3305,12 @@ The Papal Palace, Avignon 阿维尼翁教皇宫
 ![塞尚2.webp](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E5%A1%9E%E5%B0%9A2.webp)
 ![苹果.jpeg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E8%8B%B9%E6%9E%9C.jpeg)
 
+从贝勒维可见的圣维克多山
+
+    塞尚在这幅画中清楚地展示了自然景观中的秩序感，没有放弃印象派的光学现实主义。这幅画的光线和色彩都给人一种图案的印象，这种图案不是强加在自然上的，而是自然存在的。
+
+![从贝勒维可见的圣维克多山.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E4%BB%8E%E8%B4%9D%E5%8B%92%E7%BB%B4%E5%8F%AF%E8%A7%81%E7%9A%84%E5%9C%A3%E7%BB%B4%E5%85%8B%E5%A4%9A%E5%B1%B1.jpg)
+
 圣维克多山
 
 ![聖維克多山.jpg](pictures%2F%E5%A1%9E%E5%B0%9A%2F%E8%81%96%E7%B6%AD%E5%85%8B%E5%A4%9A%E5%B1%B1.jpg)
