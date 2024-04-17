@@ -989,6 +989,8 @@ by that of his younger contemporary Michelangelo.
 
 ![草地上的圣母.jpg](pictures%2F%E6%8B%89%E6%96%90%E5%B0%94%2F%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E5%9C%A3%E6%AF%8D.jpg)
 
+![草地上的圣母草图.png](pictures%2F%E6%8B%89%E6%96%90%E5%B0%94%2F%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E5%9C%A3%E6%AF%8D%E8%8D%89%E5%9B%BE.png)
+
 椅中圣母
 
 ![椅中圣母.jpg](pictures%2F%E6%8B%89%E6%96%90%E5%B0%94%2F%E6%A4%85%E4%B8%AD%E5%9C%A3%E6%AF%8D.jpg)
