@@ -1947,6 +1947,8 @@ The Conspiracy of Claudius Civilis 西菲利斯的阴谋
 
 ![繪畫的藝術.jpg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E7%B9%AA%E7%95%AB%E7%9A%84%E8%97%9D%E8%A1%93.jpg)
 
+[维米尔作品](%E4%BD%9C%E5%93%81%E9%9B%86%2F%E7%BB%B4%E7%B1%B3%E5%B0%94.md)
+
 ####    范勒伊斯达尔----最伟大的荷兰风景画家
 
 雅各布·伊萨克松·范勒伊斯达尔（Jacob Isaakszoon van Ruisdael ，约1628年－1682年3月14日）是著名的荷兰风景画家。
