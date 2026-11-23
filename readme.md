@@ -787,13 +787,15 @@ Fresco是意大利语新鲜的意思，有时也称作buon fresco或true fresco�
 皮耶罗·德拉·弗朗切斯卡（Piero della Francesca，约1415—1420年间生—1492年），意大利早期文艺复兴画家与数学理论家，出生于托斯卡纳的圣塞波尔克罗，曾在佛罗伦萨、阿雷佐、乌尔比诺等地工作。
 他将线性透视、清晰的人体体积和几何构图结合起来，用明净的色彩与沉静的姿态赋予宗教场景庄严而安宁的气氛。他也撰写了有关绘画透视的论著，是理解文艺复兴艺术与数学关系的重要人物。
 
+![portrait](pictures/皮耶罗·德拉·弗朗切斯卡/portrait.jpeg)
+
 ##### 基督受洗（The Baptism of Christ）
 
 约1437—1445年，伦敦英国国家美术馆
 
 基督、上方的鸽子和施洗者的动作形成稳定的视觉中心；人物与树木、远景之间的比例关系，使宗教事件呈现为秩序井然的现实空间。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/piero-della-francesca-the-baptism-of-christ)
+![基督受洗](pictures/皮耶罗·德拉·弗朗切斯卡/The%20Baptism%20of%20Christ.jpg)
 
 ##### 耶稣诞生（The Nativity）
 
@@ -801,7 +803,7 @@ Fresco是意大利语新鲜的意思，有时也称作buon fresco或true fresco�
 
 画家把圣婴诞生置于熟悉的托斯卡纳风景之中。圣母、牧人和奏乐天使的安排，将日常乡村环境与宗教冥想联系起来。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/piero-della-francesca-the-nativity)
+![耶稣诞生](pictures/皮耶罗·德拉·弗朗切斯卡/The%20Nativity.jpg)
 
 #### 曼特尼亚
 
@@ -1110,13 +1112,15 @@ _Saint_George_and_the_Dragon_-_Google_Art_Project.jpg](pictures%2F%E6%8B%89%E6%9
 科雷乔（Correggio，约1489年—1534年），本名安东尼奥·阿莱格里（Antonio Allegri），意大利文艺复兴画家，主要在帕尔马及周边地区工作，别名来自他的出生地科雷乔。
 他以柔和的明暗过渡、富有亲密感的人物关系和大胆的仰视透视著称。帕尔马教堂的穹顶壁画通过缩短法和飞动的人物造成向天空敞开的幻觉，对后来的巴洛克天顶画产生了重要影响。
 
+![Correggio](pictures/科雷乔/Correggio.webp)
+
 ##### 篮子圣母（The Madonna of the Basket）
 
 约1524年，伦敦英国国家美术馆
 
 圣母为圣婴试穿衣服，身旁的针线篮把宗教人物带入普通家庭的生活。柔和的色调、斜向构图和人物动作共同营造温暖的亲密感。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/correggio-the-madonna-of-the-basket)
+![篮子圣母](pictures/科雷乔/correggio-the-madonna-of-the-basket-poster-in-17x13a3-frame-541477.webp)
 
 ##### 维纳斯、墨丘利与丘比特（爱的学校）（Venus with Mercury and Cupid）
 
@@ -1124,7 +1128,7 @@ _Saint_George_and_the_Dragon_-_Google_Art_Project.jpg](pictures%2F%E6%8B%89%E6%9
 
 墨丘利教丘比特阅读，维纳斯站在一旁。人物交错的手臂与柔和的明暗，使神话题材呈现出自然的情感联系，也体现了科雷乔对人体与光线的处理。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/correggio-venus-with-mercury-and-cupid-the-school-of-love)
+![Venus with Mercury and Cupid](/pictures/科雷乔/Correggio_-_Venus_with_Mercury_and_Cupid_The_School_of_Love_c1525_1912_-_(MeisterDrucke-741671).jpg)
 
 ### 文艺复兴后期
 
@@ -1705,13 +1709,14 @@ _1508_-_Google_Art_Project.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FAlbrecht_D%C3%BC
 阿尔泰米西亚·真蒂莱斯基（Artemisia Gentileschi，1593年—1654年或之后），意大利巴洛克画家，早年师从父亲奥拉齐奥·真蒂莱斯基，曾在罗马、佛罗伦萨、那不勒斯和伦敦等地工作。她于1616年成为佛罗伦萨素描艺术学院的女性成员。
 她吸收了卡拉瓦乔式的强烈明暗与自然主义，并以紧凑构图、身体动作和丰富织物色彩塑造有行动力的女性人物。其作品可以联系个人经历来理解，但不宜把所有宗教与历史叙事都简单解释为自传。
 
+
 ##### 朱迪斯斩杀荷罗孚尼（Judith Beheading Holofernes）
 
 约1620年，佛罗伦萨乌菲齐美术馆
 
 朱迪斯与侍女共同制服敌方将领，人物的手臂、身体重量和交错动作强化了事件的紧张感。这里指乌菲齐版本，不应与那不勒斯收藏的另一版本混淆。
 
-[作品资料：乌菲齐美术馆](https://www.uffizi.it/en/artworks/judith-beheading-holofernes)
+![朱迪斯斩杀荷罗孚尼](/pictures/阿尔泰米西亚·真蒂莱斯基/朱迪斯斩杀荷罗孚尼.jpg)
 
 ##### 扮作亚历山大里亚的圣凯瑟琳的自画像（Self Portrait as Saint Catherine of Alexandria）
 
@@ -1719,7 +1724,7 @@ _1508_-_Google_Art_Project.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FAlbrecht_D%C3%BC
 
 画家以自己的面貌表现圣凯瑟琳，配以棕榈枝和破损刑轮等圣徒标志。近距离构图与戏剧性照明突出人物坚定的目光。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/artemisia-gentileschi-self-portrait-as-saint-catherine-of-alexandria)
+![扮作亚历山大里亚的圣凯瑟琳的自画像](/pictures/阿尔泰米西亚·真蒂莱斯基/self-portrait-as-saint-catherine-of-alexandria-1615-1617-artemisia-gentileschi.jpg)
 
 #### 乔治·德·拉·图尔 -- 烛光中的静默
 
@@ -1732,7 +1737,7 @@ _1508_-_Google_Art_Project.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FAlbrecht_D%C3%BC
 
 幼年耶稣举起烛火陪伴工作的约瑟。烛光透过孩子手指的效果，以及老人粗糙的手与孩子细嫩皮肤的对比，使宗教主题具有日常生活的亲近感。
 
-[作品资料：卢浮宫](https://collections.louvre.fr/ark:/53355/cl010063817)
+![木匠圣约瑟](/pictures/乔治·德·拉·图尔/Saint_Joseph_Charpentier.jpg)
 
 ##### 方块A的作弊者（The Card Sharp with the Ace of Diamonds）
 
@@ -1740,7 +1745,7 @@ _1508_-_Google_Art_Project.jpg](pictures%2F%E4%B8%A2%E5%8B%92%2FAlbrecht_D%C3%BC
 
 人物以眼神和手势相互配合，作弊者从背后抽出纸牌，观众比受骗的青年更早察觉危险。此作也说明拉·图尔并非只画烛光宗教题材。
 
-[作品资料与参考文献：维基百科](https://en.wikipedia.org/wiki/The_Card_Sharp_with_the_Ace_of_Diamonds)
+![方块A的作弊者](/pictures/乔治·德·拉·图尔/方块A的作弊者.jpg)
 
 #### 贝尼尼 -- 巴洛克艺术之父，十七世纪最伟大的艺术大师
 
@@ -2160,7 +2165,6 @@ Rembrandt drastically cut down the painting to a quarter of the original size to
 
 ![并木林道.jpeg](pictures%2F%E7%BB%B4%E7%B1%B3%E5%B0%94%2F%E5%B9%B6%E6%9C%A8%E6%9E%97%E9%81%93.jpeg)
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/meindert-hobbema-the-avenue-at-middelharnis)
 
 ### 学院派
 
@@ -2412,7 +2416,7 @@ Rembrandt drastically cut down the painting to a quarter of the original size to
 
 这幅椭圆形作品原为宫殿天花板而作。人物的尺度、缩短法和云中位置都考虑到观众从下方远距离观看的效果；婴儿的出现可能与家族继承人的诞生有关。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/giovanni-battista-tiepolo-an-allegory-with-venus-and-time)
+![维纳斯与时间的寓言](/pictures/提埃波罗/维纳斯与时间的寓言.jpg)
 
 ##### 克娄巴特拉的宴会（The Banquet of Cleopatra）
 
@@ -2420,7 +2424,7 @@ Rembrandt drastically cut down the painting to a quarter of the original size to
 
 画面表现克娄巴特拉准备将珍珠溶入醋中的故事。这里介绍的是小幅油画草稿，而非同题的大幅成画；开放的笔触和华丽建筑展现了提埃波罗构思装饰画的方式。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/giovanni-battista-tiepolo-the-banquet-of-cleopatra)
+![克娄巴特拉的宴会](/pictures/提埃波罗/The+Banquet+of+Cleopatra+by+Giovanni+Battista+Tiepolo+Framed+Size_26x36+inches,Image+Size_20x30+inches,Golden+Frame+The+World+Classic+Art+Reproductions,Wall+Art+for+Home+Decor.webp)
 
 ### 启蒙时期的新古典主义
 
@@ -2743,7 +2747,7 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 人物站在岩石上背对观众，面对被雾遮蔽的山谷。清晰的近景与难以辨认的远方形成对比，常被理解为对自我、未知与自然崇高感的沉思。
 
-[作品资料与参考文献：维基百科](https://en.wikipedia.org/wiki/Wanderer_above_the_Sea_of_Fog)
+![雾海上的漫游者](/pictures/卡斯帕·大卫·弗里德里希/雾海上的漫游者.jpeg)
 
 ##### 冬景（Winter Landscape）
 
@@ -2751,7 +2755,7 @@ P.P.鲁本斯和J.康斯特布尔等艺术家的成就和传统，并影响了�
 
 雪地中祈祷的人、常青树与薄雾中的哥特式教堂相互呼应，使风景具有宗教象征意味。这里指英国国家美术馆版本，而非什未林收藏的另一幅同名作品。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/caspar-david-friedrich-winter-landscape)
+![冬景](/pictures/卡斯帕·大卫·弗里德里希/caspar_david_friedrich-winter_landscape-1811-obelisk-art-history.webp)
 
 ### 色彩理论
 
@@ -3389,7 +3393,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 水面上破碎的笔触、铁路桥和蒸汽烟云共同表现现代城市的活动，也体现了印象派对当代生活的关注。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/alfred-sisley-view-of-the-thames-charing-cross-bridge)
+![查令十字桥](/pictures/西斯莱/查令十字桥.jpg)
 
 ##### 马尔利勒鲁瓦的饮马池（The Watering Place at Marly-le-Roi）
 
@@ -3397,7 +3401,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 冬日的池水、道路和低矮建筑形成简明构图。薄涂的色层与迅速的笔触保留了画家观察寒冷天气时的直接感受。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/alfred-sisley-the-watering-place-at-marly-le-roi)
+![马尔利勒鲁瓦的饮马池](/pictures/西斯莱/马尔利勒鲁瓦的饮马池.jpg)
 
 #### 贝尔特·莫里索 -- 印象派日常生活的观察者
 
@@ -3410,7 +3414,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 两位女性坐在布洛涅林苑湖上的小舟中，锯齿般的笔触使衣裙、水面和树叶充满光的运动感。近距离取景让观众仿佛与人物同在船上。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/berthe-morisot-summer-s-day)
+![夏日](/pictures/贝尔特·莫里索/summer-s-day-1879.jpg)
 
 ##### 长沙发上的少女（Girl on a Divan）
 
@@ -3418,7 +3422,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 人物放松的姿态、转头的动作和衣服上的蓝橙色笔触，使肖像兼具安静的心理状态与活跃的画面节奏。模特身份尚不明确。
 
-[作品资料：英国国家美术馆](https://www.nationalgallery.org.uk/paintings/berthe-morisot-girl-on-a-divan)
+![长沙发上的少女](/pictures/贝尔特·莫里索/girl-on-a-divan-berthe-morisot-roberto-morgenthaler.jpg)
 
 #### 玛丽·卡萨特 -- 亲密生活与版画探索
 
@@ -3431,7 +3435,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 成人扶住孩子，为其洗脚。陡峭的俯视角度和衣裙、地毯上的图案压缩了空间，使接触与照料的动作成为画面的情感中心。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/111442/the-child-s-bath)
+![洗浴](/pictures/玛丽·卡萨特/The%20Child's%20Bath.jpg)
 
 ##### 沐浴的女人（Woman Bathing）
 
@@ -3439,7 +3443,7 @@ _1866_(2).jpg](pictures%2F%E9%A9%AC%E5%A5%88%2FManet%2C_Edouard_-_Young_Flautist
 
 这幅彩色版画以洗漱中的女性为题，通过镜中倒影、身体曲线和多种装饰图案组织画面，体现了卡萨特对日本版画形式的研究。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/13506/woman-bathing)
+![沐浴的女人](/pictures/玛丽·卡萨特/Woman%20Bathing.jpg)
 
 ### 19世纪雕塑
 
@@ -4021,7 +4025,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 高饱和度的红、橙、黄色与富有方向感的笔触体现了布拉克的野兽派阶段，同时也可看到他对塞尚式结构的研究。此作不是1908年的《埃斯塔克的房屋》。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/119521/landscape-at-l-estaque)
+![埃斯塔克风景](/pictures/乔治·布拉克/埃斯塔克风景.jpg)
 
 ##### 诺曼底的小港口（Little Harbor in Normandy）
 
@@ -4029,7 +4033,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 帆船、海岸和建筑被压缩为严谨的几何结构，色调趋于克制。移动的视点与紧张的空间关系展现了布拉克早期立体主义的探索。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/109330/little-harbor-in-normandy)
+![诺曼底的小港口](/pictures/乔治·布拉克/harbor-in-normandy-1909.jpg)
 
 ### 新艺术运动
 
@@ -4199,7 +4203,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 画家强调耶稣的犹太身份，并将受难主题与周围的迫害、逃亡和燃烧场景联系起来，以宗教图像回应当时欧洲犹太人的处境。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/59426/white-crucifixion)
+![白色受难](/pictures/马克·夏加尔/白色受难.jpg)
 
 ##### 美国之窗（America Windows）
 
@@ -4207,7 +4211,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 这组彩色玻璃窗以音乐、绘画、文学、建筑、戏剧与舞蹈等主题庆祝美国建国二百周年，说明夏加尔的色彩探索也延伸到大型公共艺术。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/109439/america-windows)
+![美国之窗](/pictures/马克·夏加尔/美国之窗.jpg)
 
 ### 达达主义
 
@@ -4340,7 +4344,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 一支烟斗的图像下写着“这不是一支烟斗”。文字并非简单否认画面，而是在提醒我们：描绘烟斗的图像不等于可以使用的真实烟斗。
 
-[作品资料：洛杉矶郡艺术博物馆](https://collections.lacma.org/node/239578)
+![图像的背叛](/pictures/勒内·马格利特/图像的背叛.webp)
 
 ##### 被刺穿的时间（Time Transfixed，又译《凝固的时间》）
 
@@ -4348,7 +4352,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 蒸汽机车从家庭壁炉中伸出，工业交通与室内生活被意外连接。烟雾成为两种物象之间的纽带，使画面在荒诞之外仍保留内在的视觉逻辑。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/34181/la-duree-poignardee-time-transfixed)
+![被刺穿的时间](/pictures/勒内·马格利特/被刺穿的时间.jpg)
 
 #### 米罗 -- 西班牙梦幻的超现实主义画家
 
@@ -4435,7 +4439,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 点状笔触、几何形与红色太阳形成有节奏的图案。可辨认的形象与抽象结构相互平衡，体现了克利把音乐性的秩序转化为视觉形式的尝试。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/61608/sunset)
+![日落](/pictures/保罗·克利/日落.jpg)
 
 ##### 在魔镜中（In the Magic Mirror）
 
@@ -4443,7 +4447,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 蜿蜒的红线构成人脸，轻薄的色层与紧张的五官形成对比。此作把简化符号与心理表现结合起来，也与克利在纳粹上台后迁居瑞士的时期有关。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/111666/in-the-magic-mirror)
+![在魔镜中](/pictures/保罗·克利/在魔镜中.jpg)
 
 #### 马列维奇
 
@@ -4553,7 +4557,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 松散的色形悬浮在薄涂背景上，体现了罗斯科从较自由的抽象形态走向成熟色域构图的过渡。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/6010/number-19)
+![第19号](/pictures/马克·罗斯科/第19号.jpg)
 
 ##### 无题（紫、白与红）（Untitled: Purple, White, and Red）
 
@@ -4561,7 +4565,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 上下堆叠的色块似乎漂浮在画布之内，细微的边缘与色层变化使颜色产生光感。作品重视观看过程中形成的情绪关系，而非对现实物象的描绘。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/100472/untitled-purple-white-and-red)
+![无题（紫、白与红）](/pictures/马克·罗斯科/无题（紫、白与红）.jpg)
 
 ### 波普艺术
 
@@ -4607,7 +4611,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 深夜餐馆的电灯照亮顾客与服务员，玻璃窗把他们与空旷街道隔开。人物相近却缺少交流，构图与照明强化了城市生活中的孤独感。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/111628/nighthawks)
+![夜游者](/pictures/爱德华·霍珀/夜游者.jpg)
 
 ##### 格洛斯特的宅邸（Gloucester Mansions）
 
@@ -4615,7 +4619,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 这幅水彩以海滨城镇的维多利亚式住宅为题，表现建筑体积与明亮日光之间的关系，展现了霍珀在油画之外的媒介探索。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/14749/gloucester-mansions)
+![格洛斯特的宅邸](/pictures/爱德华·霍珀/格洛斯特的宅邸.jpg)
 
 ### 超级写实主义
 
@@ -4644,7 +4648,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 三个面板中的变形生物处在鲜明的橙色背景上。作品借用受难主题的框架，却没有直接再现传统宗教场景，体现了培根对人类痛苦的独特表现。
 
-[作品资料：泰特美术馆](https://www.tate.org.uk/art/artworks/bacon-three-studies-for-figures-at-the-base-of-a-crucifixion-n06171)
+![受难图底部的人物三习作](/pictures/弗朗西斯·培根/受难图底部的人物三习作.jpg)
 
 #### 人物与肉（Figure with Meat）
 
@@ -4652,7 +4656,7 @@ _Starry_Night_-_Google_Art_Project.jpg](pictures%2F%E6%A2%B5%E9%AB%98%2FVan_Gogh
 
 画家重新处理委拉斯开兹的教皇肖像，把模糊、似在尖叫的人物与悬挂的牛肉胴体并置。权威形象被转化为脆弱的身体，也让这幅作品与前文的巴洛克肖像画形成对照。
 
-[作品资料：芝加哥艺术博物馆](https://www.artic.edu/artworks/4884/figure-with-meat)
+![人物与肉](/pictures/弗朗西斯·培根/人物与肉.jpg)
 
 ### 弗洛伊德 -- 英国当代最伟大的表现主义画家
 
